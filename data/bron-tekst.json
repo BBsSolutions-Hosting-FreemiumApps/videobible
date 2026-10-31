@@ -1,0 +1,29 @@
+{
+  "vertaling": "NBG 1951",
+  "status": "opgenomen",
+  "opgehaaldOp": "2026-10-31",
+  "bronUrl": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "bronPagina": "https://ebible.org/Bible/details.php?id=nldnbg",
+  "leesPagina": "https://ebible.org/nldnbg/",
+  "gitLab": "https://gitlab.com/jtdaling/nbg-vertaling-1951",
+  "publiekeRechten": "Auteursrecht © 2026 Elohim YHWH Bijbel",
+  "publiekeRechtenUrl": "https://elohim-yhwh-bijbel.nl/",
+  "initiatiefnemer": "Jan Smit, maker van de Elohim YHWH Bijbel",
+  "vermelding": "copyright © 2024 Jantinus Daling. Released under the GNU Free Documentation License. https://www.gnu.org/licenses/fdl-1.3.en.html",
+  "bevestigingBen": "Ben bevestigde op 31-10-2026 dat de NBG 1951 op deze site gebruikt mag worden.",
+  "toelichting": "De verzen zijn letterlijk uit de USFM-bestanden van het eBible-zipbestand gehaald (bestanden gedateerd 30 oktober 2026 in de zip). Ze zijn niet overgetypt, aangevuld of uit het hoofd geschreven. Tussentitels (USFM-markering s1) zijn niet in de leestekst gezet. In de bron staat bij Deuteronomium een kapotte inhoudsregel (DeuteronoDeum); de getoonde naam komt uit de kopregel \\h Deuteronomium. De verzen van dat boek bevatten die fout niet.",
+  "samengevoegdeVerzen": [
+    "1 Samuël 4:1b",
+    "Ezra 7:28b",
+    "Marcus 6:6b",
+    "Marcus 12:37b",
+    "Lucas 9:43b",
+    "Lucas 23:56b",
+    "Johannes 19:16b",
+    "Handelingen 9:19b",
+    "1 Timoteüs 6:2b"
+  ],
+  "boeken": 66,
+  "hoofdstukken": 1189,
+  "verzen": 31167
+}

@@ -1,0 +1,361 @@
+{
+  "boek": "2tim",
+  "naam": "2 Timoteüs",
+  "testament": "NT",
+  "voorbeeld": false,
+  "bron": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "hoofdstukken": [
+    {
+      "nr": 1,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Paulus, een apostel van Christus Jezus door de wil Gods naar de belofte des levens in Christus Jezus,"
+        },
+        {
+          "nr": 2,
+          "tekst": "aan Timoteüs, mijn geliefd kind: genade, barmhartigheid en vrede zij u van God, de Vader, en van Christus Jezus, onze Here."
+        },
+        {
+          "nr": 3,
+          "tekst": "Ik breng dank aan God, die ik, evenals mijn voorouders, met een rein geweten dien, dat ik u onophoudelijk mag gedenken in mijn gebeden, nacht en dag;"
+        },
+        {
+          "nr": 4,
+          "tekst": "immers, als ik denk aan uw tranen, verlang ik u te zien om met blijdschap vervuld te worden;"
+        },
+        {
+          "nr": 5,
+          "tekst": "en dan komt mij voor de geest uw ongeveinsd geloof, zoals het eerst gewoond heeft in uw grootmoeder Loïs en uw moeder Eunike, en ook – daarvan ben ik overtuigd – (woont) in u."
+        },
+        {
+          "nr": 6,
+          "tekst": "Om die reden herinner ik u eraan, de gave Gods aan te wakkeren, die door mijn handoplegging in u is."
+        },
+        {
+          "nr": 7,
+          "tekst": "Want God heeft ons niet gegeven een geest van lafhartigheid, maar van kracht, van liefde en van bezonnenheid."
+        },
+        {
+          "nr": 8,
+          "tekst": "Schaam u dus niet voor het getuigenis van onze Here of voor mij, zijn gevangene, maar wees mede bereid voor het evangelie te lijden in de kracht van God,"
+        },
+        {
+          "nr": 9,
+          "tekst": "die ons behouden heeft en geroepen met een heilige roeping, niet naar onze werken, maar naar zijn eigen voornemen en de genade, die ons in Christus Jezus gegeven is vóór eeuwige tijden,"
+        },
+        {
+          "nr": 10,
+          "tekst": "doch die nu geopenbaard is door de verschijning van onze Heiland, Christus Jezus, die de dood van zijn kracht heeft beroofd en onvergankelijk leven aan het licht gebracht heeft door het evangelie."
+        },
+        {
+          "nr": 11,
+          "tekst": "En ík ben daartoe aangesteld als verkondiger, apostel en leraar."
+        },
+        {
+          "nr": 12,
+          "tekst": "Om die reden draag ik ook dit lijden en ik schaam mij daarvoor niet, want ik weet, op wie ik mijn vertrouwen heb gevestigd, en ik ben ervan overtuigd, dat Hij bij machte is, hetgeen Hij mij toevertrouwd heeft, te bewaren tot die dag."
+        },
+        {
+          "nr": 13,
+          "tekst": "Neem tot voorbeeld de gezonde woorden, die gij van mij gehoord hebt, in het geloof en de liefde, die in Christus Jezus is."
+        },
+        {
+          "nr": 14,
+          "tekst": "Bewaar door de heilige Geest, die in ons woont, het goede, dat u is toevertrouwd."
+        },
+        {
+          "nr": 15,
+          "tekst": "Dit weet gij, dat allen in Asia zich van mij hebben afgekeerd, onder anderen Fygelus en Hermogenes."
+        },
+        {
+          "nr": 16,
+          "tekst": "De Here bewijze barmhartigheid aan het huis van Onesiforus, daar hij mij dikwijls heeft verkwikt en zich voor mijn ketenen niet heeft geschaamd."
+        },
+        {
+          "nr": 17,
+          "tekst": "Integendeel, toen hij te Rome gekomen was, heeft hij mij ijverig gezocht en mij ook gevonden;"
+        },
+        {
+          "nr": 18,
+          "tekst": "– de Here geve hem, dat hij barmhartigheid bij de Here vinde op die dag – en hoevele goede diensten hij te Efeze bewezen heeft, weet gij zelf het best."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Gij dan, mijn kind, wees krachtig in de genade van Christus Jezus,"
+        },
+        {
+          "nr": 2,
+          "tekst": "en wat gij van mij gehoord hebt onder vele getuigen, vertrouw dat toe aan vertrouwde mensen, die bekwaam zullen zijn om ook anderen te onderrichten."
+        },
+        {
+          "nr": 3,
+          "tekst": "Lijd met de anderen als een goed soldaat van Christus Jezus."
+        },
+        {
+          "nr": 4,
+          "tekst": "Tijdens de veldtocht wordt geen soldaat gemoeid in de zorg voor zijn onderhoud; hij heeft (slechts) hem te voldoen, door wie hij aangeworven is."
+        },
+        {
+          "nr": 5,
+          "tekst": "En is iemand een kampvechter, dan ontvangt hij de krans alleen, als hij volgens de regels van de kamp heeft gestreden."
+        },
+        {
+          "nr": 6,
+          "tekst": "De landman, die de zware arbeid verricht, moet het eerst van de vruchten genieten."
+        },
+        {
+          "nr": 7,
+          "tekst": "Let wel op wat ik zeg, want de Here zal u in alles inzicht geven."
+        },
+        {
+          "nr": 8,
+          "tekst": "Gedenk, dat Jezus Christus uit de doden is opgewekt, uit het geslacht van David, naar mijn evangelie,"
+        },
+        {
+          "nr": 9,
+          "tekst": "waarvoor ik kwaad lijd en zelfs boeien draag als een misdadiger. Maar het woord van God is niet geboeid."
+        },
+        {
+          "nr": 10,
+          "tekst": "Om deze reden wil ik alles verdragen, om de uitverkorenen, opdat ook zij het heil in Christus Jezus verkrijgen met eeuwige heerlijkheid."
+        },
+        {
+          "nr": 11,
+          "tekst": "Het woord is betrouwbaar: immers, indien wij met Hem gestorven zijn, zullen wij ook met Hem leven;"
+        },
+        {
+          "nr": 12,
+          "tekst": "indien wij volharden, zullen wij ook met Hem als koningen heersen; indien wij Hem zullen verloochenen, zal ook Hij ons verloochenen;"
+        },
+        {
+          "nr": 13,
+          "tekst": "indien wij ontrouw zijn, Hij blijft getrouw, want Zichzelf verloochenen kan Hij niet."
+        },
+        {
+          "nr": 14,
+          "tekst": "Blijf dit in herinnering brengen en betuig in de tegenwoordigheid van God, dat men geen woordenstrijd moet voeren, die tot niets nut is, (ja) verderf brengt aan wie ernaar horen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Maak er ernst mede u wèl beproefd ten dienste van God te stellen, als een arbeider, die zich niet behoeft te schamen, doch rechte voren trekt bij het brengen van het woord der waarheid."
+        },
+        {
+          "nr": 16,
+          "tekst": "Maar vermijd de onheilige, holle klanken; want zij zullen de goddeloosheid nog verder drijven,"
+        },
+        {
+          "nr": 17,
+          "tekst": "en hun woord zal voortwoekeren als de kanker. Tot hen behoren Hymeneüs en Filetus,"
+        },
+        {
+          "nr": 18,
+          "tekst": "die uit het spoor der waarheid geraakt zijn met hun bewering, dat de opstanding reeds heeft plaatsgehad, waardoor zij het geloof van sommigen afbreken."
+        },
+        {
+          "nr": 19,
+          "tekst": "En toch staat ongeschokt het hechte fundament Gods met dit merk: De Here kent de zijnen, en: Een ieder, die de naam des Heren noemt, breke met de ongerechtigheid."
+        },
+        {
+          "nr": 20,
+          "tekst": "Doch in een groot huis zijn niet alleen voorwerpen van goud en van zilver, maar ook van hout en van aardewerk, en wel deels met eervolle, deels met minder eervolle bestemming;"
+        },
+        {
+          "nr": 21,
+          "tekst": "indien iemand zich nu hiervan gereinigd heeft, zal hij een voorwerp zijn met eervolle bestemming, geheiligd, bruikbaar voor de eigenaar, voor iedere goede taak gereed."
+        },
+        {
+          "nr": 22,
+          "tekst": "Schuw de begeerten der jeugd en jaag naar gerechtigheid, naar trouw, naar liefde en vrede met hen, die de Here aanroepen uit een rein hart."
+        },
+        {
+          "nr": 23,
+          "tekst": "Maar wees afkerig van de dwaze en onverstandige strijdvragen; gij weet immers, dat zij twisten teweegbrengen;"
+        },
+        {
+          "nr": 24,
+          "tekst": "en een dienstknecht des Heren moet niet twisten, maar vriendelijk zijn jegens allen, bekwaam om te onderwijzen, geduldig,"
+        },
+        {
+          "nr": 25,
+          "tekst": "met zachtmoedigheid de dwarsdrijvers bestraffende. Het kon zijn, dat God hun gaf zich tot erkentenis der waarheid te keren"
+        },
+        {
+          "nr": 26,
+          "tekst": "en, ontnuchterd, zich te wenden tot de wil van Hem, (losgekomen) uit de strik des duivels, die hen gevangen hield."
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Weet wel, dat er in de laatste dagen zware tijden zullen komen:"
+        },
+        {
+          "nr": 2,
+          "tekst": "want de mensen zullen zelfzuchtig zijn, geldgierig, pochers, vermetel, kwaadsprekers, aan hun ouders ongehoorzaam, ondankbaar, onheilig,"
+        },
+        {
+          "nr": 3,
+          "tekst": "liefdeloos, trouweloos, lasteraars, onmatig, onhandelbaar, afkerig van het goede,"
+        },
+        {
+          "nr": 4,
+          "tekst": "verraderlijk, roekeloos, opgeblazen, met meer liefde voor genot dan voor God,"
+        },
+        {
+          "nr": 5,
+          "tekst": "die met een schijn van godsvrucht de kracht daarvan verloochend hebben; houd ook dezen op een afstand."
+        },
+        {
+          "nr": 6,
+          "tekst": "Want tot hen behoren zij, die zich in de huizen indringen en vrouwtjes weten in te palmen, die met zonden beladen zijn en gedreven worden door velerlei begeerten,"
+        },
+        {
+          "nr": 7,
+          "tekst": "die zich te allen tijde laten leren, zonder ooit tot erkentenis der waarheid te kunnen komen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Zoals Jannes en Jambres, de tegenstanders van Mozes, staan ook dezen de waarheid tegen; het zijn mensen, wier denken bedorven is, en wier geloof de toets niet kan doorstaan."
+        },
+        {
+          "nr": 9,
+          "tekst": "Maar zij zullen het niet veel verder brengen, want hun onzinnigheid zal aan allen overduidelijk worden, zoals ook bij genen het geval was."
+        },
+        {
+          "nr": 10,
+          "tekst": "Gij daarentegen hebt volle aandacht geschonken aan mijn onderricht, wijze van doen, bedoeling, geloof, lankmoedigheid, liefde, volharding,"
+        },
+        {
+          "nr": 11,
+          "tekst": "vervolgingen en lijden, zoals mij getroffen hebben te Antiochië, te Ikonium en te Lystra. Al die vervolgingen heb ik doorstaan en de Here heeft mij uit alle gered."
+        },
+        {
+          "nr": 12,
+          "tekst": "Trouwens, allen, die in Christus Jezus godvruchtig willen leven, zullen vervolgd worden."
+        },
+        {
+          "nr": 13,
+          "tekst": "Maar slechte mensen en bedriegers zullen van kwaad tot erger komen; zij verleiden en worden verleid."
+        },
+        {
+          "nr": 14,
+          "tekst": "Blijf gij echter bij wat u geleerd en toevertrouwd is, wèl bewust van wie gij het hebt geleerd,"
+        },
+        {
+          "nr": 15,
+          "tekst": "en dat gij van kindsbeen af de heilige schriften kent, die u wijs kunnen maken tot zaligheid door het geloof in Christus Jezus."
+        },
+        {
+          "nr": 16,
+          "tekst": "Elk van God ingegeven schriftwoord is ook nuttig om te onderrichten, te weerleggen, te verbeteren en op te voeden in de gerechtigheid,"
+        },
+        {
+          "nr": 17,
+          "tekst": "opdat de mens Gods volkomen zij, tot alle goed werk volkomen toegerust."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Ik betuig u nadrukkelijk voor God en Christus Jezus, die levenden en doden zal oordelen, met beroep zowel op zijn verschijning als op zijn koningschap:"
+        },
+        {
+          "nr": 2,
+          "tekst": "verkondig het woord, dring erop aan, gelegen of ongelegen, wederleg, bestraf en bemoedig met alle lankmoedigheid en onderrichting."
+        },
+        {
+          "nr": 3,
+          "tekst": "Want er komt een tijd, dat (de mensen) de gezonde leer niet (meer) zullen verdragen, maar omdat hun gehoor verwend is, naar hun eigen begeerte zich (tal van) leraars zullen bijeenhalen,"
+        },
+        {
+          "nr": 4,
+          "tekst": "dat zij hun oor van de waarheid zullen afkeren en zich naar de verdichtsels keren."
+        },
+        {
+          "nr": 5,
+          "tekst": "Blijf gij echter nuchter onder alles, aanvaard het lijden, doe het werk van een evangelist, verricht uw dienst ten volle."
+        },
+        {
+          "nr": 6,
+          "tekst": "Want wat mij aangaat, reeds word ik als plengoffer geofferd en het tijdstip van mijn verscheiden staat voor de deur."
+        },
+        {
+          "nr": 7,
+          "tekst": "Ik heb de goede strijd gestreden, ik heb mijn loop ten einde gebracht, ik heb het geloof behouden;"
+        },
+        {
+          "nr": 8,
+          "tekst": "voorts ligt voor mij gereed de krans der rechtvaardigheid, welke te dien dage de Here, de rechtvaardige rechter, mij zal geven, doch niet alleen mij, maar ook allen, die zijn verschijning hebben liefgehad."
+        },
+        {
+          "nr": 9,
+          "tekst": "Doe uw best spoedig tot mij te komen."
+        },
+        {
+          "nr": 10,
+          "tekst": "Want Demas heeft mij uit liefde voor de tegenwoordige wereld verlaten. Hij is naar Tessalonica vertrokken, Crescens naar Galatië, Titus naar Dalmatië."
+        },
+        {
+          "nr": 11,
+          "tekst": "Alleen Lucas is nog bij mij. Haal Marcus af en breng hem mede, want hij is mij van veel nut voor de dienst."
+        },
+        {
+          "nr": 12,
+          "tekst": "Tychikus heb ik naar Efeze gezonden."
+        },
+        {
+          "nr": 13,
+          "tekst": "Als gij komt, breng dan de mantel mede, die ik te Troas bij Karpus liet liggen, en ook de boeken, vooral de perkamenten."
+        },
+        {
+          "nr": 14,
+          "tekst": "Alexander, de koperslager, heeft mij veel kwaad berokkend: de Here zal hem vergelden naar zijn werken."
+        },
+        {
+          "nr": 15,
+          "tekst": "Neem gij u ook voor hem in acht, want hij heeft onze woorden zeer tegengewerkt."
+        },
+        {
+          "nr": 16,
+          "tekst": "Bij mijn eerste verdediging heeft niemand mij bijgestaan, maar allen hebben mij in de steek gelaten – het worde hun niet toegerekend;"
+        },
+        {
+          "nr": 17,
+          "tekst": "doch de Here heeft mij ter zijde gestaan en kracht gegeven, zodat door mij de verkondiging tot haar recht gekomen is en al de heidenen haar hebben kunnen horen; en ik ben uit de muil van de leeuw verlost."
+        },
+        {
+          "nr": 18,
+          "tekst": "De Here zal mij beveiligen tegen alle boos opzet en behouden in zijn hemels Koninkrijk brengen. Hem zij de heerlijkheid in alle eeuwigheid! Amen."
+        },
+        {
+          "nr": 19,
+          "tekst": "Groet Prisca en Aquila en het huis van Onesiforus."
+        },
+        {
+          "nr": 20,
+          "tekst": "Erastus is te Korinte gebleven, Trofimus heb ik ziek achtergelaten te Milete."
+        },
+        {
+          "nr": 21,
+          "tekst": "Doe uw best vóór de winter te komen. Eubulus, Pudens, Linus, Claudia en alle broeders laten u groeten."
+        },
+        {
+          "nr": 22,
+          "tekst": "De Here zij met uw geest. De genade zij met ulieden."
+        }
+      ]
+    }
+  ]
+}

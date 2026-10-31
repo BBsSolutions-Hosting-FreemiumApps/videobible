@@ -1,0 +1,16 @@
+---
+import Basis from '../../layouts/Basis.astro';
+import { seo } from '../../lib/seo';
+---
+<Basis titel={seo.blog.titel} beschrijving={seo.blog.beschrijving}>
+  <div class="pagina proza">
+    <h1>Theologie-updates</h1>
+    <p>Achtergronden en nieuwe artikelen over bijbelteksten, vertalingen en bijbelonderzoek. Ruimte voor vragen, bronnen en verschillende inzichten.</p>
+    <label class="veld">Onderwerp
+      <select disabled>
+        <option>Alle onderwerpen</option>
+      </select>
+    </label>
+    <p>Hier verschijnen artikelen zodra ze zijn gepubliceerd.</p>
+  </div>
+</Basis>

@@ -1,0 +1,79 @@
+---
+import '@fontsource/cormorant-garamond/latin-600.css';
+import '@fontsource/cormorant-garamond/latin-600-italic.css';
+import '@fontsource/literata/latin-400.css';
+import '@fontsource/inter/latin-400.css';
+import '@fontsource/inter/latin-500.css';
+import '@fontsource/inter/latin-600.css';
+import '../styles/tokens.css';
+import '../styles/site.css';
+import Kopbalk from '../components/Kopbalk.astro';
+import Voettekst from '../components/Voettekst.astro';
+import { basis } from '../lib/paden';
+
+interface Props {
+  titel: string;
+  beschrijving: string;
+  boekId?: string;
+  hoofdstuk?: number;
+}
+const { titel, beschrijving, boekId = 'joh', hoofdstuk = 3 } = Astro.props;
+const canoniek = new URL(Astro.url.pathname, Astro.site).href;
+---
+<!doctype html>
+<html lang="nl" data-basis={basis()}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{titel}</title>
+    <meta name="description" content={beschrijving} />
+    <link rel="canonical" href={canoniek} />
+    <meta name="theme-color" content="#1F2A44" id="thema-kleur" />
+    <link rel="icon" href={`${basis()}favicon.svg`} type="image/svg+xml" />
+    <script is:inline>
+      (function () {
+        try {
+          var ruw = localStorage.getItem('vb-instellingen');
+          var inst = ruw ? JSON.parse(ruw) : null;
+          var thema = inst && inst.thema === 'donker' ? 'donker' : 'licht';
+          document.documentElement.setAttribute('data-thema', thema);
+          if (inst && inst.lettergrootte) {
+            document.documentElement.setAttribute('data-lettergrootte', inst.lettergrootte);
+          }
+          if (inst && inst.versnummers === false) {
+            document.documentElement.setAttribute('data-versnummers', 'uit');
+          }
+          var meta = document.getElementById('thema-kleur');
+          if (meta) meta.setAttribute('content', thema === 'donker' ? '#141B2D' : '#1F2A44');
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <a class="overslaan" href="#inhoud">Ga naar de inhoud</a>
+    <Kopbalk boekId={boekId} hoofdstuk={hoofdstuk} vast={Astro.url.pathname.includes('/lezen/') && /\/lezen\/[^/]+\/\d+\/?$/.test(Astro.url.pathname)} />
+    <main id="inhoud">
+      <slot />
+    </main>
+    <Voettekst />
+    <dialog id="leesinstellingen" class="dialoog" aria-labelledby="leesinstellingen-titel">
+      <h2 id="leesinstellingen-titel">Leesinstellingen</h2>
+      <p>Pas de tekst aan voor prettig lezen. De gekozen instellingen blijven op dit apparaat bewaard.</p>
+      <fieldset class="keuzes">
+        <legend>Tekstgrootte</legend>
+        <button type="button" id="tekst-kleiner">Kleiner</button>
+        <button type="button" id="tekst-groter">Groter</button>
+      </fieldset>
+      <fieldset class="keuzes">
+        <legend>Licht of donker</legend>
+        <label><input type="radio" name="thema" value="licht" /> Licht</label>
+        <label><input type="radio" name="thema" value="donker" /> Donker</label>
+      </fieldset>
+      <label><input type="checkbox" id="versnummers" checked /> Versnummers tonen</label>
+      <p><button type="button" class="knop" id="instellingen-sluiten">Sluiten</button></p>
+    </dialog>
+    <script>
+      import '../scripts/start.ts';
+    </script>
+  </body>
+</html>

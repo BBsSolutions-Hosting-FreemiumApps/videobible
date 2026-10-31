@@ -1,0 +1,638 @@
+{
+  "boek": "am",
+  "naam": "Amos",
+  "testament": "OT",
+  "voorbeeld": false,
+  "bron": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "hoofdstukken": [
+    {
+      "nr": 1,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De woorden, die Amos, een van de schapenfokkers uit Tekoa, geschouwd heeft over Israël in de dagen van Uzzia, koning van Juda, en in de dagen van Jerobeam, zoon van Joas, koning van Israël, twee jaar vóór de aardbeving."
+        },
+        {
+          "nr": 2,
+          "tekst": "Hij zeide: De Here brult uit Sion en uit Jeruzalem verheft Hij zijn stem, zodat de weiden der herders treuren en de top van de Karmel verdort."
+        },
+        {
+          "nr": 3,
+          "tekst": "Zo zegt de Here: Om drie overtredingen van Damascus, ja om vier, zal Ik het niet herroepen. Omdat zij Gilead met ijzeren dorssleden gedorst hebben,"
+        },
+        {
+          "nr": 4,
+          "tekst": "zal Ik vuur werpen in Hazaëls huis, zodat het Benhadads burchten verteert,"
+        },
+        {
+          "nr": 5,
+          "tekst": "en zal Ik de grendel van Damascus verbreken, en de inwoners uitroeien uit Bikat-Awen, en de scepterdrager uit Bet-Eden, en Arams bevolking zal in ballingschap gaan naar Kir, – zegt de Here."
+        },
+        {
+          "nr": 6,
+          "tekst": "Zo zegt de Here: Om drie overtredingen van Gaza, ja om vier, zal Ik het niet herroepen. Omdat zij een gehele bevolking hebben weggevoerd om die aan Edom uit te leveren,"
+        },
+        {
+          "nr": 7,
+          "tekst": "zal Ik vuur werpen binnen de muur van Gaza, zodat het zijn burchten verteert,"
+        },
+        {
+          "nr": 8,
+          "tekst": "en zal Ik de inwoners uit Asdod uitroeien en de scepterdrager uit Askelon, en zal Ik mijn hand keren tegen Ekron, zodat de rest der Filistijnen te gronde gaat, – zegt de Here Here."
+        },
+        {
+          "nr": 9,
+          "tekst": "Zo zegt de Here: Om drie overtredingen van Tyrus, ja om vier, zal Ik het niet herroepen. Omdat zij een gehele bevolking aan Edom hebben uitgeleverd en aan geen broederbond hebben gedacht,"
+        },
+        {
+          "nr": 10,
+          "tekst": "zal Ik vuur werpen binnen de muur van Tyrus, zodat het zijn burchten verteert."
+        },
+        {
+          "nr": 11,
+          "tekst": "Zo zegt de Here: Om drie overtredingen van Edom, ja om vier, zal Ik het niet herroepen. Omdat hij zijn broeder met het zwaard heeft vervolgd en zijn medelijden heeft verstikt, zodat zijn toorn eeuwig verscheurt en hij zijn gramschap immer blijft koesteren,"
+        },
+        {
+          "nr": 12,
+          "tekst": "zal Ik vuur werpen in Teman, zodat het Bosra’s burchten verteert."
+        },
+        {
+          "nr": 13,
+          "tekst": "Zo zegt de Here: Om drie overtredingen der Ammonieten, ja om vier, zal Ik het niet herroepen. Omdat zij de zwangere vrouwen van Gilead hebben opengereten, ten einde hun eigen gebied uit te breiden,"
+        },
+        {
+          "nr": 14,
+          "tekst": "zal Ik een vuur ontsteken binnen de muur van Rabba, zodat het zijn burchten verteert, onder krijgsgeschreeuw ten dage van de strijd, bij stormgehuil ten dage van de orkaan,"
+        },
+        {
+          "nr": 15,
+          "tekst": "en hun koning zal in ballingschap gaan, hij samen met zijn vorsten, – zegt de Here."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Zo zegt de Here: Om drie overtredingen van Moab, ja om vier, zal Ik het niet herroepen. Omdat hij het gebeente van Edoms koning tot kalk verbrand heeft,"
+        },
+        {
+          "nr": 2,
+          "tekst": "zal Ik vuur werpen in Moab, zodat het Keriots burchten verteert, en omkomen zal Moab in het slaggewoel, onder krijgsgeschreeuw, bij trompetgeschal,"
+        },
+        {
+          "nr": 3,
+          "tekst": "en Ik zal uit zijn midden de heerser uitroeien en al zijn vorsten met hem doden, – zegt de Here."
+        },
+        {
+          "nr": 4,
+          "tekst": "Zo zegt de Here: Om drie overtredingen van Juda, ja om vier, zal Ik het niet herroepen. Omdat zij de wet des Heren verworpen en zijn inzettingen niet onderhouden hebben, maar hun leugengoden, die hun vaderen reeds achternaliepen, hen hebben verleid,"
+        },
+        {
+          "nr": 5,
+          "tekst": "zal Ik vuur werpen in Juda, zodat het Jeruzalems burchten verteert."
+        },
+        {
+          "nr": 6,
+          "tekst": "Zo zegt de Here: Om drie overtredingen van Israël, ja om vier, zal Ik het niet herroepen. Omdat zij de rechtvaardige voor geld verkopen en de arme om een paar schoenen –"
+        },
+        {
+          "nr": 7,
+          "tekst": "zij die ernaar snakken, dat stof van de aarde zij op het hoofd der geringen, en die de weg der weerlozen ombuigen; en een man en zijn vader gaan naar hetzelfde meisje, om mijn heilige naam te ontwijden;"
+        },
+        {
+          "nr": 8,
+          "tekst": "op verpande klederen strekken zij zich uit naast elk altaar, en de wijn der beboeten drinken zij in hun godshuizen;"
+        },
+        {
+          "nr": 9,
+          "tekst": "en Ik had nog wel de Amoriet verdelgd voor hun aangezicht, al was hij dan hoog als de ceders en sterk als de eiken; ja Ik roeide zijn vrucht uit van boven en zijn wortels beneden;"
+        },
+        {
+          "nr": 10,
+          "tekst": "en Ik had u nog wel uit het land Egypte gevoerd en u veertig jaren in de woestijn geleid, opdat gij het land der Amorieten in bezit zoudt nemen;"
+        },
+        {
+          "nr": 11,
+          "tekst": "en uit uw zonen verwekte Ik er tot profeten en uit uw jongelingen tot nazireeërs. Is dat soms niet zo, gij Israëlieten? luidt het woord des Heren."
+        },
+        {
+          "nr": 12,
+          "tekst": "Maar gij gaaft de nazireeërs wijn te drinken, en geboodt de profeten: Gij moogt niet profeteren!"
+        },
+        {
+          "nr": 13,
+          "tekst": "Zie, Ik maak, dat het onder u zal kraken, gelijk een wagen kraakt, van garven overvol."
+        },
+        {
+          "nr": 14,
+          "tekst": "Dan zal aan de snelle de vlucht afgesneden zijn, de sterke zal zijn kracht niet kunnen ontplooien en de krijgsheld zal er het leven niet afbrengen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Ook de boogschutter zal niet standhouden en de snelvoetige zal niet ontkomen en de ruiter zal er het leven niet afbrengen."
+        },
+        {
+          "nr": 16,
+          "tekst": "Ja, de kloekhartigste onder de helden zal te dien dage naakt wegvluchten, luidt het woord des Heren."
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Hoort dit woord, dat de Here over u spreekt, gij Israëlieten, over het ganse geslacht dat Ik uit het land Egypte heb gevoerd:"
+        },
+        {
+          "nr": 2,
+          "tekst": "U alleen heb Ik gekend uit alle geslachten van het aardrijk; daarom zal Ik al uw ongerechtigheden aan u bezoeken."
+        },
+        {
+          "nr": 3,
+          "tekst": "Gaan er twee tezamen, zonder dat zij het eens geworden zijn?"
+        },
+        {
+          "nr": 4,
+          "tekst": "Brult een leeuw in het woud, zonder dat hij prooi heeft? Laat een jonge leeuw zijn gegrom horen uit zijn hol, tenzij hij iets heeft gevangen?"
+        },
+        {
+          "nr": 5,
+          "tekst": "Schiet een vogel neer op het klapnet op de aarde, zonder dat er een lokaas voor hem is? Vliegt het klapnet op van de grond, zonder dat het iets vangt?"
+        },
+        {
+          "nr": 6,
+          "tekst": "Wordt de bazuin in een stad geblazen, zonder dat de inwoners opschrikken? Geschiedt er een ramp in een stad, zonder dat de Here die bewerkt?"
+        },
+        {
+          "nr": 7,
+          "tekst": "Voorzeker, de Here Here doet geen ding, of Hij openbaart zijn raad aan zijn knechten, de profeten."
+        },
+        {
+          "nr": 8,
+          "tekst": "De leeuw heeft gebruld, – wie zou niet vrezen? De Here Here heeft gesproken, – wie zou niet profeteren?"
+        },
+        {
+          "nr": 9,
+          "tekst": "Doet het horen op de burchten in Asdod en op de burchten in het land Egypte, en zegt: Verzamelt u op Samaria’s bergen en aanschouwt de grote verwarring in zijn midden en de verdrukking die men er vindt."
+        },
+        {
+          "nr": 10,
+          "tekst": "Ja, zij weten niet van recht doen, luidt het woord des Heren, zij, die geweld en onderdrukking opstapelen in hun burchten."
+        },
+        {
+          "nr": 11,
+          "tekst": "Daarom, zo zegt de Here Here: De vijand! En rondom het land! Uw sterkte haalt hij van u neer; en uw burchten worden leeggeplunderd!"
+        },
+        {
+          "nr": 12,
+          "tekst": "Zo zegt de Here: Zoals een herder uit de muil van een leeuw twee schenkels redt of een lapje van een oor, zo zullen de Israëlieten gered worden, zij die daar in Samaria zitten in de hoek van het rustbed en op het zachte kleed van de divan."
+        },
+        {
+          "nr": 13,
+          "tekst": "Hoort, en betuigt aan het huis van Jakob, luidt het woord van de Here Here, de God der heerscharen:"
+        },
+        {
+          "nr": 14,
+          "tekst": "Voorwaar, ten dage dat Ik Israëls overtredingen aan hem bezoek, zal Ik ook bezoeking doen aan Betels altaren, zodat de altaarhoornen afgehouwen worden en ter aarde vallen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Dan zal Ik het winterhuis tegelijk met het zomerhuis neerslaan en de ivoren huizen zullen te gronde gaan, ja vele huizen zullen hun einde vinden, luidt het woord des Heren."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Hoort dit woord, gij koeien van Basan, die woont op de berg van Samaria, gij, die geringen verdrukt en armen vertrapt, die zegt tot uw heren: Breng aan, dat wij drinken!"
+        },
+        {
+          "nr": 2,
+          "tekst": "De Here Here heeft gezworen bij zijn heiligheid: Voorwaar, zie, dagen zullen over u komen, dat men u met angels zal optrekken en wie van u overblijven met vishaken."
+        },
+        {
+          "nr": 3,
+          "tekst": "Door de bressen zult gij uitgaan, elk recht voor zich heen, en gij zult weggesleept worden naar Haharmon, luidt het woord des Heren."
+        },
+        {
+          "nr": 4,
+          "tekst": "Komt naar Betel en pleegt afval, naar Gilgal – vermeerdert de afval! Brengt des morgens uw slachtoffers, op de derde dag uw tienden!"
+        },
+        {
+          "nr": 5,
+          "tekst": "Ontsteekt een lofoffer van het gezuurde en roept vrijwillige offers uit; doet het horen! Zo wilt gij het immers gaarne, o Israëlieten, luidt het woord van de Here Here."
+        },
+        {
+          "nr": 6,
+          "tekst": "Ik echter, Ik heb u gegeven reinheid van tanden in al uw steden en broodgebrek in al uw woonplaatsen. Toch hebt gij u niet tot Mij bekeerd, luidt het woord des Heren."
+        },
+        {
+          "nr": 7,
+          "tekst": "En Ik, Ik heb u de regen onthouden, toen het nog drie maanden vóór de oogst was; en Ik liet het regenen op de ene stad, maar op de andere stad liet Ik het niet regenen; de ene akker werd beregend, en de andere, waarop geen regen viel, droogde uit."
+        },
+        {
+          "nr": 8,
+          "tekst": "En twee, drie steden wankelden naar één stad om water te drinken, maar zij werden niet verzadigd. Toch hebt gij u niet tot Mij bekeerd, luidt het woord des Heren."
+        },
+        {
+          "nr": 9,
+          "tekst": "Ik heb u geslagen met brandkoren en met honigdauw, uw hoven en wijngaarden heb Ik doen verdorren; uw vijgebomen en olijfbomen vrat de sprinkhaan op. Toch hebt gij u niet tot Mij bekeerd, luidt het woord des Heren."
+        },
+        {
+          "nr": 10,
+          "tekst": "Ik heb onder u de pest gezonden, zoals in Egypte. Ik heb uw jonge manschappen met het zwaard gedood bij het buitmaken van uw paarden. En de stank van uw legerplaats deed Ik opstijgen in uw neus. Toch hebt gij u niet tot Mij bekeerd, luidt het woord des Heren."
+        },
+        {
+          "nr": 11,
+          "tekst": "Ik heb onder u een omkering aangericht, gelijk God Sodom en Gomorra omgekeerd heeft, zodat gij gelijk zijt geworden aan een brandhout uit het vuur gerukt. Toch hebt gij u niet tot Mij bekeerd, luidt het woord des Heren."
+        },
+        {
+          "nr": 12,
+          "tekst": "Daarom zal Ik aldus met u doen, o Israël. Omdat Ik dan dit met u doen zal, – bereid u om uw God te ontmoeten, o Israël."
+        },
+        {
+          "nr": 13,
+          "tekst": "Want zie, Hij, die de bergen formeert en de wind schept, en de mens te kennen geeft wat zijn overleg is, die de dageraad tot donkerheid maakt, en voortschrijdt over de hoogten der aarde, – Here, God der heerscharen, is zijn naam."
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Hoort dit woord, dat Ik over u aanhef, een klaaglied, huis Israëls:"
+        },
+        {
+          "nr": 2,
+          "tekst": "Gevallen is zij, zij zal niet weer opstaande jonkvrouw Israëls,nedergeworpen ligt zij op haar bodem,niemand richt haar op."
+        },
+        {
+          "nr": 3,
+          "tekst": "Want zo zegt de Here Here: De stad die met duizend uittrekt, zal er honderd overhouden, en die met honderd uittrekt, zal er tien overhouden voor het huis Israëls."
+        },
+        {
+          "nr": 4,
+          "tekst": "Want zo zegt de Here tot het huis Israëls: Zoekt Mij en leeft."
+        },
+        {
+          "nr": 5,
+          "tekst": "Maar zoekt Betel toch niet, en komt niet naar Gilgal, en trekt niet naar Berseba. Want Gilgal wordt onherroepelijk weggevoerd en Betel gaat teniet."
+        },
+        {
+          "nr": 6,
+          "tekst": "Zoekt de Here en leeft, opdat Hij niet vare als een vuur in het huis van Jozef en het vertere, terwijl er geen blusser zal zijn voor Betel."
+        },
+        {
+          "nr": 7,
+          "tekst": "O, zij die het recht in alsem verkeren, en de gerechtigheid ter aarde nederwerpen!"
+        },
+        {
+          "nr": 8,
+          "tekst": "Hij, die Pleiaden en Orion heeft gemaakt; Hij, die donkerheid verkeert in ochtend, en die de dag tot nacht verduistert; Hij, die het water der zee heeft opgeroepen en uitgegoten over de oppervlakte der aarde, – Here is zijn naam!"
+        },
+        {
+          "nr": 9,
+          "tekst": "Hij, die verwoesting doet opflitsen over de sterkte, zodat verwoesting over de vesting komt."
+        },
+        {
+          "nr": 10,
+          "tekst": "Zij haten in de poort wie opkomt voor het recht, en verafschuwen wie spreekt in oprechtheid."
+        },
+        {
+          "nr": 11,
+          "tekst": "Daarom, omdat gij de geringe vertrapt en hem geschenken in koren afperst, – ook al hebt gij huizen van gehouwen steen gebouwd, gij zult er niet in wonen; ook al hebt gij kostelijke wijngaarden geplant, gij zult er de wijn niet van drinken."
+        },
+        {
+          "nr": 12,
+          "tekst": "Want Ik weet, dat uw overtredingen vele zijn, en uw zonden talrijk, – gij die de rechtvaardige benauwt, die losgeld aanneemt, en die de armen in de poort terzijde dringt."
+        },
+        {
+          "nr": 13,
+          "tekst": "Daarom zwijgt de verstandige in die tijd, want het is een boze tijd."
+        },
+        {
+          "nr": 14,
+          "tekst": "Zoekt het goede en niet het kwade, opdat gij leeft en aldus de Here, de God der heerscharen, met u zij, gelijk gij zegt."
+        },
+        {
+          "nr": 15,
+          "tekst": "Haat het kwade en hebt het goede lief, en houdt het recht hoog in de poort; misschien zal de Here, de God der heerscharen, Jozefs rest genadig zijn."
+        },
+        {
+          "nr": 16,
+          "tekst": "Daarom, zo zegt de Here, de God der heerscharen, de Here: Op alle pleinen rouwklacht, en op alle straten zegt men: Ach, ach! Men roept de landman op tot rouw en (verlangt) misbaar van hen die klaagzangen kennen."
+        },
+        {
+          "nr": 17,
+          "tekst": "En in alle wijngaarden zal weeklage zijn, wanneer Ik door uw midden heen ga, – zegt de Here."
+        },
+        {
+          "nr": 18,
+          "tekst": "Wee hun, die verlangen naar de dag des Heren! Wat toch zal de dag des Heren voor u zijn? Duisternis is hij, en geen licht!"
+        },
+        {
+          "nr": 19,
+          "tekst": "Zoals wanneer iemand vlucht voor een leeuw, en een beer overvalt hem; en hij komt naar huis en leunt met zijn hand aan de muur, en hem bijt een slang!"
+        },
+        {
+          "nr": 20,
+          "tekst": "Duisternis zal immers de dag des Heren zijn en geen licht, ja donker en zonder glans."
+        },
+        {
+          "nr": 21,
+          "tekst": "Ik haat, Ik veracht uw feesten, en kan uw samenkomsten niet luchten."
+        },
+        {
+          "nr": 22,
+          "tekst": "Ja, als gij Mij brandoffers brengt, en uw spijsoffers, heb Ik daaraan geen welgevallen, en uw vredeoffer van mestkalveren wil Ik niet aanzien."
+        },
+        {
+          "nr": 23,
+          "tekst": "Doe van Mij weg het getier van uw liederen, het getokkel van uw harpen wil Ik niet horen."
+        },
+        {
+          "nr": 24,
+          "tekst": "Maar laat het recht als water golven, en gerechtigheid als een immer vloeiende beek."
+        },
+        {
+          "nr": 25,
+          "tekst": "Hebt gij Mij slachtoffers en spijsoffers gebracht in de woestijn, veertig jaar, huis Israëls,"
+        },
+        {
+          "nr": 26,
+          "tekst": "en tevens gedragen Sikkut, uw koning, en Kewan, uw stergod, uw beelden die gij u gemaakt hebt?"
+        },
+        {
+          "nr": 27,
+          "tekst": "Dus zal Ik u in ballingschap voeren, – voorbij Damascus – zegt de Here, wiens naam is God der heerscharen."
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Wee de zorgelozen op Sion, en die zich veilig voelen op de berg van Samaria, de uitgelezenen van de keur der volken, tot wie het huis Israëls komt!"
+        },
+        {
+          "nr": 2,
+          "tekst": "Trekt over naar Kalne en ziet, en gaat vandaar naar het grote Hamat en daalt af naar Gat der Filistijnen. Zijn zij beter dan deze koninkrijken? Is hun gebied groter dan het uwe?"
+        },
+        {
+          "nr": 3,
+          "tekst": "Gij, die de boze dag ver weg stelt, en de zetel van het geweld nabij brengt,"
+        },
+        {
+          "nr": 4,
+          "tekst": "die nederligt op ivoren bedden, en omhangt op uw divans, die lammeren uit de kudde opeet en kalveren midden uit de stal,"
+        },
+        {
+          "nr": 5,
+          "tekst": "die joelt bij het geluid van de harp, die gelijk David muziekinstrumenten voor u uitdenkt,"
+        },
+        {
+          "nr": 6,
+          "tekst": "die uit plengvaten drinkt, vol wijn, en met de voortreffelijkste olie u zalft, maar om de verbreking van Jozef u niet bekommert!"
+        },
+        {
+          "nr": 7,
+          "tekst": "Daarom zullen zij nu in ballingschap gaan aan de spits der ballingen, en uit is het met het getier van wie zo omhangen."
+        },
+        {
+          "nr": 8,
+          "tekst": "De Here Here heeft gezworen bij Zichzelf, luidt het woord van de Here, de God der heerscharen: Ik verafschuw de hoogmoed van Jakob en haat zijn paleizen; ja prijsgeven zal Ik de stad met al wat erin is."
+        },
+        {
+          "nr": 9,
+          "tekst": "Ook al zouden dan tien mannen overblijven in een en hetzelfde huis, – zij zullen sterven."
+        },
+        {
+          "nr": 10,
+          "tekst": "Neemt zijn oom hem op of die hem verbrandt, om het gebeente uit het huis weg te ruimen, dan zal hij zeggen tot wie achter in het huis is: Is daar nog iemand bij u? en als deze zegt: Niemand, dan zal hij zeggen: Stil! Want het is niet om er de naam des Heren bij te noemen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Want zie, de Here geeft bevel – dan slaat men het grote huis aan puin en het kleine huis aan splinters."
+        },
+        {
+          "nr": 12,
+          "tekst": "Rennen soms paarden op een rots, of ploegt men met runderen de zee, dat gij het recht in venijn verkeert en de vrucht der gerechtigheid in alsem;"
+        },
+        {
+          "nr": 13,
+          "tekst": "gij, die u verheugt over Lo-Debar, die zegt: Hebben wij niet door onze kracht Karnaïm voor ons veroverd?"
+        },
+        {
+          "nr": 14,
+          "tekst": "Voorwaar, zie, Ik verwek over u, huis Israëls, luidt het woord van de Here, de God der heerscharen, een volk dat u zal verdrukken van de weg naar Hamat tot de beek der Araba."
+        }
+      ]
+    },
+    {
+      "nr": 7,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Aldus deed de Here Here mij aanschouwen: Zie, Hij was bezig sprinkhanen te vormen, toen het nagras begon op te komen. En zie, het was het nagras na de afmaaiing voor de koning."
+        },
+        {
+          "nr": 2,
+          "tekst": "En toen zij op het punt stonden het kruid des lands volledig af te vreten, zeide ik: Here Here, vergeef toch! Hoe zou Jakob staande kunnen blijven? Hij is immers klein!"
+        },
+        {
+          "nr": 3,
+          "tekst": "Dit berouwde de Here. Het zal niet geschieden, zeide de Here."
+        },
+        {
+          "nr": 4,
+          "tekst": "Aldus deed de Here Here mij aanschouwen: Zie, de Here Here riep een vuur op om te straffen. Dat verteerde de grote vloed en zou ook het bouwland verteren."
+        },
+        {
+          "nr": 5,
+          "tekst": "Doch ik zeide: Here Here, houd toch op! Hoe zou Jakob staande kunnen blijven? Hij is immers klein!"
+        },
+        {
+          "nr": 6,
+          "tekst": "Dit berouwde de Here. Ook dit zal niet geschieden, zeide de Here Here."
+        },
+        {
+          "nr": 7,
+          "tekst": "Aldus deed Hij mij aanschouwen: Zie, de Here stond bij een loodrechte muur, met een paslood in zijn hand."
+        },
+        {
+          "nr": 8,
+          "tekst": "Toen zeide de Here tot mij: Wat ziet gij, Amos? En ik zeide: Een paslood. Daarop zeide de Here: Zie, Ik ga het paslood aanleggen in het midden van Israël, mijn volk; Ik zal het voortaan niet meer sparen."
+        },
+        {
+          "nr": 9,
+          "tekst": "Isaaks hoogten zullen verwoest en Israëls heiligdommen vernield worden, en tegen Jerobeams huis zal Ik optreden met het zwaard."
+        },
+        {
+          "nr": 10,
+          "tekst": "Toen zond Amasja, de priester van Betel, aan Jerobeam, de koning van Israël, deze boodschap: Amos smeedt een samenzwering tegen u te midden van het huis Israëls; het land zal al zijn woorden niet kunnen verdragen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Want zo heeft Amos gezegd: Door het zwaard zal Jerobeam sterven, en Israël zal voorzeker in ballingschap wegtrekken uit zijn land."
+        },
+        {
+          "nr": 12,
+          "tekst": "Vervolgens zeide Amasja tot Amos: Ziener! ga heen, vlucht naar het land van Juda; eet daar brood, en profeteer daar."
+        },
+        {
+          "nr": 13,
+          "tekst": "Maar in Betel moogt gij voortaan niet meer profeteren, want dit is een koninklijk heiligdom en het is een rijkstempel."
+        },
+        {
+          "nr": 14,
+          "tekst": "Doch Amos gaf Amasja ten antwoord: Ik ben geen profeet en ik ben geen profetenzoon, maar ik ben veehouder en kweker van moerbeivijgen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Doch de Here nam mij achter de schapen vandaan, en de Here zeide tot mij: Ga heen, profeteer tegen mijn volk Israël."
+        },
+        {
+          "nr": 16,
+          "tekst": "Nu dan, hoor het woord des Heren. Gij zegt: Gij moogt tegen Israël niet profeteren, noch tegen Isaaks huis uw woorden laten stromen."
+        },
+        {
+          "nr": 17,
+          "tekst": "Daarom, zo zegt de Here: Uw vrouw zal in de stad overspel bedrijven, uw zonen en uw dochters zullen vallen door het zwaard, uw akker zal met het meetsnoer verdeeld worden, gij zelf zult op onreine bodem sterven, en Israël zal voorzeker in ballingschap wegtrekken uit zijn land."
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Aldus deed de Here Here mij aanschouwen: Zie, een korf met rijpe vruchten."
+        },
+        {
+          "nr": 2,
+          "tekst": "Toen zeide Hij: Wat ziet gij, Amos? En ik zeide: Een korf met rijpe vruchten. Daarop zeide de Here tot mij: Rijp is het einde voor Israël, mijn volk. Ik zal het voortaan niet meer sparen."
+        },
+        {
+          "nr": 3,
+          "tekst": "De tempelzangen worden tot weeklacht op die dag, luidt het woord van de Here Here. Talrijk zijn de lijken! Allerwegen werpt Hij ze neder! Stil!"
+        },
+        {
+          "nr": 4,
+          "tekst": "Hoort dit, gij die fel zijt op de arme, om de weerlozen des lands te vernietigen,"
+        },
+        {
+          "nr": 5,
+          "tekst": "denkend: Wanneer is de nieuwe maan voorbij, dat wij koren kunnen verkopen, en de sabbat, dat wij graan te koop kunnen bieden, met verkleining van de efa, met vergroting van de sikkel, met bedrieglijk gebruik van een valse weegschaal,"
+        },
+        {
+          "nr": 6,
+          "tekst": "ten einde de geringen te kopen voor geld en de arme om een paar schoenen; en wij verkopen afval voor graan!"
+        },
+        {
+          "nr": 7,
+          "tekst": "Gezworen heeft de Here bij Jakobs heerlijkheid: Voorwaar, Ik zal in eeuwigheid niet een van hun daden vergeten!"
+        },
+        {
+          "nr": 8,
+          "tekst": "Zou hiervan de aarde niet beven, zodat al wie erop woont rouw bedrijft? Zou ze niet geheel en al oprijzen als de Nijl en opgezweept worden en weder inzinken als de rivier van Egypte?"
+        },
+        {
+          "nr": 9,
+          "tekst": "Te dien dage zal het geschieden, luidt het woord van de Here Here, dat Ik op de middag de zon zal doen schuilgaan en bij klaarlichte dag het land in het donker zal zetten."
+        },
+        {
+          "nr": 10,
+          "tekst": "Dan zal Ik uw feesten in rouw verkeren, en al uw liederen in klaagzang. Dan zal Ik rouwgewaad brengen op alle heupen en kaalheid op elk hoofd. En Ik zal het maken als de rouw over een eniggeborene en het einde ervan als een bittere dag."
+        },
+        {
+          "nr": 11,
+          "tekst": "Zie, de dagen komen, luidt het woord van de Here Here, dat Ik een honger in het land zal zenden – geen honger naar brood, en geen dorst naar water, maar om de woorden des Heren te horen."
+        },
+        {
+          "nr": 12,
+          "tekst": "Dan zullen zij zwerven van zee tot zee, en van het noorden naar het oosten zullen zij dolen, om te zoeken het woord des Heren; maar vinden zullen zij het niet."
+        },
+        {
+          "nr": 13,
+          "tekst": "Te dien dage zullen de schone maagden en de strijdbare jongelingen in onmacht vallen van dorst,"
+        },
+        {
+          "nr": 14,
+          "tekst": "die zweren bij wat de schuld van Samaria is, die zeggen: Zo waar uw god leeft, o Dan! en: Zo waar de bedevaart naar Berseba leeft! Ja, zij zullen vallen en niet weer opstaan."
+        }
+      ]
+    },
+    {
+      "nr": 9,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Ik zag de Here staan bij het altaar, en Hij zeide: Sla het kapiteel, zodat de drempels beven, en breek ze stuk op hun aller hoofd, en wie van hen overblijven, zal Ik doden met het zwaard. Niet één van hen zal ontvluchten, niemand van hen zal ontkomen."
+        },
+        {
+          "nr": 2,
+          "tekst": "Al groeven zij door tot in het dodenrijk, mijn hand zou hen vandaar weghalen; al klommen zij op ten hemel, Ik zal hen vandaar omlaag trekken!"
+        },
+        {
+          "nr": 3,
+          "tekst": "Al verscholen zij zich op Karmels top, Ik zou hen daar opsporen en weghalen; al verborgen zij zich voor mijn ogen op de bodem der zee, Ik zou vandaar een slang gelasten hen te bijten!"
+        },
+        {
+          "nr": 4,
+          "tekst": "Al gingen zij voor hun vijanden uit in gevangenschap, Ik zou vandaar het zwaard gelasten hen om te brengen. Zo richt Ik op hen mijn oog, ten kwade en niet ten goede."
+        },
+        {
+          "nr": 5,
+          "tekst": "Ja, de Here, de Here der heerscharen, die de aarde aanroert en zij wankelt, zodat al wie erop wonen jammeren, en zij geheel en al oprijst als de Nijl, en inzinkt als de rivier van Egypte;"
+        },
+        {
+          "nr": 6,
+          "tekst": "die in de hemel zijn opperzalen heeft gebouwd en zijn gewelf op aarde heeft gegrondvest, die het water der zee heeft opgeroepen en uitgegoten over de oppervlakte der aarde – Here is zijn naam."
+        },
+        {
+          "nr": 7,
+          "tekst": "Zijt gij voor Mij niet gelijk aan de kinderen der Ethiopiërs, o kinderen Israëls? luidt het woord des Heren. Heb Ik Israël niet uit het land Egypte gevoerd en de Filistijnen uit Kaftor en de Arameeërs uit Kir?"
+        },
+        {
+          "nr": 8,
+          "tekst": "Zie, de ogen des Heren Heren zijn tegen het zondige koninkrijk, en Ik zal het verdelgen van de aardbodem. Evenwel zal Ik het huis Jakobs niet geheel en al verdelgen, luidt het woord des Heren."
+        },
+        {
+          "nr": 9,
+          "tekst": "Want zie, Ik geef bevel, en Ik schud het huis van Israël onder al de volken, gelijk men met een zeef schudt, en geen steentje zal ter aarde vallen."
+        },
+        {
+          "nr": 10,
+          "tekst": "Door het zwaard zullen zij sterven, al de zondaren van mijn volk, die zeggen: Gij moogt het kwaad niet nader brengen en het ons niet tegemoet voeren."
+        },
+        {
+          "nr": 11,
+          "tekst": "Te dien dage zal Ik de vervallen hut van David weder oprichten, Ik zal haar scheuren dichten en wat daarvan is ingestort, overeind zetten; Ik zal haar herbouwen als in de dagen van ouds,"
+        },
+        {
+          "nr": 12,
+          "tekst": "opdat zij beërven de rest van Edom en van al de volken over wie mijn naam is uitgeroepen, luidt het woord van de Here, die dit doet."
+        },
+        {
+          "nr": 13,
+          "tekst": "Zie, de dagen komen, luidt het woord des Heren, dat de ploeger zich aansluit bij de maaier en de druiventreder bij hem die het zaad strooit; dan zullen de bergen druipen van jonge wijn en al de heuvelen daarvan overvloeien."
+        },
+        {
+          "nr": 14,
+          "tekst": "Ik zal een keer brengen in het lot van mijn volk Israël: verwoeste steden zullen zij herbouwen en bewonen; wijngaarden zullen zij planten en de wijn ervan drinken; boomgaarden zullen zij aanleggen en de vrucht daarvan eten."
+        },
+        {
+          "nr": 15,
+          "tekst": "Dan zal Ik hen planten in hun grond, en zij zullen niet meer worden uitgerukt uit de grond die Ik hun gegeven heb, zegt de Here, uw God."
+        }
+      ]
+    }
+  ]
+}

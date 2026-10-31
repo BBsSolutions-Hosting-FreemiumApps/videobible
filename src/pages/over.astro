@@ -1,0 +1,49 @@
+---
+import Basis from '../layouts/Basis.astro';
+import { seo } from '../lib/seo';
+import bron from '../../data/bron-tekst.json';
+const gfdl = 'https://www.gnu.org/licenses/fdl-1.3.en.html';
+const zin = bron.vermelding;
+const [voorNaam, naNaam] = zin.split('Jantinus Daling');
+const [voorUrl, naUrl] = naNaam.split(gfdl);
+---
+<Basis titel={seo.over.titel} beschrijving={seo.over.beschrijving}>
+  <div class="pagina proza">
+    <h1>Over Videobijbel</h1>
+    <h2>Wat is Videobijbel?</h2>
+    <p>Videobijbel is een plek om de Bijbel rustig te lezen en te onderzoeken. De NBG-vertaling 1951 vormt de basis. Bij geselecteerde passages staan video's en aanvullende toelichtingen. Ook is er ruimte voor eigen aantekeningen en leesplannen.</p>
+    <p>De website is bedoeld voor een breed publiek. Er is ruimte voor geloof, twijfel en nieuwsgierigheid. De Bijbeltekst staat centraal.</p>
+    <h2>Een verwant project</h2>
+    <p>Videobijbel is een zelfstandig zusterproject van de <a href="https://elohim-yhwh-bijbel.nl/">Elohim YHWH Bijbel</a>. De websites hebben een eigen vorm en doel. Videobijbel legt de nadruk op lezen, bekijken en studeren op één plek.</p>
+    <p>Initiatiefnemer: Jan Smit, maker van de <a href="https://elohim-yhwh-bijbel.nl/">Elohim YHWH Bijbel</a>.</p>
+    <h2>Bronnen</h2>
+    <h3>Bijbeltekst</h3>
+    <p>Voor de leesomgeving wordt de NBG-vertaling 1951 gebruikt.</p>
+    <p>Bijbeltekst: NBG-vertaling 1951.</p>
+    <p><a href="https://elohim-yhwh-bijbel.nl/">Auteursrecht © 2026 Elohim YHWH Bijbel</a></p>
+    <p class="licentie">
+      {voorNaam}<a href={bron.gitLab}>Jantinus Daling</a>{voorUrl}<a href={gfdl}>{gfdl}</a>{naUrl}
+    </p>
+    <p class="ingevoerd">Bron van de tekstbestanden: <a href={bron.bronUrl}>{bron.bronUrl}</a></p>
+    <h3>Studie-uitleg</h3>
+    <p>De toelichtingen zijn gebaseerd op de Elohim YHWH Studiebijbel 2026. Bij de uitleg wordt de bron vermeld.</p>
+    <h3>Video's</h3>
+    <p>De video's komen uit een <a href="https://www.youtube.com/playlist?list=PLNnDTBez4hlY">geselecteerde YouTube-playlist</a>. Bij iedere video worden de beschikbare titel, het kanaal en de bijbehorende bijbelverwijzing getoond. Video's worden pas na een klik geladen, tenzij daarvoor eerder toestemming is gegeven.</p>
+    <h2>Contact</h2>
+    <p>Een vraag, opmerking of correctie doorgeven? Gebruik het onderstaande formulier.</p>
+    <!-- Geen verzendfunctie. Geen action, geen fetch en geen formulierdienst.
+         De verwerking is nog niet gekozen. -->
+    <form class="contactformulier">
+      <label class="veld">Naam
+        <input type="text" name="naam" placeholder="Naam" disabled autocomplete="name" />
+      </label>
+      <label class="veld">E-mailadres
+        <input type="email" name="email" placeholder="E-mailadres" disabled autocomplete="email" />
+      </label>
+      <label class="veld">Bericht
+        <textarea name="bericht" rows="6" placeholder="Schrijf hier het bericht" disabled></textarea>
+      </label>
+      <button type="button" class="knop" disabled>Binnenkort beschikbaar</button>
+    </form>
+  </div>
+</Basis>

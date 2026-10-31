@@ -1,0 +1,35 @@
+---
+import Basis from '../layouts/Basis.astro';
+import VideoFacade from './VideoFacade.astro';
+import { seo } from '../lib/seo';
+import { boeken, videos } from '../lib/gegevens';
+const themas = [...new Set(videos.flatMap((video) => video.themas))];
+---
+<Basis titel={seo.videos.titel} beschrijving={seo.videos.beschrijving}>
+  <div class="pagina">
+    <header class="proza">
+      <h1>Video's bij de Bijbel</h1>
+      <p>Ontdek video's die aansluiten bij bijbelboeken en gedeelten. Vanuit elke video is de bijbehorende tekst terug te vinden.</p>
+    </header>
+    <div class="filters" data-video-filters>
+      <label>Bijbelboek
+        <select data-filter-boek>
+          <option value="">Alle boeken</option>
+          {boeken.map((boek) => <option value={boek.id}>{boek.naam}</option>)}
+        </select>
+      </label>
+      <label>Thema
+        <select data-filter-thema>
+          <option value="">Alle thema's</option>
+          {themas.map((thema) => <option value={thema}>{thema}</option>)}
+        </select>
+      </label>
+      <button type="button" class="knop secundair" data-wis-filters>Wis filters</button>
+    </div>
+    <p>Een video wordt pas na een klik geladen. Voor het laden van YouTube is een verbinding met YouTube nodig.</p>
+    <div class="video-lijst">
+      {videos.map((video) => <VideoFacade video={video} />)}
+    </div>
+    <p data-geen-videos hidden>Geen video's gevonden voor deze filters. Kies een ander boek of thema.</p>
+  </div>
+</Basis>

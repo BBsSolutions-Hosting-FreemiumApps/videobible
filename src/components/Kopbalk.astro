@@ -1,0 +1,69 @@
+---
+import { boeken } from '../lib/gegevens';
+import { pad } from '../lib/paden';
+interface Props { boekId: string; hoofdstuk: number; vast: boolean; }
+const { boekId, hoofdstuk, vast } = Astro.props;
+const huidig = boeken.find((boek) => boek.id === boekId) ?? boeken.find((boek) => boek.id === 'joh')!;
+const oud = boeken.filter((boek) => boek.testament === 'OT');
+const nieuw = boeken.filter((boek) => boek.testament === 'NT');
+const zoekactie = pad('zoeken');
+---
+<div class="kop-vast" data-kop data-vast={vast ? 'ja' : 'nee'} data-boek={huidig.id} data-hoofdstuk={hoofdstuk}>
+  <header class="kopbalk">
+    <a class="logo" href={pad()}>
+      <svg viewBox="0 0 32 32" aria-hidden="true">
+        <path d="M16 2 L30 16 L16 30 L2 16 Z" fill="none" stroke="#C6A15B" stroke-width="1.4" />
+        <path d="M9 12.5 L16 22 L23 12.5" fill="none" stroke="#F6EFE2" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+      </svg>
+      Videobijbel
+    </a>
+    <div class="kop-kiezer">
+      <label class="visueel-verborgen" for="boek-kies">Kies een bijbelboek</label>
+      <select id="boek-kies" data-boek-kies>
+        <optgroup label="Oude Testament">
+          {oud.map((boek) => <option value={boek.id} data-hoofdstukken={boek.hoofdstukken} selected={boek.id === huidig.id}>{boek.naam}</option>)}
+        </optgroup>
+        <optgroup label="Nieuwe Testament">
+          {nieuw.map((boek) => <option value={boek.id} data-hoofdstukken={boek.hoofdstukken} selected={boek.id === huidig.id}>{boek.naam}</option>)}
+        </optgroup>
+      </select>
+      <label class="visueel-verborgen" for="hfst-kies">Kies een hoofdstuk</label>
+      <select id="hfst-kies" data-hfst-kies>
+        {Array.from({ length: huidig.hoofdstukken }, (_, i) => i + 1).map((nr) => <option value={nr} selected={nr === hoofdstuk}>{nr}</option>)}
+      </select>
+    </div>
+    <form class="kop-zoek" action={zoekactie} method="get" role="search">
+      <label class="visueel-verborgen" for="kop-q">Zoek een woord of typ Joh 3:16</label>
+      <input id="kop-q" name="q" type="search" placeholder="Zoek een woord of typ Joh 3:16" autocomplete="off" enterkeyhint="search" />
+      <kbd aria-hidden="true">⌘K</kbd>
+      <button class="visueel-verborgen" type="submit">Zoeken</button>
+    </form>
+    <div class="kop-acties">
+      <button type="button" class="knop" data-open-instellingen>Leesinstellingen</button>
+      <button type="button" class="kop-icoon" data-thema-wissel aria-label="Licht of donker">
+        <svg class="icoon-maan" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M14.5 3.1a8.5 8.5 0 1 0 6.4 12.8A7 7 0 0 1 14.5 3.1z"/></svg>
+      </button>
+    </div>
+  </header>
+  <div class="mobiel-boek">
+    <button type="button" class="boek-knop" data-open-boekkiezer>
+      <span data-boek-label>{huidig.naam} {hoofdstuk}</span>
+    </button>
+  </div>
+</div>
+<dialog id="boekkiezer" class="dialoog" aria-labelledby="boekkiezer-titel">
+  <h2 id="boekkiezer-titel">Kies een bijbelboek</h2>
+  <form method="dialog">
+    <label class="veld">Kies een bijbelboek
+      <select data-boek-kies-mobiel>
+        {boeken.map((boek) => <option value={boek.id} data-hoofdstukken={boek.hoofdstukken} selected={boek.id === huidig.id}>{boek.naam}</option>)}
+      </select>
+    </label>
+    <label class="veld">Kies een hoofdstuk
+      <select data-hfst-kies-mobiel>
+        {Array.from({ length: huidig.hoofdstukken }, (_, i) => i + 1).map((nr) => <option value={nr} selected={nr === hoofdstuk}>{nr}</option>)}
+      </select>
+    </label>
+    <p><button class="knop" type="submit" data-open-hoofdstuk>Toon hoofdstuk</button></p>
+  </form>
+</dialog>

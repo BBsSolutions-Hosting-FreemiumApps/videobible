@@ -1,0 +1,67 @@
+---
+import Basis from '../layouts/Basis.astro';
+import { seo } from '../lib/seo';
+import { pad } from '../lib/paden';
+---
+<Basis titel={seo.home.titel} beschrijving={seo.home.beschrijving}>
+  <div class="pagina">
+    <section class="held">
+      <div>
+        <h1>De Bijbel, <em>dicht bij de tekst.</em></h1>
+        <p>Lees de NBG-vertaling 1951 in alle rust. Ontdek video's bij bijbelgedeelten, vind uitleg en maak ruimte voor eigen notities.</p>
+        <div class="knoppen-rij">
+          <a class="knop" href={pad('lezen')}>Begin met lezen</a>
+          <a class="knop secundair" href={pad('videos')}>Ontdek de video's</a>
+        </div>
+        <form class="held-zoek" action={pad('zoeken')} method="get" role="search">
+          <label class="visueel-verborgen" for="held-q">Zoek een woord of typ Joh 3:16</label>
+          <input id="held-q" name="q" type="search" placeholder="Zoek een woord of typ Joh 3:16" />
+          <button class="knop" type="submit">Zoeken</button>
+        </form>
+      </div>
+      <aside class="verder-paneel" data-verder-lezen>
+        <div class="verder-boog">
+          <p class="wenk">Verder lezen</p>
+          <p>De Bijbel wacht waar het lezen is gestopt. Ga verder met het laatst geopende hoofdstuk.</p>
+          <div data-verder-leeg>
+            <p>Een begin maken? Kies een bijbelboek en hoofdstuk.</p>
+            <a class="knop" href={pad('lezen')}>Kies een bijbelboek</a>
+          </div>
+          <div data-verder-gevuld hidden>
+            <span class="ster" aria-hidden="true">✦</span>
+            <p class="verder-boek" data-verder-naam></p>
+            <a class="knop" data-verder-link href={pad('lezen', 'joh', 3)}>Verder lezen</a>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="blok">
+      <div class="blok-kop">
+        <div>
+          <p class="wenk">01 / uitgelicht</p>
+          <h2>Een video bij de tekst</h2>
+        </div>
+      </div>
+      <p>Bij sommige bijbelgedeelten staat een passende video. De tekst blijft het uitgangspunt. De video biedt een andere manier om het gedeelte te bekijken.</p>
+      <p>Video's worden pas na een klik geladen. Meer informatie staat bij <a href={pad('privacy')}>Privacy</a>.</p>
+      <p class="ingevoerd">Er is nog geen video aan een bijbelgedeelte gekoppeld. <a href={pad('videos')}>Ontdek de video's</a>.</p>
+    </section>
+
+    <section class="blok">
+      <p class="wenk">02 / leesplan</p>
+      <h2>Leesplan van vandaag</h2>
+      <p>Een vast leesmoment, zonder haast. Een leesplan helpt om stap voor stap verder te lezen.</p>
+      <p>Er is nog geen leesplan gekozen.</p>
+      <p><a class="knop" href={pad('leesplannen')}>Kies een leesplan</a></p>
+    </section>
+
+    <section class="blok">
+      <p class="wenk">03 / updates</p>
+      <h2>Theologie-updates</h2>
+      <p>Berichten en achtergronden over bijbelteksten, vertalingen en bijbelonderzoek.</p>
+      <p class="artikel-leeg kaart">Nieuwe artikelen verschijnen hier zodra ze beschikbaar zijn.</p>
+      <p><a class="knop secundair" href={pad('blog')}>Bekijk alle artikelen</a></p>
+    </section>
+  </div>
+</Basis>

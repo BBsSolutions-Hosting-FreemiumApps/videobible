@@ -1,0 +1,28 @@
+---
+import Basis from '../../../layouts/Basis.astro';
+import { seo } from '../../../lib/seo';
+import { boeken, boekOpId } from '../../../lib/gegevens';
+import { pad } from '../../../lib/paden';
+
+export function getStaticPaths() {
+  return boeken.flatMap((boek) =>
+    Array.from({ length: boek.hoofdstukken }, (_, index) => ({
+      params: { boek: boek.id, hfst: String(index + 1) },
+    })),
+  );
+}
+const boekId = Astro.params.boek ?? '';
+const hoofdstuk = Number(Astro.params.hfst);
+const info = boekOpId(boekId);
+if (!info) return Astro.redirect(pad('lezen'));
+---
+<Basis titel={seo.uitleg.titel} beschrijving={seo.uitleg.beschrijving} boekId={boekId} hoofdstuk={hoofdstuk}>
+  <div class="pagina proza">
+    <h1>Uitleg bij de Bijbel</h1>
+    <p>Sommige passages vragen om extra achtergrond. Hier staat toelichting uit de Elohim YHWH Studiebijbel 2026, gekoppeld aan de bijbehorende bijbeltekst.</p>
+    <p class="wenk">{info.naam} {hoofdstuk}</p>
+    <p>Gebaseerd op de Elohim YHWH Studiebijbel 2026.</p>
+    <p>Bij dit gedeelte is nog geen uitleg beschikbaar.</p>
+    <p><a href={pad('lezen', boekId, hoofdstuk)}>Terug naar de bijbeltekst</a></p>
+  </div>
+</Basis>

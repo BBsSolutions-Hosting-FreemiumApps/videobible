@@ -1,0 +1,33 @@
+---
+import bron from '../../data/bron-tekst.json';
+import { pad } from '../lib/paden';
+const gfdl = 'https://www.gnu.org/licenses/fdl-1.3.en.html';
+const zin = bron.vermelding as string;
+const [voorNaam, naNaam] = zin.split('Jantinus Daling');
+const [voorUrl, naUrl] = naNaam.split(gfdl);
+const links = [
+  ['Lezen', pad('lezen')],
+  ["Video's", pad('videos')],
+  ['Zoeken', pad('zoeken')],
+  ['Leesplannen', pad('leesplannen')],
+  ['Blog', pad('blog')],
+  ['Over', pad('over')],
+  ['Privacy', pad('privacy')],
+];
+---
+<footer class="voet">
+  <div class="voet-binnen">
+    <p><strong>Videobijbel — De Bijbel, dicht bij de tekst.</strong></p>
+    <p>Bijbeltekst: NBG-vertaling 1951. Uitleg: Elohim YHWH Studiebijbel 2026. Video's: YouTube.</p>
+    <p>
+      <a href="https://elohim-yhwh-bijbel.nl/">Auteursrecht © 2026 Elohim YHWH Bijbel</a>
+    </p>
+    <p class="licentie">
+      {voorNaam}<a href={bron.gitLab}>Jantinus Daling</a>{voorUrl}<a href={gfdl}>{gfdl}</a>{naUrl}
+    </p>
+    <p>Een zusterproject van de <a href="https://elohim-yhwh-bijbel.nl/">Elohim YHWH Bijbel</a>.</p>
+    <nav aria-label="Voettekst">
+      {links.map(([naam, href]) => <a href={href}>{naam}</a>)}
+    </nav>
+  </div>
+</footer>

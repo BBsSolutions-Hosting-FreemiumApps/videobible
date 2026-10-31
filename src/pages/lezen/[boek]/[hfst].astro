@@ -1,0 +1,99 @@
+---
+import Basis from '../../../layouts/Basis.astro';
+import { seo, titelLezen } from '../../../lib/seo';
+import { boeken, boekOpId, leesBijbelboek, videos } from '../../../lib/gegevens';
+import { buren } from '../../../lib/navigatie';
+import { pad } from '../../../lib/paden';
+import VideoFacade from '../../../components/VideoFacade.astro';
+
+export function getStaticPaths() {
+  return boeken.flatMap((boek) =>
+    Array.from({ length: boek.hoofdstukken }, (_, index) => ({
+      params: { boek: boek.id, hfst: String(index + 1) },
+    })),
+  );
+}
+
+const boekId = Astro.params.boek ?? '';
+const hoofdstuk = Number(Astro.params.hfst);
+const info = boekOpId(boekId);
+if (!info) return Astro.redirect(pad('lezen'));
+const data = leesBijbelboek(boekId);
+const tekst = data.hoofdstukken.find((item) => item.nr === hoofdstuk);
+if (!tekst) return Astro.redirect(pad('lezen'));
+const { vorige, volgende } = buren(boekId, hoofdstuk, boeken);
+const gekoppeld = videos.filter((video) => video.verwijzing?.boek === boekId && video.verwijzing.hoofdstuk === hoofdstuk);
+const titel = titelLezen(info.naam, hoofdstuk);
+---
+<Basis titel={titel} beschrijving={seo.lezen.beschrijving} boekId={boekId} hoofdstuk={hoofdstuk}>
+  <div class="pagina lees-scherm">
+    <article>
+      <p class="wenk">De Bijbel lezen</p>
+      <h1>{info.naam} <span class="hfst-nr">{hoofdstuk}</span></h1>
+      <div class="ornament" aria-hidden="true"><span></span></div>
+      <p>Kies een boek en hoofdstuk. Lees op eigen tempo, met ruimte voor video's en uitleg bij de tekst.</p>
+      <p><a href={pad('lezen')}>Terug naar overzicht</a></p>
+      <ol class="verzen">
+        {tekst.verzen.map((vers) => (
+          <li class="vers" id={`v${vers.nr}`}>
+            <a class="versnummer" href={`#v${vers.nr}`}>{vers.nr}</a>
+            <p class="verstekst">{vers.tekst}</p>
+            <a class="notitie-link" href={`${pad('notities')}?boek=${boekId}&hoofdstuk=${hoofdstuk}&vers=${vers.nr}`}>Notitie toevoegen</a>
+          </li>
+        ))}
+      </ol>
+      <nav class="paginering" aria-label="Vorig en volgend hoofdstuk">
+        {vorige ? (
+          <a href={pad('lezen', vorige.boek.id, vorige.hoofdstuk)} rel="prev">
+            <span>Vorig hoofdstuk</span>
+            <span class="pagina-doel">{vorige.boek.naam} {vorige.hoofdstuk}</span>
+          </a>
+        ) : <span></span>}
+        {volgende ? (
+          <a href={pad('lezen', volgende.boek.id, volgende.hoofdstuk)} rel="next">
+            <span>Volgend hoofdstuk</span>
+            <span class="pagina-doel">{volgende.boek.naam} {volgende.hoofdstuk}</span>
+          </a>
+        ) : <span></span>}
+      </nav>
+    </article>
+    <aside class="zijbalk-thuis" id="zijbalk-thuis">
+      <div class="zijblok" data-na-vers={tekst.verzen.at(-1)?.nr ?? 1}>
+        <h2>Video bij {info.naam} {hoofdstuk}</h2>
+        {gekoppeld.length ? (
+          gekoppeld.map((video) => <VideoFacade video={video} />)
+        ) : (
+          <p>Bij dit gedeelte is nog geen video beschikbaar.</p>
+        )}
+        <h2>Uitleg bij de tekst</h2>
+        <p>Achtergrond en toelichting bij dit bijbelgedeelte.</p>
+        <p>Voor dit gedeelte is nog geen toelichting beschikbaar.</p>
+        <p><a href={pad('uitleg', boekId, hoofdstuk)}>Uitleg bij de Bijbel</a></p>
+      </div>
+    </aside>
+  </div>
+  <nav class="onderbalk" aria-label="Hoofdstuk">
+    {vorige ? <a href={pad('lezen', vorige.boek.id, vorige.hoofdstuk)}>Vorig hoofdstuk</a> : <span></span>}
+    <button type="button" data-open-instellingen>Leesinstellingen</button>
+    {volgende ? <a href={pad('lezen', volgende.boek.id, volgende.hoofdstuk)}>Volgend hoofdstuk</a> : <span></span>}
+  </nav>
+  <script is:inline>
+    (function () {
+      var mq = window.matchMedia('(max-width: 960px)');
+      function plaats() {
+        var thuis = document.getElementById('zijbalk-thuis');
+        var blok = document.querySelector('.zijblok');
+        if (!thuis || !blok) return;
+        if (mq.matches) {
+          var vers = document.getElementById('v' + blok.getAttribute('data-na-vers'));
+          if (vers) vers.after(blok);
+        } else if (blok.parentElement !== thuis) {
+          thuis.append(blok);
+        }
+        document.documentElement.classList.add('zij-klaar');
+      }
+      plaats();
+      mq.addEventListener('change', plaats);
+    })();
+  </script>
+</Basis>

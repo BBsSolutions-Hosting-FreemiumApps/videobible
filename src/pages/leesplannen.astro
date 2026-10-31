@@ -1,0 +1,25 @@
+---
+import Basis from '../layouts/Basis.astro';
+import { seo } from '../lib/seo';
+import { leesplannen } from '../lib/gegevens';
+---
+<Basis titel={seo.leesplannen.titel} beschrijving={seo.leesplannen.beschrijving}>
+  <div class="pagina">
+    <header class="proza">
+      <h1>Leesplannen</h1>
+      <p>Een leesplan geeft richting, zonder haast. Kies een plan, lees een gedeelte per dag en houd de voortgang bij op dit apparaat.</p>
+      <p>Er is nog geen leesplan gestart.</p>
+    </header>
+    <div class="drie">
+      {leesplannen.map((plan) => (
+        <article class="plan-kaart">
+          <p><span class="binnenkort">Binnenkort</span></p>
+          <h2>{plan.naam}</h2>
+          <p>{plan.dagen} dagen</p>
+        </article>
+      ))}
+    </div>
+    <p>Deze titels en looptijden zijn voorstellen. De dagelijkse lezingen moeten nog worden samengesteld.</p>
+    <p>De voortgang blijft op dit apparaat bewaard. Bij het wissen van browsergegevens kan deze verloren gaan.</p>
+  </div>
+</Basis>

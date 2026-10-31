@@ -1,0 +1,39 @@
+---
+import type { Video } from '../lib/types';
+import { pad, padVanVerwijzing } from '../lib/paden';
+import { beschrijfVerwijzing } from '../lib/verwijzing-parser';
+import { boeken } from '../lib/gegevens';
+interface Props { video: Video; }
+const { video } = Astro.props;
+const doel = video.verwijzing ? padVanVerwijzing(video.verwijzing) : '';
+const bereik = video.verwijzing ? beschrijfVerwijzing({ ...video.verwijzing, van: video.verwijzing.van, tot: video.verwijzing.tot }, boeken) : '';
+---
+<article
+  class="video-kaart"
+  data-video-facade
+  data-youtube-id={video.youtubeId}
+  data-titel={video.titel}
+  data-boek={video.verwijzing?.boek ?? ''}
+  data-themas={video.themas.join('|')}
+>
+  <button type="button" class="video-boog" data-laden aria-label={`Video laden: ${video.titel}`}>
+    <span class="speel" aria-hidden="true">
+      <svg width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M8 5v14l11-7z" /></svg>
+    </span>
+    <span>Klik om te laden</span>
+  </button>
+  <div class="video-speler" data-speler hidden></div>
+  <div class="video-tekst">
+    <p class="wenk">Video bij de tekst</p>
+    <h3>{video.titel}</h3>
+    <p class="kanaal">{video.kanaal}</p>
+    {bereik ? <p>{bereik}</p> : <p>koppeling nog te doen</p>}
+    <p>Klik om te laden. Pas dan maakt YouTube verbinding via youtube-nocookie.com.</p>
+    <p class="ingevoerd">Video's op dit apparaat voortaan direct laden. Deze keuze kan bij <a href={pad('privacy')}>Privacy</a> worden gewijzigd.</p>
+    <div class="video-acties">
+      <button type="button" class="knop" data-laden>Video laden</button>
+      <button type="button" class="tekstknop" data-altijd>Altijd toestaan</button>
+      {doel ? <a href={doel}>Lees de tekst</a> : null}
+    </div>
+  </div>
+</article>

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "kennismaken",
+    "naam": "Kennismaken met de Bijbel",
+    "dagen": 7,
+    "lezingen": []
+  },
+  {
+    "id": "johannes",
+    "naam": "Het evangelie volgens Johannes",
+    "dagen": 21,
+    "lezingen": []
+  },
+  {
+    "id": "psalmen",
+    "naam": "Psalmen om rustig te lezen",
+    "dagen": 14,
+    "lezingen": []
+  }
+]

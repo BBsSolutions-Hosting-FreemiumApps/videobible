@@ -1,0 +1,509 @@
+{
+  "boek": "hoogl",
+  "naam": "Hooglied",
+  "testament": "OT",
+  "voorbeeld": false,
+  "bron": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "hoofdstukken": [
+    {
+      "nr": 1,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Hooglied. Van Salomo."
+        },
+        {
+          "nr": 2,
+          "tekst": "Hij kusse mij met de kussen van zijn mond!Want kostelijker dan wijn is uw liefde,"
+        },
+        {
+          "nr": 3,
+          "tekst": "heerlijk van geur zijn uw oliën,als uitgegoten olie is uw naam.Daarom hebben de jonge meisjes u lief."
+        },
+        {
+          "nr": 4,
+          "tekst": "Trek mij achter u mee, laten wij ons spoeden.De Koning voerde mij naar zijn vertrekken,laten wij juichen en ons in u verheugen,uw liefde prijzen boven de wijn!Met recht heeft men u lief!"
+        },
+        {
+          "nr": 5,
+          "tekst": "Donker van huid ben ik, doch bekoorlijk,dochters van Jeruzalem,als de tenten van Kedar,de gordijnen van Salomo."
+        },
+        {
+          "nr": 6,
+          "tekst": "Let er niet op, dat mijn huid donker is,dat de zon mij verbrand heeft.De zonen van mijn moeder waren hard jegens mijen stelden mij aan tot bewaakster der wijngaarden –mijn eigen wijngaard heb ik niet bewaakt."
+        },
+        {
+          "nr": 7,
+          "tekst": "Vertel mij toch, mijn zielsbeminde,waar gij weidt,waar gij op de middag (de kudde) laat rusten.Want waarom zou ik zijn als een gesluierdebij de kudden van uw makkers?"
+        },
+        {
+          "nr": 8,
+          "tekst": "– Indien gij het niet weet,o, gij schoonste onder de vrouwen,volg dan de sporen der schapen,en weid uw geitenbij de verblijven der herders."
+        },
+        {
+          "nr": 9,
+          "tekst": "– Bij een merrie voor Farao’s wagensvergelijk ik u, mijn liefste!"
+        },
+        {
+          "nr": 10,
+          "tekst": "Bekoorlijk zijn uw wangen tussen de sieraden,is uw hals in de snoeren."
+        },
+        {
+          "nr": 11,
+          "tekst": "Gouden sieraden zullen wij u makenmet balletjes van zilver."
+        },
+        {
+          "nr": 12,
+          "tekst": "– Zolang de koning aan zijn tafel is,geeft mijn nardus zijn geur."
+        },
+        {
+          "nr": 13,
+          "tekst": "Mijn geliefde is mij een bundeltje mirre,rustend tussen mijn borsten."
+        },
+        {
+          "nr": 14,
+          "tekst": "Mijn geliefde is mij een tros van hennabloemenin Engedi’s wijngaarden."
+        },
+        {
+          "nr": 15,
+          "tekst": "– Zie, gij zijt schoon, mijn liefste,o, gij zijt schoon,uw ogen zijn als duiven."
+        },
+        {
+          "nr": 16,
+          "tekst": "– Zie, gij zijt schoon, mijn geliefde,ja, heerlijk,en lommerrijk is onze legerstede,"
+        },
+        {
+          "nr": 17,
+          "tekst": "de balken van ons huis zijn cedersen onze panelen cypressen."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Ik ben een narcis van Saron,een lelie der dalen."
+        },
+        {
+          "nr": 2,
+          "tekst": "– Als een lelie tussen de distelenzo is mijn liefste onder de jonge meisjes."
+        },
+        {
+          "nr": 3,
+          "tekst": "– Als een appelboom onder de bomen des wouds,zo is mijn geliefde onder de jonge mannen.In zijn schaduw begeer ik te zittenen zoet is zijn vrucht voor mijn verhemelte."
+        },
+        {
+          "nr": 4,
+          "tekst": "Hij heeft mij gebracht naar het wijnhuisen zijn banier over mij was de liefde."
+        },
+        {
+          "nr": 5,
+          "tekst": "Sterkt mij met rozijnenkoeken,verkwikt mij met appels,want ik bezwijm van liefde."
+        },
+        {
+          "nr": 6,
+          "tekst": "Zijn linkerarm is onder mijn hoofden zijn rechterarm omvangt mij!"
+        },
+        {
+          "nr": 7,
+          "tekst": "Ik bezweer u, dochters van Jeruzalem,bij de gazellen of bij de hinden des velds:wekt de liefde niet op en prikkelt haar niet,vóórdat het haar behaagt."
+        },
+        {
+          "nr": 8,
+          "tekst": "Hoor – mijn geliefde!Zie, daar komt hij,springend over de bergen,huppelend over de heuvelen."
+        },
+        {
+          "nr": 9,
+          "tekst": "Mijn geliefde is als een gazelof het jong van een hert.Zie, hij staat achter onze muur,kijkend door de vensters, spiedend door de traliën."
+        },
+        {
+          "nr": 10,
+          "tekst": "Mijn geliefde gaat tot mij spreken:Sta toch op, mijn liefste,mijn schone, en kom."
+        },
+        {
+          "nr": 11,
+          "tekst": "Want zie, de winter is voorbij,de regen is over, verdwenen."
+        },
+        {
+          "nr": 12,
+          "tekst": "De bloemen vertonen zich op het veld,de zangtijd is aangebroken,en ’t gekir van de tortel wordt gehoord in ons land."
+        },
+        {
+          "nr": 13,
+          "tekst": "De vijgeboom laat zijn vroege vrucht zwellen,en de wijnstokken in bloei geven geur.Sta op, kom, mijn liefste,mijn schone, kom!"
+        },
+        {
+          "nr": 14,
+          "tekst": "Mijn duif in de rotskloof,in de schuilhoek van de bergwand,laat mij uw gedaante zien,laat mij uw stem horen,want zoet is uw stemen uw gedaante is bekoorlijk."
+        },
+        {
+          "nr": 15,
+          "tekst": "Vangt ons de vossen,de kleine vossen,die de wijngaarden verderven,nu onze wijngaarden in bloei staan."
+        },
+        {
+          "nr": 16,
+          "tekst": "Mijn geliefde is van mij en ik ben van hem,die te midden der leliën weidt,"
+        },
+        {
+          "nr": 17,
+          "tekst": "tot de avondwind waaiten de schaduwen vlieden.Wend u dan hierheen, en doeals de gazel, mijn geliefde,of als het jong van een hertop de gekloofde bergen."
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Op mijn legerstede des nachtszocht ik mijn zielsbeminde;ik zocht hem, maar ik vond hem niet."
+        },
+        {
+          "nr": 2,
+          "tekst": "Ik wil opstaan en rondgaan in de stad,op straten en pleinenen mijn zielsbeminde zoeken;ik zocht hem, maar ik vond hem niet."
+        },
+        {
+          "nr": 3,
+          "tekst": "De wachters, die in de stad hun ronde deden, troffen mij aan;„Hebt gij ook mijn zielsbeminde gezien?”"
+        },
+        {
+          "nr": 4,
+          "tekst": "Nauwelijks was ik hen voorbijgegaan,of daar vond ik mijn zielsbeminde.Ik greep hem vast en wilde hem niet loslaten,totdat ik hem gebracht had in het huis van mijn moeder,in de kamer van haar die mij gebaard heeft."
+        },
+        {
+          "nr": 5,
+          "tekst": "Ik bezweer u, dochters van Jeruzalem,bij de gazellen of bij de hinden des velds,wekt de liefde niet op en prikkelt haar niet,vóórdat het haar behaagt."
+        },
+        {
+          "nr": 6,
+          "tekst": "Wat trekt daar op uit de woestijn,als zuilen van rook,omgeurd van mirre en wierooken allerlei reukwerk van de koopman?"
+        },
+        {
+          "nr": 7,
+          "tekst": "Zie, dat is Salomo’s draagstoel,omringd door zestig helden,uit de helden van Israël,"
+        },
+        {
+          "nr": 8,
+          "tekst": "allen het zwaard houdend,geoefend ten strijde,elk met het zwaard aan zijn heupvanwege de verschrikking in de nacht."
+        },
+        {
+          "nr": 9,
+          "tekst": "Koning Salomo maakte zich een draagkoetsuit hout van de Libanon."
+        },
+        {
+          "nr": 10,
+          "tekst": "De spijlen maakte hij van zilver,de leuning van goud,de zitting van purper,het binnenwerk met een bekleding van liefdesgeschenken,afkomstig van de dochters van Jeruzalem."
+        },
+        {
+          "nr": 11,
+          "tekst": "Gaat uit, dochters van Sion,aanschouwt koning Salomo, met de kroon,waarmee zijn moeder hem kroondeop de dag van zijn bruiloft,op de dag van de vreugde zijns harten."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Zie, gij zijt schoon, mijn liefste,o, gij zijt schoon;uw ogen zijn als duiven,door uw sluier heen,uw haar is als een kudde geiten,die neergolven van Gileads gebergte."
+        },
+        {
+          "nr": 2,
+          "tekst": "Uw tanden zijn als een kudde geschoren schapen,die opkomen uit het wed,alle met tweelingen,en zonder jongen is er geen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Als een scharlaken draad zijn uw lippenen liefelijk is uw mond.Als een gespleten granaatappel zijn uw slapen,door uw sluier heen."
+        },
+        {
+          "nr": 4,
+          "tekst": "Uw hals is als de Davidstoren,die gebouwd is met tinnen;de duizend schilden hangen daaraan,en alle zijn beukelaars van helden."
+        },
+        {
+          "nr": 5,
+          "tekst": "Uw beide borsten zijn als tweelingjongen van gazellen,die te midden van de leliën weiden."
+        },
+        {
+          "nr": 6,
+          "tekst": "Tot de avondwind waaiten de schaduwen vlieden,wil ik naar de mirreberg gaan,naar de wierookheuvel."
+        },
+        {
+          "nr": 7,
+          "tekst": "Alles is schoon aan u, mijn liefste,zonder enig gebrek zijt gij."
+        },
+        {
+          "nr": 8,
+          "tekst": "Kom bij mij van de Libanon, bruid,kom bij mij van de Libanon,daal af van de top van de Amana,de top van de Senir, de Hermon,van de holen der leeuwen,van de bergen der panters."
+        },
+        {
+          "nr": 9,
+          "tekst": "Gij hebt mij betoverd, mijn zuster, bruid,betoverd met één blik van uw ogen,met één snoer van uw halsversiersel."
+        },
+        {
+          "nr": 10,
+          "tekst": "Hoe kostelijk is uw liefde,mijn zuster, bruid,hoeveel heerlijker uw liefde dan wijn,en de geur van uw oliën dan alle specerijen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Van honigzeem druppelen uw lippen, bruid,honig en melk is onder uw tong;en de geur van uw klederenis als de geur van de Libanon."
+        },
+        {
+          "nr": 12,
+          "tekst": "Een afgesloten hof zijt gij, mijn zuster, bruid,een afgesloten wel, een verzegelde bron."
+        },
+        {
+          "nr": 13,
+          "tekst": "Wat uit u opspruit, is een lusthof van granaatappelbomen,met kostelijke vruchten,hennabloemen en nardusplanten,"
+        },
+        {
+          "nr": 14,
+          "tekst": "nardus en saffraan, kalmus en kaneel,met allerlei wierookstruiken,mirre en aloë,met al de kostbaarste specerijen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Fontein der hoven, bron van levend water,beken van de Libanon!"
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "– Ik ben gekomen tot mijn hof,mijn zuster, bruid,ik plukte mijn mirre en mijn balsem,ik at mijn raat en mijn honig,ik dronk mijn wijn en mijn melk.Eet, vrienden, drinkt,en wordt dronken, genoten."
+        },
+        {
+          "nr": 2,
+          "tekst": "Ik sliep, maar mijn hart was wakker.Hoor, mijn geliefde klopt aan.„Doe mij open, mijn zuster, mijn liefste,mijn duive, mijn volmaakte,want mijn hoofd is vol dauw,mijn lokken zijn vol druppels van de nacht.”"
+        },
+        {
+          "nr": 3,
+          "tekst": "„Ik heb mijn kleed reeds afgelegd,hoe zou ik het weer aandoen?Ik heb mijn voeten gewassen,hoe zou ik ze weer verontreinigen?”"
+        },
+        {
+          "nr": 4,
+          "tekst": "Mijn geliefde stak zijn hand door de openingen mijn hart werd onstuimig over hem."
+        },
+        {
+          "nr": 5,
+          "tekst": "Ik stond op om mijn geliefde open te doen,mijn handen dropen van mirre,mijn vingers van vloeiende mirreop de greep van de grendel."
+        },
+        {
+          "nr": 6,
+          "tekst": "Ik deed mijn geliefde open,maar mijn geliefde was weg, verdwenen!Mijn ziel bezwijmde, toen hij sprak,ik zocht hem, maar vond hem niet,ik riep hem, maar hij antwoordde mij niet."
+        },
+        {
+          "nr": 7,
+          "tekst": "De wachters, die in de stad hun ronde deden, troffen mij aan,zij sloegen mij, verwondden mij,zij rukten mij het overkleed af,de wachters der muren."
+        },
+        {
+          "nr": 8,
+          "tekst": "– Ik bezweer u, dochters van Jeruzalem,indien gij mijn geliefde vindt,wat zult gij hem melden?Dat ik bezwijm van liefde."
+        },
+        {
+          "nr": 9,
+          "tekst": "– Wat heeft uw geliefde vóór boven een ander,o schoonste der vrouwen?Wat heeft uw geliefde vóór boven een ander,dat gij ons aldus bezweert?"
+        },
+        {
+          "nr": 10,
+          "tekst": "– Mijn geliefde is blank en rood,uitblinkend boven tienduizend."
+        },
+        {
+          "nr": 11,
+          "tekst": "Zijn hoofd is fijn goud, gelouterd goud,zijn lokken zijn golvend, ravezwart."
+        },
+        {
+          "nr": 12,
+          "tekst": "Zijn ogen zijn als duiven bij waterbeken,badend in melk, zittend bij een overvloedige bron."
+        },
+        {
+          "nr": 13,
+          "tekst": "Zijn wangen zijn als balsembedden,perken van kruiden,zijn lippen zijn leliën,druipend van vloeiende mirre."
+        },
+        {
+          "nr": 14,
+          "tekst": "Zijn armen zijn gouden rollen,bezet met Tarsisstenen,zijn lichaam is een kunstwerk van ivoor,bedekt met lazuursteen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Zijn benen zijn witmarmeren zuilen,rustend op voetstukken van gelouterd goud;zijn gestalte is als de Libanon,uitgelezen als de ceders."
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "– Waarheen is uw geliefde gegaan,o schoonste der vrouwen?Waarheen heeft uw geliefde zich gewend?Want wij willen hem met u zoeken."
+        },
+        {
+          "nr": 2,
+          "tekst": "– Mijn geliefde is afgedaald naar zijn hof,naar de balsembedden,om zich te vermeien in de hoven,om leliën te plukken."
+        },
+        {
+          "nr": 3,
+          "tekst": "Van mijn geliefde ben iken van mij is mijn geliefde,die te midden der leliën weidt."
+        },
+        {
+          "nr": 4,
+          "tekst": "Schoon zijt gij, mijn liefste, als Tirsa,liefelijk als Jeruzalem,geducht als krijgsscharen met banieren."
+        },
+        {
+          "nr": 5,
+          "tekst": "Wend uw ogen van mij af,want in verwarring brengen zij mij;uw haar is als een kudde geiten,die neergolven van Gilead."
+        },
+        {
+          "nr": 6,
+          "tekst": "Uw tanden zijn als een kudde ooien,die opkomen uit het wed,alle met tweelingen,en zonder jongen is er geen."
+        },
+        {
+          "nr": 7,
+          "tekst": "Als een gespleten granaatappel zijn uw slapen,door uw sluier heen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Zestig koninginnen zijn er,tachtig bijvrouwen,en jonkvrouwen zonder tal."
+        },
+        {
+          "nr": 9,
+          "tekst": "Maar enig is zij, mijn duif, mijn volmaakte,een enige was zij voor haar moeder,een reine voor wie haar gebaard heeft.Meisjes zien haar, en prijzen haar gelukkig;koninginnen en bijvrouwen, en loven haar."
+        },
+        {
+          "nr": 10,
+          "tekst": "Wie is zij, die opgaat als de dageraad,schoon als de blanke maan,stralend als de gloeiende zon,geducht als krijgsscharen?"
+        },
+        {
+          "nr": 11,
+          "tekst": "Naar de notenhof daalde ik afom te zien naar de bloesems van het dal,om te zien of de wijnstok botte,de granaatappelbomen bloeiden."
+        },
+        {
+          "nr": 12,
+          "tekst": "– Ik kende mijzelve niet;gij hebt mij op vorstelijke wagens geplaatst."
+        },
+        {
+          "nr": 13,
+          "tekst": "Wend u, wend u, gij Sulammitische,wend u, wend u, dat wij u bezien!„Wat wilt gij naar de Sulammitische zienals naar de reidans van Machanaïm?”"
+        }
+      ]
+    },
+    {
+      "nr": 7,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Hoe schoon zijn uw schreden in de sandalen,vorstendochter!De welvingen van uw heupen zijn als sieraden,werk van meesterhanden."
+        },
+        {
+          "nr": 2,
+          "tekst": "Uw navel is een welgerond bekken,waaraan geen gemengde wijn ontbreke;uw schoot is een tarwehoop,omzoomd met leliën."
+        },
+        {
+          "nr": 3,
+          "tekst": "Uw beide borsten zijn als tweelingjongenvan gazellen."
+        },
+        {
+          "nr": 4,
+          "tekst": "Uw hals is als de ivoren toren,uw ogen zijn als de vijvers van Chesbonbij de poort Bat-Rabbim,uw neus is als de toren van de Libanon,uitziende op Damascus."
+        },
+        {
+          "nr": 5,
+          "tekst": "Uw hoofd op u is als de Karmel,uw haardos is als purper:een Koning is gevangen in die lokken."
+        },
+        {
+          "nr": 6,
+          "tekst": "– Hoe schoon zijt gij, liefde;hoe heerlijk onder wat men verlangen kan!"
+        },
+        {
+          "nr": 7,
+          "tekst": "– Ja, uw ranke gestalte is als een palm,en uw borsten zijn als dadeltrossen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Ik zeide: Ik wil die palm beklimmenen zijn vruchtentrossen plukken.Mogen uw borsten als druiventrossen zijn,de geur van uw adem zij als appels,"
+        },
+        {
+          "nr": 9,
+          "tekst": "uw verhemelte als de kostelijkste wijn . . .– . . . die regelrecht mijn geliefde toestroomt,en in zijn slaap naar zijn lippen vloeit."
+        },
+        {
+          "nr": 10,
+          "tekst": "Van mijn geliefde ben ik,en naar mij gaat zijn begeerte uit."
+        },
+        {
+          "nr": 11,
+          "tekst": "Kom, mijn geliefde, laten wij uitgaan naar het veld,laten wij vernachten tussen de hennabloemen."
+        },
+        {
+          "nr": 12,
+          "tekst": "Laten wij vroeg naar de wijngaarden gaanen zien of de wijnstok uitbot,of de bloesems zijn opengesprongen,de granaten bloeien.Daar zal ik u mijn liefde geven."
+        },
+        {
+          "nr": 13,
+          "tekst": "De liefdesappelen geven hun geur,en bij onze deuren groeien allerlei kostelijke vruchten,jonge en oude:ik heb ze voor u, mijn geliefde, bewaard."
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Och, waart gij als mijn broeder,aan de borst van mijn moeder gezoogd!Vond ik u dan buiten, ik kuste uen niemand zou mij daarom laken."
+        },
+        {
+          "nr": 2,
+          "tekst": "Ik zou u leiden, ik zou u brengennaar het huis van mijn moeder, die mij opvoedt;van geurige wijn zou ik u te drinken geven,van de jonge wijn mijner granaatappelen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Zijn linkerarm is onder mijn hoofden zijn rechterarm omvangt mij."
+        },
+        {
+          "nr": 4,
+          "tekst": "Ik bezweer u, dochters van Jeruzalem,waarom wilt gij de liefde opwekken en prikkelen,vóórdat het haar behaagt?"
+        },
+        {
+          "nr": 5,
+          "tekst": "Wie trekt daar op uit de woestijn,leunend op haar geliefde?– Onder de appelboom wekte ik u,daar ontving u uw moeder,daar ontving zij, die u baarde."
+        },
+        {
+          "nr": 6,
+          "tekst": "– Leg mij als een zegel aan uw hartals een zegel aan uw arm.Want sterk als de dood is de liefdeonverbiddelijk als het rijk van de doden de hartstocht,haar vlammen zijn vuurvlammen,een vuurgloed des Heren."
+        },
+        {
+          "nr": 7,
+          "tekst": "Vele wateren kunnen de liefde niet blussenen rivieren spoelen haar niet weg.Al bood iemand alles wat hij bezit voor de liefde,smadelijk zou men hem afwijzen."
+        },
+        {
+          "nr": 8,
+          "tekst": "– Wij hebben een jonge zuster,die nog geen borsten heeft.Wat zullen wij met onze zuster doenten dage, dat iemand naar haar dingt?"
+        },
+        {
+          "nr": 9,
+          "tekst": "Als zij een muur is,dan bouwen wij daarop een zilveren tinne;maar als zij een deur is,dan sluiten wij haar af met cederen planken."
+        },
+        {
+          "nr": 10,
+          "tekst": "– Ik was een muuren mijn borsten waren als torens.Toen werd ik in zijn ogenals een, die overgave aanbiedt."
+        },
+        {
+          "nr": 11,
+          "tekst": "Salomo bezat een wijngaardte Baäl-Hamon.Hij gaf die wijngaard aan bewakers,ieder geeft voor de vrucht daarvanduizend zilverlingen."
+        },
+        {
+          "nr": 12,
+          "tekst": "Mijn wijngaard, de mijne, ligt vóór mij;de duizend laat ik aan u, Salomo,en tweehonderd aan de bewakers van zijn vrucht."
+        },
+        {
+          "nr": 13,
+          "tekst": "– Gij bewoonster der hoven,naar uw stem luisteren de makkers,laat ze mij horen."
+        },
+        {
+          "nr": 14,
+          "tekst": "– Haast u, mijn geliefde, en doe als de gazelof als het hertejong op bergen vol balsemkruid."
+        }
+      ]
+    }
+  ]
+}

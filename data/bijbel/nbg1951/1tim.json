@@ -1,0 +1,491 @@
+{
+  "boek": "1tim",
+  "naam": "1 Timoteüs",
+  "testament": "NT",
+  "voorbeeld": false,
+  "bron": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "hoofdstukken": [
+    {
+      "nr": 1,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Paulus, een apostel van Christus Jezus naar de opdracht van God, onze Heiland, en van Christus Jezus, onze hoop,"
+        },
+        {
+          "nr": 2,
+          "tekst": "aan Timoteüs, mijn waar kind in het geloof: genade, barmhartigheid en vrede zij u van God, de Vader, en van Christus Jezus, onze Here."
+        },
+        {
+          "nr": 3,
+          "tekst": "Doe, zoals ik u bij mijn reis naar Macedonië aangeraden heb: blijf nog te Efeze, om sommigen te bevelen geen andere leer te brengen,"
+        },
+        {
+          "nr": 4,
+          "tekst": "noch zich bezig te houden met fabels en eindeloze geslachtsregisters, die veeleer moeilijkheden ten gevolge hebben dan door God gegeven leiding in het geloof."
+        },
+        {
+          "nr": 5,
+          "tekst": "En het doel van (alle) vermaning is liefde uit een rein hart, uit een goed geweten en een ongeveinsd geloof."
+        },
+        {
+          "nr": 6,
+          "tekst": "Door dit spoor te verlaten zijn sommigen vervallen tot ijdel gepraat;"
+        },
+        {
+          "nr": 7,
+          "tekst": "zij willen leraars der wet zijn, zonder ook maar te beseffen wat zij zeggen of waarover zij zo stellig spreken."
+        },
+        {
+          "nr": 8,
+          "tekst": "Wij weten, dat de wet goed is, indien iemand haar wettig toepast,"
+        },
+        {
+          "nr": 9,
+          "tekst": "wel wetend, dat de wet niet gesteld is voor de rechtvaardige, maar voor wettelozen en tuchtelozen, voor goddelozen en zondaars, voor onverlaten en onheiligen, voor vadermoorders en moedermoorders en doodslagers,"
+        },
+        {
+          "nr": 10,
+          "tekst": "hoereerders, knapenschenders, zielverkopers, leugenaars, meinedigen, en al wat verder ingaat tegen de gezonde leer,"
+        },
+        {
+          "nr": 11,
+          "tekst": "in overeenstemming met het evangelie der heerlijkheid van de zalige God, dat mij is toevertrouwd."
+        },
+        {
+          "nr": 12,
+          "tekst": "Ik breng dank aan Hem, die mij kracht gegeven heeft, Christus Jezus, onze Here, dat Hij mij getrouw geacht heeft, daar Hij mij in de bediening gesteld heeft,"
+        },
+        {
+          "nr": 13,
+          "tekst": "hoewel ik vroeger een godslasteraar en een vervolger en een geweldenaar was. Maar mij is ontferming bewezen, omdat ik het in mijn onwetendheid, uit ongeloof, gedaan heb,"
+        },
+        {
+          "nr": 14,
+          "tekst": "en zeer overvloedig is de genade van onze Here geweest, met het geloof en de liefde in Christus Jezus."
+        },
+        {
+          "nr": 15,
+          "tekst": "Dit is een getrouw woord en alle aanneming waard, dat Christus Jezus in de wereld gekomen is om zondaren te behouden, onder welke ik een eerste plaats inneem."
+        },
+        {
+          "nr": 16,
+          "tekst": "Maar hiertoe is mij ontferming bewezen, dat Jezus Christus in de eerste plaats in mij zijn ganse lankmoedigheid zou bewijzen tot een voorbeeld voor hen, die later op Hem zouden vertrouwen ten eeuwigen leven."
+        },
+        {
+          "nr": 17,
+          "tekst": "De Koning der eeuwen, de onvergankelijke, de onzienlijke, de enige God, zij eer en heerlijkheid in alle eeuwigheid! Amen."
+        },
+        {
+          "nr": 18,
+          "tekst": "Deze opdracht vertrouw ik u toe, mijn kind Timoteüs, overeenkomstig de profetieën, die vroeger aangaande u zijn uitgesproken, opdat gij, u daarnaar richtend, de goede strijd strijdt"
+        },
+        {
+          "nr": 19,
+          "tekst": "met geloof en met een goed geweten. Omdat sommigen dit hebben verworpen, heeft hun geloof schipbreuk geleden."
+        },
+        {
+          "nr": 20,
+          "tekst": "Tot hen behoren Hymeneüs en Alexander, die ik aan de satan heb overgegeven, opdat hun het lasteren worde afgeleerd."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Ik vermaan u dan allereerst smekingen, gebeden, voorbeden en dankzeggingen te doen voor alle mensen,"
+        },
+        {
+          "nr": 2,
+          "tekst": "voor koningen en alle hooggeplaatsten, opdat wij een stil en rustig leven mogen leiden in alle godsvrucht en waardigheid."
+        },
+        {
+          "nr": 3,
+          "tekst": "Dit is goed en aangenaam voor God, onze Heiland,"
+        },
+        {
+          "nr": 4,
+          "tekst": "die wil, dat alle mensen behouden worden en tot erkentenis der waarheid komen."
+        },
+        {
+          "nr": 5,
+          "tekst": "Want er is één God en ook één middelaar tussen God en mensen, de mens Christus Jezus,"
+        },
+        {
+          "nr": 6,
+          "tekst": "die Zich gegeven heeft tot een losprijs voor allen; en daarvan wordt getuigd te juister tijd."
+        },
+        {
+          "nr": 7,
+          "tekst": "En ik ben daartoe als een verkondiger en een apostel gesteld – ik spreek waarheid en geen leugen – als een leermeester der heidenen in geloof en waarheid."
+        },
+        {
+          "nr": 8,
+          "tekst": "Ik wil dan, dat de mannen op iedere plaats bidden met opheffing van heilige handen, zonder toorn en twist."
+        },
+        {
+          "nr": 9,
+          "tekst": "Evenzo, dat de vrouwen zich sieren met waardige klederdracht, zedig en ingetogen, niet met haarvlechten en goud of paarlen en kostbare kleding,"
+        },
+        {
+          "nr": 10,
+          "tekst": "maar – zó immers betaamt het vrouwen, die voor haar godsvrucht uitkomen – door goede werken."
+        },
+        {
+          "nr": 11,
+          "tekst": "Een vrouw moet zich rustig, in alle onderdanigheid, laten onderrichten,"
+        },
+        {
+          "nr": 12,
+          "tekst": "maar ik sta niet toe, dat een vrouw onderricht geeft of gezag over de man heeft; zij moet zich rustig houden."
+        },
+        {
+          "nr": 13,
+          "tekst": "Want eerst is Adam geformeerd, en daarna Eva."
+        },
+        {
+          "nr": 14,
+          "tekst": "En Adam heeft zich niet laten verleiden, maar de vrouw is door de verleiding in overtreding gevallen;"
+        },
+        {
+          "nr": 15,
+          "tekst": "doch zij zal behouden worden, kinderen ter wereld brengende, indien zij blijft in geloof, liefde en heiliging, met ingetogenheid."
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Dit is een betrouwbaar woord: indien iemand staat naar het opzienersambt, dan begeert hij een voortreffelijke taak."
+        },
+        {
+          "nr": 2,
+          "tekst": "Een opziener dan moet zijn onbesproken, de man van één vrouw, nuchter, bezadigd, beschaafd, gastvrij, bekwaam om te onderwijzen,"
+        },
+        {
+          "nr": 3,
+          "tekst": "niet aan de wijn verslaafd, niet opvliegend, maar vriendelijk, niet strijdlustig of geldzuchtig,"
+        },
+        {
+          "nr": 4,
+          "tekst": "een goed bestierder van zijn eigen huis, die met alle waardigheid zijn kinderen onder tucht houdt;"
+        },
+        {
+          "nr": 5,
+          "tekst": "indien echter iemand zijn eigen huis niet weet te bestieren, hoe zal hij voor de gemeente Gods zorgen?"
+        },
+        {
+          "nr": 6,
+          "tekst": "Hij mag niet een pas bekeerde zijn, opdat hij niet door opgeblazenheid in het oordeel des duivels valle."
+        },
+        {
+          "nr": 7,
+          "tekst": "Hij moet ook gunstig bekend zijn bij de buitenstaanden, opdat hij niet in opspraak kome en in een strik des duivels valle."
+        },
+        {
+          "nr": 8,
+          "tekst": "Evenzo moeten de diakenen waardig zijn, niet met twee tongen sprekende, niet verzot op veel wijn, niet op winstbejag uit,"
+        },
+        {
+          "nr": 9,
+          "tekst": "maar het geheimenis des geloofs bewarend in een rein geweten."
+        },
+        {
+          "nr": 10,
+          "tekst": "Laten ook dezen eerst op de proef gesteld worden, om daarna, als zij onberispelijk blijken, hun dienst te vervullen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Evenzo moeten (hun) vrouwen zijn: waardig, geen kwaadspreeksters, nuchter, betrouwbaar in alles."
+        },
+        {
+          "nr": 12,
+          "tekst": "Diakenen moeten mannen van één vrouw zijn, hun kinderen en hun eigen huis goed bestieren."
+        },
+        {
+          "nr": 13,
+          "tekst": "Want zij, die hun dienst goed hebben vervuld, verwerven zich een ereplaats en veel vrijmoedigheid om te spreken door het geloof in Christus Jezus."
+        },
+        {
+          "nr": 14,
+          "tekst": "Dit schrijf ik u, hoewel ik vrij spoedig tot u hoop te komen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Mocht ik nog uitblijven, dan weet gij, hoe men zich behoort te gedragen in het huis Gods, dat is de gemeente van de levende God, een pijler en fundament der waarheid."
+        },
+        {
+          "nr": 16,
+          "tekst": "En buiten twijfel, groot is het geheimenis der godsvrucht:Die Zich geopenbaard heeft in het vlees,is gerechtvaardigd door de Geest,is verschenen aan de engelen,is verkondigd onder de heidenen,geloofd in de wereld,opgenomen in heerlijkheid."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Maar de Geest zegt nadrukkelijk, dat in latere tijden sommigen zullen afvallen van het geloof, doordat zij dwaalgeesten en leringen van boze geesten volgen,"
+        },
+        {
+          "nr": 2,
+          "tekst": "door de huichelarij van leugensprekers, die in hun eigen geweten gebrandmerkt zijn,"
+        },
+        {
+          "nr": 3,
+          "tekst": "het huwelijk verbieden en het genot van spijzen, welke God toch geschapen heeft om met dankzegging te worden gebruikt door de gelovigen, die tot erkentenis der waarheid gekomen zijn."
+        },
+        {
+          "nr": 4,
+          "tekst": "Want alles wat God geschapen heeft, is goed en niets daarvan is verwerpelijk, als het met dankzegging aanvaard wordt:"
+        },
+        {
+          "nr": 5,
+          "tekst": "want het wordt geheiligd door het woord Gods en door gebed."
+        },
+        {
+          "nr": 6,
+          "tekst": "Als gij dit de broeders voorhoudt, zult gij een goed dienaar van Christus Jezus zijn, wèl onderlegd in de woorden des geloofs en der goede leer, die gij gevolgd zijt;"
+        },
+        {
+          "nr": 7,
+          "tekst": "maar wees afkerig van onheilige oudevrouwenpraat. Oefen u in de godsvrucht."
+        },
+        {
+          "nr": 8,
+          "tekst": "Want de oefening van het lichaam is van weinig nut, doch de godsvrucht is nuttig tot alles, daar zij een belofte inhoudt van leven, in heden en toekomst."
+        },
+        {
+          "nr": 9,
+          "tekst": "Dit is een betrouwbaar woord en alle aanneming waard."
+        },
+        {
+          "nr": 10,
+          "tekst": "Ja, hierom getroosten wij ons moeite en grote inspanning, omdat wij onze hoop gevestigd hebben op de levende God, die een Heiland is voor alle mensen, inzonderheid voor de gelovigen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Beveel en leer dit."
+        },
+        {
+          "nr": 12,
+          "tekst": "Niemand schatte u gering om uw jeugdige leeftijd, maar wees een voorbeeld voor de gelovigen in woord, in wandel, in liefde, in geloof en in reinheid."
+        },
+        {
+          "nr": 13,
+          "tekst": "In afwachting van mijn komst moet gij u toeleggen op het voorlezen, het vermanen en het leren."
+        },
+        {
+          "nr": 14,
+          "tekst": "Veronachtzaam de gave in u niet, die u krachtens een profetenwoord geschonken is onder handoplegging van de gezamenlijke oudsten."
+        },
+        {
+          "nr": 15,
+          "tekst": "Behartig deze dingen, leef erin, opdat aan allen blijke, dat gij vooruitgaat."
+        },
+        {
+          "nr": 16,
+          "tekst": "Zie toe op uzelf en op de leer, volhard in deze dingen; want door dit te doen zult gij zowel uzelf als hen, die u horen, behouden."
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Word niet heftig tegen een oude man, maar vermaan hem als een vader; doe het jonge mannen als broeders,"
+        },
+        {
+          "nr": 2,
+          "tekst": "oude vrouwen als moeders, jonge vrouwen als zusters, in alle reinheid."
+        },
+        {
+          "nr": 3,
+          "tekst": "Houd als weduwen in ere, wie waarlijk weduwen zijn."
+        },
+        {
+          "nr": 4,
+          "tekst": "Maar indien een weduwe kinderen of kleinkinderen heeft, laten zij dan eerst aan eigen familie godsvrucht tonen en aan het vorig geslacht vergelden wat zij hun te danken hebben, want dit is welgevallig aan God."
+        },
+        {
+          "nr": 5,
+          "tekst": "Een ware weduwe dan, die alleen staat, heeft haar hoop op God gevestigd en volhardt in haar smekingen en gebeden dag en nacht;"
+        },
+        {
+          "nr": 6,
+          "tekst": "doch zij, die een los leven leidt, is levend dood."
+        },
+        {
+          "nr": 7,
+          "tekst": "Ook deze dingen moet gij bevelen, opdat zij onberispelijk blijven."
+        },
+        {
+          "nr": 8,
+          "tekst": "Maar indien een vrouw voor de haren, en nog wel voor haar huisgenoten, niet zorgt, dan heeft zij haar geloof verloochend en is zij erger dan een ongelovige."
+        },
+        {
+          "nr": 9,
+          "tekst": "Als weduwe kome in aanmerking iemand niet beneden de zestig jaren, die de vrouw geweest is van één man;"
+        },
+        {
+          "nr": 10,
+          "tekst": "inzake goede werken moet van haar getuigd kunnen worden, dat zij kinderen grootgebracht heeft, gastvrijheid bewezen, de voeten der heiligen gewassen, verdrukten ondersteund en alle goed werk behartigd heeft."
+        },
+        {
+          "nr": 11,
+          "tekst": "Maar wijs jonge weduwen af, want wanneer de zinnen haar van Christus aftrekken, willen zij huwen,"
+        },
+        {
+          "nr": 12,
+          "tekst": "en halen een oordeel over zich, omdat zij haar eerste trouw hebben verzaakt."
+        },
+        {
+          "nr": 13,
+          "tekst": "Maar tegelijk wennen zij zich eraan de huizen rond te gaan bij gebrek aan bezigheid, en niet alleen zonder bezigheid, maar ook bezig met praatjes en al te bezig met het spreken over onbehoorlijke dingen."
+        },
+        {
+          "nr": 14,
+          "tekst": "Ik wil daarom, dat de jonge weduwen huwen, kinderen krijgen, haar huis bestieren, en niet door lasterpraat aan de tegenpartij vat op zich geven."
+        },
+        {
+          "nr": 15,
+          "tekst": "Want reeds zijn sommigen afgeweken, de satan achterna."
+        },
+        {
+          "nr": 16,
+          "tekst": "Indien een gelovige vrouw weduwen bij zich heeft, laat zij die ondersteunen, zodat de gemeente er niet door bezwaard wordt; dan kan deze de werkelijke weduwen ondersteunen."
+        },
+        {
+          "nr": 17,
+          "tekst": "De oudsten, die goede leiding geven, komt dubbel eerbewijs toe, vooral hun, die zich belasten met prediking en onderricht."
+        },
+        {
+          "nr": 18,
+          "tekst": "Immers, de Schrift zegt: Gij zult een dorsende os niet muilbanden, en: De arbeider is zijn loon waard."
+        },
+        {
+          "nr": 19,
+          "tekst": "Gij moet geen klacht tegen een oudste aannemen, tenzij er twee of drie getuigen zijn."
+        },
+        {
+          "nr": 20,
+          "tekst": "Wie in zonde leven, moet gij in aller tegenwoordigheid bestraffen, opdat ook de overigen ontzag hebben."
+        },
+        {
+          "nr": 21,
+          "tekst": "Ik betuig u voor God en voor Christus Jezus en voor de uitverkoren engelen, dat gij daaraan de hand houdt, zonder vooroordeel en zonder iets te doen uit vooringenomenheid."
+        },
+        {
+          "nr": 22,
+          "tekst": "Leg niemand overijld de handen op, heb ook geen deel aan de zonden van anderen, houd u rein."
+        },
+        {
+          "nr": 23,
+          "tekst": "Drink voortaan niet (alleen) water, maar gebruik een weinig wijn voor uw maag en voor uw gedurige ongesteldheden."
+        },
+        {
+          "nr": 24,
+          "tekst": "Van sommige mensen zijn de zonden zo duidelijk, dat zij voor hen uitgaan naar het gericht, bij anderen komen zij achteraan."
+        },
+        {
+          "nr": 25,
+          "tekst": "Zo zijn ook de goede werken aanstonds duidelijk, en die, waarmede het anders gesteld is, kunnen niet verborgen blijven."
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Allen, die onder een slavenjuk zijn, moeten hun meesters alle eer waardig achten, opdat de naam Gods en de leer geen smaad lijden."
+        },
+        {
+          "nr": 2,
+          "tekst": "Zij, die gelovige meesters hebben, moeten hen niet geringschatten, omdat zij broeders zijn, doch des te betere slaven wezen, omdat (hun meesters) gelovigen en geliefden zijn, die zich beijveren wèl te doen. Leer en vermaan in deze zin."
+        },
+        {
+          "nr": 3,
+          "tekst": "Indien iemand een andere leer verkondigt en zich niet voegt naar de gezonde woorden van onze Here Jezus Christus en de leer der godsvrucht,"
+        },
+        {
+          "nr": 4,
+          "tekst": "dan is hij opgeblazen, hoewel hij niets weet, en heeft hij een zwak voor geschillen en haarkloverijen, een bron van nijd, twist, lasteringen, kwade vermoedens,"
+        },
+        {
+          "nr": 5,
+          "tekst": "en geharrewar bij mensen die niet helder meer zijn van denken en het spoor der waarheid bijster geraakt zijn, daar zij de godsvrucht als iets winstgevends beschouwen."
+        },
+        {
+          "nr": 6,
+          "tekst": "Nu brengt inderdaad de godsvrucht grote winst, (indien zij gepaard gaat) met tevredenheid."
+        },
+        {
+          "nr": 7,
+          "tekst": "Want wij hebben niets op de wereld medegebracht; wij kunnen er ook niets uit medenemen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Als wij echter onderhoud en onderdak hebben, dan moet ons dat genoeg zijn."
+        },
+        {
+          "nr": 9,
+          "tekst": "Maar wie rijk willen zijn, vallen in verzoeking, in een strik, en in vele dwaze en schadelijke begeerten, die de mensen doen wegzinken in verderf en ondergang."
+        },
+        {
+          "nr": 10,
+          "tekst": "Want de wortel van alle kwaad is de geldzucht. Door daarnaar te haken zijn sommigen van het geloof afgedwaald en hebben zich met vele smarten doorboord."
+        },
+        {
+          "nr": 11,
+          "tekst": "Gij daarentegen, o mens Gods, ontvlucht deze dingen, doch jaag naar gerechtigheid, godsvrucht, geloof, liefde, volharding en zachtzinnigheid."
+        },
+        {
+          "nr": 12,
+          "tekst": "Strijd de goede strijd des geloofs, grijp het eeuwige leven, waartoe gij geroepen zijt en de goede belijdenis afgelegd hebt voor vele getuigen."
+        },
+        {
+          "nr": 13,
+          "tekst": "Ik beveel voor God, die alle leven wekt, en voor Christus Jezus, die de goede belijdenis voor Pontius Pilatus betuigd heeft,"
+        },
+        {
+          "nr": 14,
+          "tekst": "dat gij dit gebod onbevlekt en onberispelijk handhaaft tot de verschijning van onze Here Jezus Christus,"
+        },
+        {
+          "nr": 15,
+          "tekst": "welke te zijner tijd de zalige en enige Heerser zal doen aanschouwen, de Koning der koningen en de Here der Heren,"
+        },
+        {
+          "nr": 16,
+          "tekst": "die alleen onsterfelijkheid heeft en een ontoegankelijk licht bewoont, die geen der mensen gezien heeft of zien kan. Hem zij eer en eeuwige kracht! Amen."
+        },
+        {
+          "nr": 17,
+          "tekst": "Hun, die rijk zijn in de tegenwoordige wereld, moet gij bevelen niet hooghartig te zijn, en hun hoop gevestigd te houden niet op onzekere rijkdom, doch op God, die ons alles rijkelijk ten gebruike geeft,"
+        },
+        {
+          "nr": 18,
+          "tekst": "om wèl te doen, rijk te zijn in goede werken, vrijgevig en mededeelzaam,"
+        },
+        {
+          "nr": 19,
+          "tekst": "waardoor zij zich een vaste grondslag voor de toekomst verzekeren om het ware leven te grijpen."
+        },
+        {
+          "nr": 20,
+          "tekst": "O Timoteüs, bewaar wat u is toevertrouwd, houd u buiten het bereik van de onheilige, holle klanken en de tegenstellingen der ten onrechte zo genoemde kennis."
+        },
+        {
+          "nr": 21,
+          "tekst": "Sommigen, die woordvoerders daarvan zijn, zijn het spoor des geloofs bijster geraakt.De genade zij met ulieden."
+        }
+      ]
+    }
+  ]
+}
