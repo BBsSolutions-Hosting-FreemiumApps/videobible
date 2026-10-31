@@ -1,8 +1,8 @@
 # Videobijbel
 
-Statische Nederlandstalige bijbelwebsite. Na een merge naar `main` verschijnt de site op
-[https://bbssolutions-hosting-freemiumapps.github.io/videobible/](https://bbssolutions-hosting-freemiumapps.github.io/videobible/).
-Het basispad is `/videobible/`.
+Statische Nederlandstalige bijbelwebsite. Na een merge naar `main` hoort de site op
+[https://videobijbel.bbss.to/](https://videobijbel.bbss.to/).
+Het basispad is `/`. GitHub Pages blijft **Deploy from a branch: main / root**.
 
 ## Wat werkt
 
@@ -59,7 +59,9 @@ Volledige beschrijvingen kwamen niet mee: de eerste video is in deze omgeving la
 
 ## Pagina's na een merge
 
-GitHub Pages staat op **Deploy from a branch: main / root**. Die instelling blijft zo. Een merge naar `main` publiceert de HTML, CSS en lettertypen die al in de root staan, samen met `.nojekyll` (nodig voor de map `_astro`). Er is geen CNAME en geen automatische deploy.
+GitHub Pages staat op **Deploy from a branch: main / root**. Die instelling blijft zo. Een merge naar `main` publiceert de HTML, CSS en lettertypen die al in de root staan, samen met `.nojekyll` (nodig voor de map `_astro`).
+
+Het bestand `CNAME` in de root bevat `videobijbel.bbss.to`. Dezelfde regel staat in `public/`, zodat een volgende bouw hem meeneemt. Deze wijziging zet geen DNS-records. Het domein werkt pas als `videobijbel.bbss.to` al naar GitHub Pages wijst.
 
 Lokaal, na een wijziging:
 
