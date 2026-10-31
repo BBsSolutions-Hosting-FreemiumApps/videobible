@@ -1,0 +1,3812 @@
+{
+  "boek": "spr",
+  "naam": "Spreuken",
+  "testament": "OT",
+  "voorbeeld": false,
+  "bron": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "hoofdstukken": [
+    {
+      "nr": 1,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De Spreuken van Salomo, de zoon van David, de koning van Israël, om wijsheid en tucht te verkrijgen,"
+        },
+        {
+          "nr": 2,
+          "tekst": "om verstandige woorden te verstaan, om de tucht aan te nemen,"
+        },
+        {
+          "nr": 3,
+          "tekst": "die verstandig maakt, gerechtigheid en recht en rechtschapenheid;"
+        },
+        {
+          "nr": 4,
+          "tekst": "om de onverstandigen schranderheid, de jongeling kennis en bedachtzaamheid te geven."
+        },
+        {
+          "nr": 5,
+          "tekst": "De wijze hore en vermeerdere inzichten wie verstandig is, verwerve overleg,"
+        },
+        {
+          "nr": 6,
+          "tekst": "om te verstaan spreuk en beeldspraak,woorden en raadselen van wijzen."
+        },
+        {
+          "nr": 7,
+          "tekst": "De vreze des Heren is het begin der kennis;de dwazen verachten wijsheid en tucht."
+        },
+        {
+          "nr": 8,
+          "tekst": "Hoor, mijn zoon, de tucht van uw vaderen verwerp de onderwijzing van uw moeder niet;"
+        },
+        {
+          "nr": 9,
+          "tekst": "want zij zijn een liefelijke krans voor uw hoofd,een keten voor uw hals."
+        },
+        {
+          "nr": 10,
+          "tekst": "Mijn zoon, indien zondaren u willen verleiden,bewillig niet;"
+        },
+        {
+          "nr": 11,
+          "tekst": "indien zij zeggen: Ga met ons, laat ons loeren op bloed,laat ons de onschuldige belagen, ook al geeft hij geen oorzaak;"
+        },
+        {
+          "nr": 12,
+          "tekst": "laat ons hen levend verslinden evenals het dodenrijk,met huid en haar, gelijk degenen die in de groeve nederdalen;"
+        },
+        {
+          "nr": 13,
+          "tekst": "wij zullen allerlei kostbare dingen vinden,wij zullen onze huizen vullen met buit;"
+        },
+        {
+          "nr": 14,
+          "tekst": "gij zult met ons uw aandeel krijgen,één buidel zal er zijn voor ons allen –"
+        },
+        {
+          "nr": 15,
+          "tekst": "mijn zoon, ga niet met hen op weg;weerhoud uw voet van hun pad;"
+        },
+        {
+          "nr": 16,
+          "tekst": "want hun voeten snellen naar het kwaaden haasten zich om bloed te vergieten."
+        },
+        {
+          "nr": 17,
+          "tekst": "Want tevergeefs is het net uitgespannenvoor de ogen van al wat vleugels heeft;"
+        },
+        {
+          "nr": 18,
+          "tekst": "zij echter loeren op hun eigen bloeden leggen een hinderlaag voor hun eigen leven."
+        },
+        {
+          "nr": 19,
+          "tekst": "Zo zijn de paden van ieder die hunkert naar onrechtmatige winst,die haar bezitters het leven ontneemt."
+        },
+        {
+          "nr": 20,
+          "tekst": "De Wijsheid roept luide op de straat,op de pleinen verheft zij haar stem,"
+        },
+        {
+          "nr": 21,
+          "tekst": "op de hoek der rumoerige straten roept zij,bij de ingangen der poorten, in de stad, spreekt zij haar redenen:"
+        },
+        {
+          "nr": 22,
+          "tekst": "Hoelang zult gij, onverstandigen, het onverstand liefhebben,zullen spotters aan spotternij een welgevallen hebben,en dwazen de kennis haten?"
+        },
+        {
+          "nr": 23,
+          "tekst": "Keert u tot mijn vermaning!Zie, ik wil mijn geest voor u uitstorten,u mijn woorden bekendmaken."
+        },
+        {
+          "nr": 24,
+          "tekst": "Omdat gij weigerdet, toen ik riep,niemand acht gaf, toen ik mijn hand uitstrekte,"
+        },
+        {
+          "nr": 25,
+          "tekst": "gij al mijn raadgevingen in de wind sloegt,en mijn vermaning niet wildet,"
+        },
+        {
+          "nr": 26,
+          "tekst": "daarom zal ik ook lachen om uw verderf;ik zal spotten, wanneer uw verschrikking komen zal."
+        },
+        {
+          "nr": 27,
+          "tekst": "Wanneer uw verschrikking zal komen als een stormen uw verderf zal aansnellen als een wervelwind,wanneer benauwdheid en angst over u zullen komen,"
+        },
+        {
+          "nr": 28,
+          "tekst": "dan zullen zij tot mij roepen, maar ik zal niet antwoorden,zij zullen mij zoeken, maar mij niet vinden."
+        },
+        {
+          "nr": 29,
+          "tekst": "Omdat zij de kennis hebben gehaaten de vreze des Heren niet hebben verkozen,"
+        },
+        {
+          "nr": 30,
+          "tekst": "mijn raad niet hebben gewild,al mijn vermaningen hebben versmaad,"
+        },
+        {
+          "nr": 31,
+          "tekst": "zullen zij eten van de vrucht van hun wandelen verzadigd worden van hun raadslagen."
+        },
+        {
+          "nr": 32,
+          "tekst": "Want de afkerigheid der onverstandigen zal hen doden,de zorgeloosheid der dwazen zal hen te gronde richten."
+        },
+        {
+          "nr": 33,
+          "tekst": "Maar wie naar mij luistert, zal gerust wonen,beveiligd tegen de verschrikking van het onheil."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Mijn zoon, indien gij mijn woorden aanneemten mijn geboden bij u bewaart,"
+        },
+        {
+          "nr": 2,
+          "tekst": "zodat uw oor de wijsheid opmerkten gij uw hart neigt tot de verstandigheid,"
+        },
+        {
+          "nr": 3,
+          "tekst": "ja, indien gij tot het inzicht roepten tot de verstandigheid uw stem verheft;"
+        },
+        {
+          "nr": 4,
+          "tekst": "indien gij haar zoekt als zilveren naar haar speurt als naar verborgen schatten,"
+        },
+        {
+          "nr": 5,
+          "tekst": "dan zult gij de vreze des Heren verstaanen de kennis Gods vinden."
+        },
+        {
+          "nr": 6,
+          "tekst": "Want de Here geeft wijsheid,uit zijn mond komen kennis en verstandigheid;"
+        },
+        {
+          "nr": 7,
+          "tekst": "Hij bewaart hulp voor de oprechten,Hij is een schild voor wie onberispelijk wandelen,"
+        },
+        {
+          "nr": 8,
+          "tekst": "terwijl Hij waakt over de paden van het rechten de weg zijner gunstgenoten beschermt."
+        },
+        {
+          "nr": 9,
+          "tekst": "Dan zult gij gerechtigheid en recht verstaan,ook rechtschapenheid, elke goede weg."
+        },
+        {
+          "nr": 10,
+          "tekst": "Want de wijsheid zal in uw hart komenen de kennis zal voor uw ziel liefelijk zijn;"
+        },
+        {
+          "nr": 11,
+          "tekst": "bedachtzaamheid zal over u waken,verstandigheid zal u behoeden,"
+        },
+        {
+          "nr": 12,
+          "tekst": "om u te redden van de boze weg,van de man die verkeerde dingen spreekt,"
+        },
+        {
+          "nr": 13,
+          "tekst": "van hen die de rechte paden verlaten,om op duistere wegen te gaan;"
+        },
+        {
+          "nr": 14,
+          "tekst": "die in kwaaddoen zich verheugen,juichen over boze draaierijen,"
+        },
+        {
+          "nr": 15,
+          "tekst": "wier paden krom zijnen die op hun dwaalwegen gaan;"
+        },
+        {
+          "nr": 16,
+          "tekst": "om u te redden van de vreemde vrouw,van de onbekende die gladde woorden spreekt,"
+        },
+        {
+          "nr": 17,
+          "tekst": "die de echtvriend van haar jeugd verlaaten het verbond van haar God vergeet;"
+        },
+        {
+          "nr": 18,
+          "tekst": "want haar huis zinkt weg naar de dood,haar paden voeren naar de schimmen;"
+        },
+        {
+          "nr": 19,
+          "tekst": "niet één van allen die tot haar gaan, keert weder,en zij bereiken de paden des levens niet;"
+        },
+        {
+          "nr": 20,
+          "tekst": "opdat gij de weg der goeden bewandelten de paden der rechtvaardigen bewaart."
+        },
+        {
+          "nr": 21,
+          "tekst": "Want de oprechten zullen het land bewonenen de vromen zullen daarin overblijven,"
+        },
+        {
+          "nr": 22,
+          "tekst": "maar de goddelozen zullen uit het land worden uitgeroeiden de trouwelozen zullen eruit worden weggerukt."
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Mijn zoon, vergeet mijn onderwijzing nieten uw hart beware mijn geboden,"
+        },
+        {
+          "nr": 2,
+          "tekst": "want lengte van dagen, en jaren van leven,en vrede zullen zij u vermeerderen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Dat liefde en trouw u niet verlaten!Bind ze om uw hals, schrijf ze op de tafel van uw hart,"
+        },
+        {
+          "nr": 4,
+          "tekst": "dan zult gij genegenheid en goedkeuring verwervenin de ogen van God en mensen."
+        },
+        {
+          "nr": 5,
+          "tekst": "Vertrouw op de Here met uw ganse harten steun op uw eigen inzicht niet."
+        },
+        {
+          "nr": 6,
+          "tekst": "Ken Hem in al uw wegen,dan zal Hij uw paden recht maken."
+        },
+        {
+          "nr": 7,
+          "tekst": "Wees niet wijs in eigen ogen,vrees de Here en wijk van het kwaad;"
+        },
+        {
+          "nr": 8,
+          "tekst": "het zal medicijn wezen voor uw vlees,en lafenis voor uw gebeente."
+        },
+        {
+          "nr": 9,
+          "tekst": "Vereer de Here met uw rijkdomen met de eerstelingen van al uw inkomsten,"
+        },
+        {
+          "nr": 10,
+          "tekst": "dan zullen uw schuren met overvloed gevuld wordenen uw perskuipen van most overstromen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Veracht, mijn zoon, de tuchtiging des Heren nieten keer u niet met weerzin af van zijn bestraffing."
+        },
+        {
+          "nr": 12,
+          "tekst": "Want de Here bestraft wie Hij liefheeft,ja, gelijk een vader een zoon, aan wie hij welgevallen heeft."
+        },
+        {
+          "nr": 13,
+          "tekst": "Welzalig de mens die wijsheid vindt,de mens die verstandigheid verkrijgt;"
+        },
+        {
+          "nr": 14,
+          "tekst": "want wat zij opbrengt, is beter dan de opbrengst van zilver,wat zij doet gewinnen, is beter dan goud."
+        },
+        {
+          "nr": 15,
+          "tekst": "Zij is kostbaarder dan koralen,al wat gij kunt begeren, kan haar niet evenaren."
+        },
+        {
+          "nr": 16,
+          "tekst": "Lengte van dagen is in haar rechterhand,in haar linkerhand rijkdom en eer."
+        },
+        {
+          "nr": 17,
+          "tekst": "Haar wegen zijn liefelijke wegen,al haar paden zijn vrede."
+        },
+        {
+          "nr": 18,
+          "tekst": "Een boom des levens is zij voor wie haar aangrijpen,wie haar vasthouden, zijn gelukkig te prijzen;"
+        },
+        {
+          "nr": 19,
+          "tekst": "de Here heeft door wijsheid de aarde gegrond,door verstand de hemelen vastgesteld,"
+        },
+        {
+          "nr": 20,
+          "tekst": "door zijn kennis zijn de waterdiepten gekliefden druppelen de wolken dauw."
+        },
+        {
+          "nr": 21,
+          "tekst": "Mijn zoon, laat ze niet wijken uit uw ogen,bewaar overleg en bedachtzaamheid,"
+        },
+        {
+          "nr": 22,
+          "tekst": "dan zullen wij het leven voor uw ziel zijn,een sieraad voor uw hals."
+        },
+        {
+          "nr": 23,
+          "tekst": "Dan zult gij uw weg veilig gaan,zonder dat uw voet zich stoot."
+        },
+        {
+          "nr": 24,
+          "tekst": "Indien gij u nederlegt, zult gij niet opschrikken,maar gij zult u nederleggen en uw slaap zal zoet zijn."
+        },
+        {
+          "nr": 25,
+          "tekst": "Vrees niet voor plotselinge schrik,noch voor de ondergang der goddelozen, als hij komt."
+        },
+        {
+          "nr": 26,
+          "tekst": "Want de Here zal uw betrouwen zijn,Hij zal uw voet bewaren, zodat hij niet gegrepen wordt."
+        },
+        {
+          "nr": 27,
+          "tekst": "Onthoud het goed niet aan wie het toekomt,terwijl het in uw macht is het te doen."
+        },
+        {
+          "nr": 28,
+          "tekst": "Zeg niet tot uw naaste: Ga heen en kom terug,morgen zal ik geven – terwijl gij het hebt."
+        },
+        {
+          "nr": 29,
+          "tekst": "Smeed geen kwaad tegen uw naaste,terwijl hij in goed vertrouwen met u verkeert."
+        },
+        {
+          "nr": 30,
+          "tekst": "Twist niet met iemand zonder oorzaak,indien hij u geen kwaad heeft gedaan."
+        },
+        {
+          "nr": 31,
+          "tekst": "Wees niet afgunstig op een man van gewelden verkies geen enkele van zijn wegen,"
+        },
+        {
+          "nr": 32,
+          "tekst": "want de Here verafschuwt de verkeerde,maar met de oprechten gaat Hij vertrouwelijk om."
+        },
+        {
+          "nr": 33,
+          "tekst": "De vloek des Heren is in het huis des goddelozen,maar de woning der rechtvaardigen zegent Hij."
+        },
+        {
+          "nr": 34,
+          "tekst": "Wanneer Hij met spotters te doen heeft, spot Hij zelf,maar de nederigen geeft Hij genade."
+        },
+        {
+          "nr": 35,
+          "tekst": "De wijzen beërven eer,maar de dwazen laden schande op zich."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Hoort, zonen, de tucht van een vader,en weest opmerkzaam, om inzicht te verkrijgen,"
+        },
+        {
+          "nr": 2,
+          "tekst": "want ik geef u goede leer;verlaat mijn onderwijzing niet."
+        },
+        {
+          "nr": 3,
+          "tekst": "Want toen ik nog als zoon bij mijn vader was,teder en een enig kind voor het aangezicht van mijn moeder,"
+        },
+        {
+          "nr": 4,
+          "tekst": "onderwees hij mij en zeide tot mij:Laat uw hart mijn woorden vasthouden;onderhoud mijn geboden, opdat gij moogt leven."
+        },
+        {
+          "nr": 5,
+          "tekst": "Verwerf wijsheid, verwerf inzicht, vergeet nieten wijk niet af van de woorden mijns monds."
+        },
+        {
+          "nr": 6,
+          "tekst": "Verlaat haar niet, dan zal zij u bewaren,heb haar lief, dan zal zij u behoeden."
+        },
+        {
+          "nr": 7,
+          "tekst": "Het begin der wijsheid is: verwerf wijsheiden verwerf inzicht bij al wat gij bezit."
+        },
+        {
+          "nr": 8,
+          "tekst": "Houd haar hoog, dan zal zij u verheffen,zij zal u tot eer brengen, wanneer gij haar zult omhelzen."
+        },
+        {
+          "nr": 9,
+          "tekst": "Zij zal een liefelijke krans om uw hoofd leggen,een sierlijke kroon zal zij u schenken."
+        },
+        {
+          "nr": 10,
+          "tekst": "Hoor, mijn zoon, en neem mijn woorden aan,opdat uw levensjaren talrijk worden."
+        },
+        {
+          "nr": 11,
+          "tekst": "Ik onderricht u in de weg der wijsheid,ik doe u treden op rechte paden."
+        },
+        {
+          "nr": 12,
+          "tekst": "Bij uw wandelen zal uw schrede niet belemmerd worden,wanneer gij loopt, zult gij niet struikelen."
+        },
+        {
+          "nr": 13,
+          "tekst": "Houd vast aan de tucht, laat haar niet los,bewaar haar, want zij is uw leven."
+        },
+        {
+          "nr": 14,
+          "tekst": "Kom niet op het pad der goddelozen,betreed de weg der bozen niet."
+        },
+        {
+          "nr": 15,
+          "tekst": "Mijd die, ga er niet over;wijk ervan af en ga voorbij."
+        },
+        {
+          "nr": 16,
+          "tekst": "Want zij kunnen niet slapen,wanneer zij geen kwaad kunnen doen;hun slaap wordt hun ontnomen,wanneer zij niet iemand kunnen doen struikelen;"
+        },
+        {
+          "nr": 17,
+          "tekst": "want zij eten brood der goddeloosheiden drinken wijn van gewelddadigheid."
+        },
+        {
+          "nr": 18,
+          "tekst": "Maar het pad der rechtvaardigen is als het glanzende morgenlicht,dat steeds helderder straalt tot de volle dag."
+        },
+        {
+          "nr": 19,
+          "tekst": "De weg der goddelozen is als duisternis;zij weten niet, waarover zij kunnen struikelen."
+        },
+        {
+          "nr": 20,
+          "tekst": "Mijn zoon, sla acht op mijn woorden,neig uw oor tot mijn uitspraken;"
+        },
+        {
+          "nr": 21,
+          "tekst": "laat ze niet wijken uit uw ogen,bewaar ze diep in uw hart."
+        },
+        {
+          "nr": 22,
+          "tekst": "Want zij zijn leven voor wie ze vinden,genezing voor hun ganse lichaam."
+        },
+        {
+          "nr": 23,
+          "tekst": "Behoed uw hart boven al wat te bewaren is,want daaruit zijn de oorsprongen des levens."
+        },
+        {
+          "nr": 24,
+          "tekst": "Doe weg van u de valsheid van monden houd ver van u de verkeerdheid der lippen."
+        },
+        {
+          "nr": 25,
+          "tekst": "Laten uw ogen voorwaarts blikkenen uw oogopslag rechtuit zijn."
+        },
+        {
+          "nr": 26,
+          "tekst": "Laat uw voet een effen pad inslaanen laten al uw wegen vast zijn."
+        },
+        {
+          "nr": 27,
+          "tekst": "Wijk noch ter rechter-, noch ter linkerhand af,houd uw voet verwijderd van het kwade."
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Mijn zoon, sla acht op mijn wijsheid,neig uw oor naar mijn verstandigheid,"
+        },
+        {
+          "nr": 2,
+          "tekst": "om bedachtzaamheid in acht te nemenen laten uw lippen kennis bewaren."
+        },
+        {
+          "nr": 3,
+          "tekst": "Want van honigzeem druipen de lippen der vreemde vrouw,gladder dan olie is haar gehemelte,"
+        },
+        {
+          "nr": 4,
+          "tekst": "maar op het laatst is zij bitter als alsem,scherp als een tweesnijdend zwaard."
+        },
+        {
+          "nr": 5,
+          "tekst": "Haar voeten dalen af naar de dood,haar schreden raken het dodenrijk."
+        },
+        {
+          "nr": 6,
+          "tekst": "Opdat gij het pad des levens niet zoudt inslaan,zijn haar gangen doolwegen, zonder dat gij het weet."
+        },
+        {
+          "nr": 7,
+          "tekst": "Nu dan, zonen, luistert naar mijen wijkt niet af van de woorden mijns monds."
+        },
+        {
+          "nr": 8,
+          "tekst": "Houd uw weg ver van haar,nader niet tot de deur van haar huis,"
+        },
+        {
+          "nr": 9,
+          "tekst": "opdat gij uw luister niet aan anderen geeftnoch uw jaren aan een meedogenloze;"
+        },
+        {
+          "nr": 10,
+          "tekst": "opdat vreemden zich niet verzadigen met uw vermogen,en uw moeizaam verworven goedniet kome in het huis van een onbekende,"
+        },
+        {
+          "nr": 11,
+          "tekst": "zodat gij in het laatst zoudt kermen,als uw vlees en uw lijf verteerd zijn,"
+        },
+        {
+          "nr": 12,
+          "tekst": "en gij zoudt zeggen: Hoe heb ik de tucht kunnen hatenen heeft mijn hart de vermaning kunnen versmaden;"
+        },
+        {
+          "nr": 13,
+          "tekst": "waarom heb ik niet geluisterdnaar de stem van mijn leermeesters,heb ik mijn oor niet geneigdnaar hen die mij onderrichtten!"
+        },
+        {
+          "nr": 14,
+          "tekst": "Bijna was ik in alle kwaad geraakt– te midden van de gemeente en de vergadering."
+        },
+        {
+          "nr": 15,
+          "tekst": "Drink water uit uw eigen regenbaken welwater uit uw eigen bornput."
+        },
+        {
+          "nr": 16,
+          "tekst": "Moeten uw bronnen op straat overstromen,(uw) waterbeken op de pleinen?"
+        },
+        {
+          "nr": 17,
+          "tekst": "Zij moeten voor u alleen zijn,niet voor vreemden nevens u."
+        },
+        {
+          "nr": 18,
+          "tekst": "Uw bron zij gezegend,verheug u over de vrouw uwer jeugd:"
+        },
+        {
+          "nr": 19,
+          "tekst": "een liefelijke hinde, een bekoorlijke ree;laat haar boezem u te allen tijde vreugdedronken maken,wees bestendig verrukt over haar liefkozingen."
+        },
+        {
+          "nr": 20,
+          "tekst": "Waarom zoudt gij dan, mijn zoon, afdwalen naar een vreemde,de boezem van een onbekende omarmen?"
+        },
+        {
+          "nr": 21,
+          "tekst": "Want voor de ogen des Heren liggen ieders wegen open,Hij weegt al zijn gangen."
+        },
+        {
+          "nr": 22,
+          "tekst": "Zijn ongerechtigheden vangen de goddeloze,in de strikken zijner zonde raakt hij vast."
+        },
+        {
+          "nr": 23,
+          "tekst": "Hij sterft, omdat tucht hem ontbreekt,door zijn grote dwaasheid verdwaalt hij."
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Mijn zoon, indien gij borg zijt geworden voor uw naaste,voor een vreemde uw handslag hebt gegeven;"
+        },
+        {
+          "nr": 2,
+          "tekst": "als gij verstrikt zijt door de woorden van uw mond,gevangen zijt door de woorden van uw mond –"
+        },
+        {
+          "nr": 3,
+          "tekst": "doe dan toch dit, mijn zoon, en red u,want gij zijt in de greep van uw naaste gekomen:ga, klamp uw naaste aan en bestorm hem;"
+        },
+        {
+          "nr": 4,
+          "tekst": "gun uw ogen geen slaapen uw oogleden geen sluimering;"
+        },
+        {
+          "nr": 5,
+          "tekst": "red u als een gazelle van de vangst,als een vogel uit de hand van de vogelaar."
+        },
+        {
+          "nr": 6,
+          "tekst": "Ga tot de mier, gij luiaard,zie haar wegen en word wijs:"
+        },
+        {
+          "nr": 7,
+          "tekst": "hoewel zij geen aanvoerder heeft,noch leidsman, noch heerser,"
+        },
+        {
+          "nr": 8,
+          "tekst": "bereidt zij in de zomer haar brood,verzamelt zij in de oogst haar spijs."
+        },
+        {
+          "nr": 9,
+          "tekst": "Hoelang, luiaard, zult gij neerliggen,wanneer zult gij opstaan uit uw slaap?"
+        },
+        {
+          "nr": 10,
+          "tekst": "Nog even slapen, nog even sluimeren,nog even liggen met gevouwen handen –"
+        },
+        {
+          "nr": 11,
+          "tekst": "daar komt uw armoede over u als een snelle loperen uw gebrek als een gewapend man."
+        },
+        {
+          "nr": 12,
+          "tekst": "Een nietsnut, een onheilstichter is hij,die met bedrieglijke mond rondgaat,"
+        },
+        {
+          "nr": 13,
+          "tekst": "die met zijn ogen knipt,met zijn voeten schuifelt, met zijn vingers wijst,"
+        },
+        {
+          "nr": 14,
+          "tekst": "in wiens hart draaierijen zijn, die aldoor kwaad smeedt,die twist stookt."
+        },
+        {
+          "nr": 15,
+          "tekst": "Daarom komt plotseling zijn ondergang,in een oogwenk wordt hij onherstelbaar verbrijzeld."
+        },
+        {
+          "nr": 16,
+          "tekst": "Deze zes dingen haat de Here,ja, zeven zijn Hem een hartgrondige gruwel:"
+        },
+        {
+          "nr": 17,
+          "tekst": "hoogmoedige ogen, een valse tong,handen die onschuldig bloed vergieten,"
+        },
+        {
+          "nr": 18,
+          "tekst": "een hart dat heilloze plannen smeedt,voeten die zich haasten om naar het kwade te snellen,"
+        },
+        {
+          "nr": 19,
+          "tekst": "wie leugens uitblaast als een vals getuigeen wie twist stookt tussen broeders."
+        },
+        {
+          "nr": 20,
+          "tekst": "Bewaar, mijn zoon, het gebod van uw vaderen verwerp de onderwijzing van uw moeder niet."
+        },
+        {
+          "nr": 21,
+          "tekst": "Bind ze bestendig op uw hart,hang ze om uw hals."
+        },
+        {
+          "nr": 22,
+          "tekst": "Als gij op weg zijt, moge het u leiden;als gij u nederlegt, moge het over u waken,als gij wakker wordt, moge het u toespreken."
+        },
+        {
+          "nr": 23,
+          "tekst": "Want het gebod is een lampen de onderwijzing een licht,de vermaningen der tucht zijn een weg ten leven,"
+        },
+        {
+          "nr": 24,
+          "tekst": "om u te bewaren voor de slechte vrouw,voor de gladde tong der onbekende."
+        },
+        {
+          "nr": 25,
+          "tekst": "Begeer haar schoonheid niet in uw hart,laat zij u niet vangen met haar wimpers."
+        },
+        {
+          "nr": 26,
+          "tekst": "Want ter wille van een hoer(vervalt men) tot een schamel stuk brood,en eens anders vrouw maakt jacht op een kostbaar leven."
+        },
+        {
+          "nr": 27,
+          "tekst": "Zal iemand vuur in zijn boezem halen,zonder dat zijn klederen in brand geraken?"
+        },
+        {
+          "nr": 28,
+          "tekst": "Of zal iemand op gloeiende kolen lopen,zonder dat zijn voeten verbranden?"
+        },
+        {
+          "nr": 29,
+          "tekst": "Aldus hij, die tot de vrouw van zijn naaste komt;niemand die haar aanraakt, gaat vrijuit."
+        },
+        {
+          "nr": 30,
+          "tekst": "Men veracht een dief niet, wanneer hij steeltom zijn begeerte te bevredigen, als hij honger heeft,"
+        },
+        {
+          "nr": 31,
+          "tekst": "maar betrapt zijnde, moet hij zevenvoudige vergoeding geven,al het goed van zijn huis moet hij geven."
+        },
+        {
+          "nr": 32,
+          "tekst": "Wie overspel pleegt met een vrouw, is verstandeloos;wie dit doet, richt zichzelf te gronde."
+        },
+        {
+          "nr": 33,
+          "tekst": "Schade en schande verkrijgt hij,zijn smaad is onuitwisbaar."
+        },
+        {
+          "nr": 34,
+          "tekst": "Want jaloersheid is vuurgloed in een man,hij kent geen mededogen ten dage der wraak;"
+        },
+        {
+          "nr": 35,
+          "tekst": "hij aanvaardt geen enkel zoenmiddel,en blijft onverbiddelijk, al geeft gij een nog zo groot geschenk."
+        }
+      ]
+    },
+    {
+      "nr": 7,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Mijn zoon, bewaar mijn redenenen leg mijn geboden bij u weg."
+        },
+        {
+          "nr": 2,
+          "tekst": "Bewaar mijn geboden en leef,en mijn onderwijzing als uw oogappel."
+        },
+        {
+          "nr": 3,
+          "tekst": "Bind ze aan uw vingers,schrijf ze op de tafel van uw hart."
+        },
+        {
+          "nr": 4,
+          "tekst": "Zeg tot de wijsheid: Gij zijt mijn zuster,en noem het verstand (uw) vertrouweling,"
+        },
+        {
+          "nr": 5,
+          "tekst": "om u te bewaren voor de vreemde vrouw,voor de onbekende, die gladde woorden spreekt."
+        },
+        {
+          "nr": 6,
+          "tekst": "Want ik keek eens uit het raam van mijn huis,door mijn tralievenster,"
+        },
+        {
+          "nr": 7,
+          "tekst": "en ik zag rond onder de onverstandigen,ik merkte onder de jongelieden een verstandeloze knaap,"
+        },
+        {
+          "nr": 8,
+          "tekst": "die over de straat ging, dicht bij haar hoek,en in de richting van haar huis stapte,"
+        },
+        {
+          "nr": 9,
+          "tekst": "in de schemering, aan de avond van de dag,ten tijde van de nacht en de donkerheid;"
+        },
+        {
+          "nr": 10,
+          "tekst": "en zie, daar ontmoet hem zulk een vrouw,in hoerenkledij en listig van hart."
+        },
+        {
+          "nr": 11,
+          "tekst": "Zij is luidruchtig en losbandig,haar voeten blijven niet in haar huis."
+        },
+        {
+          "nr": 12,
+          "tekst": "Nu eens op de straat, dan weer op de pleinen,en bij elke hoek loert zij,"
+        },
+        {
+          "nr": 13,
+          "tekst": "en zij grijpt hem aan en kust hem;met een onbeschaamd gezicht zegt zij tot hem:"
+        },
+        {
+          "nr": 14,
+          "tekst": "Vredeoffers moest ik brengen,heden heb ik mijn geloften betaald."
+        },
+        {
+          "nr": 15,
+          "tekst": "Daarom ben ik uitgegaan, u tegemoet,om u te zoeken, en ik heb u gevonden."
+        },
+        {
+          "nr": 16,
+          "tekst": "Met dekens heb ik mijn bed bedekt,met bonte spreien van Egyptisch linnen."
+        },
+        {
+          "nr": 17,
+          "tekst": "Ik heb mijn leger besprenkeldmet mirre, aloë en kaneel."
+        },
+        {
+          "nr": 18,
+          "tekst": "Kom, laat ons zwelgen in minne tot de morgen toe,en genieten van liefde."
+        },
+        {
+          "nr": 19,
+          "tekst": "Want mijn man is niet thuis,hij heeft een verre reis ondernomen;"
+        },
+        {
+          "nr": 20,
+          "tekst": "een buidel geld heeft hij met zich meegenomen,tegen de dag der volle maan zal hij thuiskomen."
+        },
+        {
+          "nr": 21,
+          "tekst": "Zij haalde hem over door haar redenering,met haar gladde lippen verleidde zij hem."
+        },
+        {
+          "nr": 22,
+          "tekst": "Argeloos liep hij haar naals een rund dat naar de slachtbank gaat,als een dwaas in boeien geslagen,"
+        },
+        {
+          "nr": 23,
+          "tekst": "totdat een pijl zijn lever doorboorde;gelijk een vogel zich haast naar het klapnet,zonder te weten, dat het tegen zijn leven gericht is."
+        },
+        {
+          "nr": 24,
+          "tekst": "Nu dan, zonen, luistert naar mij,slaat acht op de redenen van mijn mond."
+        },
+        {
+          "nr": 25,
+          "tekst": "Uw hart wijke niet af naar haar wegen,dwaal niet af op haar paden."
+        },
+        {
+          "nr": 26,
+          "tekst": "Want velen zijn de verslagenen die zij heeft geveld,talrijk zijn degenen die zij altemaal heeft gedood."
+        },
+        {
+          "nr": 27,
+          "tekst": "Haar huis zijn wegen naar het dodenrijk,die afdalen naar de binnenkameren van de dood."
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Roept de Wijsheid nieten verheft de Verstandigheid niet haar stem?"
+        },
+        {
+          "nr": 2,
+          "tekst": "Boven op de hoogten aan de weg,daar, waar de paden samenkomen, is zij gaan staan,"
+        },
+        {
+          "nr": 3,
+          "tekst": "aan de zijde van de poorten, aan de ingang der stad,waar men de poortdeuren binnengaat, roept zij luide:"
+        },
+        {
+          "nr": 4,
+          "tekst": "Tot u, mannen, roep iken mijn stem gaat uit tot de mensenkinderen!"
+        },
+        {
+          "nr": 5,
+          "tekst": "Gij onverstandigen, leert schranderheid,gij dwazen, verstaat het met uw hart."
+        },
+        {
+          "nr": 6,
+          "tekst": "Hoort, want ik zal verheven dingen sprekenen mijn lippen openen tot wat recht is."
+        },
+        {
+          "nr": 7,
+          "tekst": "Want waarheid spreekt mijn gehemelte,een gruwel voor mijn lippen is de goddeloosheid."
+        },
+        {
+          "nr": 8,
+          "tekst": "Al de woorden van mijn mond zijn in gerechtigheid gesproken;niets daarin is verdraaid en verkeerd."
+        },
+        {
+          "nr": 9,
+          "tekst": "Zij alle zijn voor de verstandige juist,betrouwbaar voor wie kennis gevonden hebben."
+        },
+        {
+          "nr": 10,
+          "tekst": "Neemt mijn vermaning aan en niet zilver,en kennis boven uitgelezen goud."
+        },
+        {
+          "nr": 11,
+          "tekst": "Want wijsheid is beter dan koralen,al wat men zou kunnen begeren, kan haar niet evenaren."
+        },
+        {
+          "nr": 12,
+          "tekst": "Ik, de Wijsheid, woon bij de schranderheiden ik verkrijg kennis door overleggingen."
+        },
+        {
+          "nr": 13,
+          "tekst": "De vreze des Heren is het kwade te haten;hoogmoed en trots en boze wandelen een mond vol draaierijen haat ik."
+        },
+        {
+          "nr": 14,
+          "tekst": "Mijner zijn raad en overleg,ik ben het inzicht; mijner is de kracht."
+        },
+        {
+          "nr": 15,
+          "tekst": "Door mij regeren de koningenen verordenen de machthebbers recht."
+        },
+        {
+          "nr": 16,
+          "tekst": "Door mij heersen de vorstenen de edelen, al de rechters der aarde."
+        },
+        {
+          "nr": 17,
+          "tekst": "Ik heb lief wie mij liefhebben,wie mij ijverig zoeken, zullen mij vinden."
+        },
+        {
+          "nr": 18,
+          "tekst": "Rijkdom en eer zijn bij mij,duurzaam goed en gerechtigheid."
+        },
+        {
+          "nr": 19,
+          "tekst": "Mijn vrucht is meer waard dan goud, ja dan gelouterd goud,mijn opbrengst meer dan uitgelezen zilver."
+        },
+        {
+          "nr": 20,
+          "tekst": "Ik wandel op het pad van de gerechtigheid,midden op de wegen van het recht,"
+        },
+        {
+          "nr": 21,
+          "tekst": "om hen die mij liefhebben, bezit te doen beërven;hun schatkamers zal ik vullen."
+        },
+        {
+          "nr": 22,
+          "tekst": "De Here heeft mij tot aanzijn geroepenals het begin van zijn wegen,vóór zijn werken van ouds af."
+        },
+        {
+          "nr": 23,
+          "tekst": "Van eeuwigheid aan ben ik geformeerd,van den beginne, eer de aarde bestond."
+        },
+        {
+          "nr": 24,
+          "tekst": "Toen er nog geen oceaan was, ben ik geboren,toen er nog geen bronnen waren, rijk aan water."
+        },
+        {
+          "nr": 25,
+          "tekst": "Eer de bergen omlaaggezonken waren,vóór de heuvelen ben ik geboren;"
+        },
+        {
+          "nr": 26,
+          "tekst": "toen Hij het aardrijk en de velden nog niet had gemaakt,noch de eerste stofdeeltjes der wereld."
+        },
+        {
+          "nr": 27,
+          "tekst": "Toen Hij de hemel bereidde, was ik daar;toen Hij een kring trok op het oppervlak van de oceaan,"
+        },
+        {
+          "nr": 28,
+          "tekst": "toen Hij de wolken daarboven bevestigde,en de bronnen van de oceaan met kracht opborrelden,"
+        },
+        {
+          "nr": 29,
+          "tekst": "toen Hij aan de zee haar perk stelde,opdat de wateren zijn gebod niet zouden overtreden,en Hij de grondslagen der aarde bepaalde,"
+        },
+        {
+          "nr": 30,
+          "tekst": "toen was ik een troetelkind bij Hem,ik was een en al verrukking dag aan dag,te allen tijde mij verheugend voor zijn aangezicht,"
+        },
+        {
+          "nr": 31,
+          "tekst": "mij verheugend in de wereld van zijn aardrijk,en mijn vreugde was met de mensenkinderen."
+        },
+        {
+          "nr": 32,
+          "tekst": "Nu dan, zonen, luistert naar mij,want welzalig zijn zij die mijn wegen bewaren."
+        },
+        {
+          "nr": 33,
+          "tekst": "Hoort naar de vermaning, dan wordt gij wijs,slaat haar niet in de wind."
+        },
+        {
+          "nr": 34,
+          "tekst": "Welzalig de mens die naar mij luistert,dag aan dag wachthoudende aan mijn deuren,bewakende de posten van mijn poorten."
+        },
+        {
+          "nr": 35,
+          "tekst": "Want wie mij vindt, heeft het leven gevonden,hij heeft van de Here welgevallen verkregen."
+        },
+        {
+          "nr": 36,
+          "tekst": "Maar wie mij mist, doet zijn leven geweld aan;allen die mij haten, hebben de dood lief."
+        }
+      ]
+    },
+    {
+      "nr": 9,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De Wijsheid heeft haar huis gebouwd,zij heeft haar zeven pilaren uitgehouwen,"
+        },
+        {
+          "nr": 2,
+          "tekst": "zij heeft haar slachtvee geslacht, haar wijn gemengd,ook heeft zij haar tafel bereid."
+        },
+        {
+          "nr": 3,
+          "tekst": "Zij heeft haar dienstmaagden uitgezonden,zij roept boven op de hoogten der stad:"
+        },
+        {
+          "nr": 4,
+          "tekst": "Wie onverstandig is, kere zich hierheen;tot de verstandeloze zegt zij:"
+        },
+        {
+          "nr": 5,
+          "tekst": "Komt, eet van mijn brooden drinkt van de wijn die ik gemengd heb;"
+        },
+        {
+          "nr": 6,
+          "tekst": "laat varen het onverstand, dan zult gij leven,en betreedt de weg van het verstand."
+        },
+        {
+          "nr": 7,
+          "tekst": "Wie een spotter terechtwijst, haalt schande over zich,wie een goddeloze tuchtigt, zijn eigen schandvlek."
+        },
+        {
+          "nr": 8,
+          "tekst": "Bestraf de spotter niet, opdat hij u niet hate,bestraf de wijze, dan zal hij u liefhebben,"
+        },
+        {
+          "nr": 9,
+          "tekst": "geef aan de wijze, en hij zal nog wijzer worden,onderwijs de rechtvaardige, en hij zal aan inzicht winnen."
+        },
+        {
+          "nr": 10,
+          "tekst": "De vreze des Heren is het begin der wijsheiden het kennen van de Hoogheilige is verstand."
+        },
+        {
+          "nr": 11,
+          "tekst": "Want door mij worden uw dagen vermeerderd,worden jaren van leven u toegevoegd."
+        },
+        {
+          "nr": 12,
+          "tekst": "Als gij wijs zijt, zijt gij wijs tot uw eigen welzijn,als gij spot, zult gij dat alleen dragen."
+        },
+        {
+          "nr": 13,
+          "tekst": "Vrouwe Dwaasheid is luidruchtig,enkel onverstand, en zij weet niets;"
+        },
+        {
+          "nr": 14,
+          "tekst": "zij zit bij de deur van haar huisop een zetel op de hoogten der stad"
+        },
+        {
+          "nr": 15,
+          "tekst": "om te nodigen wie op de weg voorbijgaan,die hun paden recht maken:"
+        },
+        {
+          "nr": 16,
+          "tekst": "Wie onverstandig is, kere zich hierheen;is iemand verstandeloos, dan zegt zij:"
+        },
+        {
+          "nr": 17,
+          "tekst": "Gestolen water is zoet,heimelijk gegeten brood is smakelijk."
+        },
+        {
+          "nr": 18,
+          "tekst": "Maar hij weet niet, dat daar schimmen zijn,dat haar genodigden zijn in de diepten van het dodenrijk."
+        }
+      ]
+    },
+    {
+      "nr": 10,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De Spreuken van Salomo.Een wijs zoon verheugt zijn vader,maar een dwaas zoon is een bekommering voor zijn moeder."
+        },
+        {
+          "nr": 2,
+          "tekst": "Schatten, door goddeloosheid verkregen, doen geen nut,maar gerechtigheid redt van de dood."
+        },
+        {
+          "nr": 3,
+          "tekst": "De Here laat de rechtvaardige geen honger lijden,maar de begerigheid der goddelozen wijst Hij af."
+        },
+        {
+          "nr": 4,
+          "tekst": "Een trage hand maakt arm,maar de hand des vlijtigen maakt rijk."
+        },
+        {
+          "nr": 5,
+          "tekst": "Wie verzamelt in de zomer, is een verstandig zoon;wie slaapt in de oogsttijd,is een zoon die zich schandelijk gedraagt."
+        },
+        {
+          "nr": 6,
+          "tekst": "Zegeningen zijn op het hoofd des rechtvaardigen,maar de mond der goddelozen verbergt geweld."
+        },
+        {
+          "nr": 7,
+          "tekst": "De gedachtenis des rechtvaardigen zal tot zegening zijn,maar de naam der goddelozen zal wegrotten."
+        },
+        {
+          "nr": 8,
+          "tekst": "Wie wijs van hart is, neemt geboden aan,maar wie dwaas van lippen is, komt ten val."
+        },
+        {
+          "nr": 9,
+          "tekst": "Wie in oprechtheid wandelt, gaat veilig,maar wie zijn wegen verdraait, wordt doorzien."
+        },
+        {
+          "nr": 10,
+          "tekst": "Wie met zijn ogen knipt, veroorzaakt smart,wie dwaas van lippen is, komt ten val."
+        },
+        {
+          "nr": 11,
+          "tekst": "De mond des rechtvaardigen is een bron van leven,maar de mond der goddelozen verbergt geweld."
+        },
+        {
+          "nr": 12,
+          "tekst": "Haat verwekt krakelen,maar liefde bedekt alle overtredingen."
+        },
+        {
+          "nr": 13,
+          "tekst": "Op de lippen van de verstandige wordt wijsheid gevonden,maar de roede is voor de rug van de verstandeloze."
+        },
+        {
+          "nr": 14,
+          "tekst": "Wijzen bewaren de kennis,maar de mond van de dwaas is een steeds dreigend onheil."
+        },
+        {
+          "nr": 15,
+          "tekst": "De bezitting van de rijke is zijn sterke stad,het onheil van de behoeftigen is hun armoede."
+        },
+        {
+          "nr": 16,
+          "tekst": "Het gewin van de rechtvaardige is ten leven;de inkomsten van de goddeloze zijn tot zonde."
+        },
+        {
+          "nr": 17,
+          "tekst": "Een pad ten leven is hij, die de vermaning in acht neemt,maar wie de terechtwijzing veracht, doet dwalen."
+        },
+        {
+          "nr": 18,
+          "tekst": "Wie haat verbergt, is een leugenlip;wie laster verbreidt, is een dwaas."
+        },
+        {
+          "nr": 19,
+          "tekst": "In veelheid van woorden ontbreekt de overtreding niet,maar wie zijn lippen bedwingt, is verstandig."
+        },
+        {
+          "nr": 20,
+          "tekst": "Uitgelezen zilver is de tong des rechtvaardigen;het hart der goddelozen is weinig waard."
+        },
+        {
+          "nr": 21,
+          "tekst": "De lippen van de rechtvaardige weiden er velen,maar de dwazen sterven door gebrek aan verstand."
+        },
+        {
+          "nr": 22,
+          "tekst": "De zegen des Heren, die maakt rijk,zwoegen voegt er niets aan toe."
+        },
+        {
+          "nr": 23,
+          "tekst": "Zoals het een vermaak is voor de dwaasschanddaden te bedrijven,zo is het met de wijsheid voor de man van verstand."
+        },
+        {
+          "nr": 24,
+          "tekst": "Wat de goddeloze vreest, dat overkomt hem,maar Hij vervult de wens der rechtvaardigen."
+        },
+        {
+          "nr": 25,
+          "tekst": "Als de stormwind voorbijgaat, dan is de goddeloze niet meer,maar de rechtvaardige staat als een duurzame grondslag."
+        },
+        {
+          "nr": 26,
+          "tekst": "Wat azijn is voor de tanden en wat rook is voor de ogen,dat is de luiaard voor wie hem zenden."
+        },
+        {
+          "nr": 27,
+          "tekst": "De vreze des Heren vermeerdert de dagen,maar de jaren der goddelozen worden verkort."
+        },
+        {
+          "nr": 28,
+          "tekst": "De verwachting der rechtvaardigen is vreugde,maar de hoop der goddelozen gaat teniet."
+        },
+        {
+          "nr": 29,
+          "tekst": "De weg des Heren is een beschutting voor de oprechten,maar onheil voor de bedrijvers van ongerechtigheid."
+        },
+        {
+          "nr": 30,
+          "tekst": "De rechtvaardige zal in eeuwigheid niet wankelen,maar de goddelozen zullen de aarde niet bewonen."
+        },
+        {
+          "nr": 31,
+          "tekst": "De mond van de rechtvaardige brengt wijsheid voort,maar de valse tong wordt verdelgd."
+        },
+        {
+          "nr": 32,
+          "tekst": "De lippen van de rechtvaardige weten wat welgevallig is,maar de mond der goddelozen is enkel valsheid."
+        }
+      ]
+    },
+    {
+      "nr": 11,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Een bedrieglijke weegschaal is de Here een gruwel,maar een zuivere weegsteen is Hem welgevallig."
+        },
+        {
+          "nr": 2,
+          "tekst": "Als overmoed komt, komt schande mee,maar wijsheid is bij de ootmoedigen."
+        },
+        {
+          "nr": 3,
+          "tekst": "De rechtschapenheid der oprechten leidt hen,maar de verkeerde zin der trouwelozen is hun ten verderve."
+        },
+        {
+          "nr": 4,
+          "tekst": "Rijkdom baat niet ten dage des toorns,maar gerechtigheid redt van de dood."
+        },
+        {
+          "nr": 5,
+          "tekst": "De gerechtigheid van de rechtschapene effent zijn weg,maar de goddeloze komt door zijn goddeloosheid ten val."
+        },
+        {
+          "nr": 6,
+          "tekst": "De gerechtigheid der oprechten zal hen redden,maar de trouwelozen worden door hun begeerlijkheid gevangen."
+        },
+        {
+          "nr": 7,
+          "tekst": "Bij de dood van een goddeloos mens vergaat de verwachting,en het verlangen der boosheid gaat teniet."
+        },
+        {
+          "nr": 8,
+          "tekst": "De rechtvaardige wordt uit benauwdheid gered,en dan komt de goddeloze in zijn plaats."
+        },
+        {
+          "nr": 9,
+          "tekst": "Met de mond stort de godvergetene zijn naaste in het verderf,maar door kennis worden de rechtvaardigen gered."
+        },
+        {
+          "nr": 10,
+          "tekst": "Over de voorspoed der rechtvaardigen verheugt zich de stad,bij de ondergang der goddelozen is er gejuich."
+        },
+        {
+          "nr": 11,
+          "tekst": "In de zegen der oprechten ligt de opkomst der stad,maar door de mond der goddelozen wordt zij afgebroken."
+        },
+        {
+          "nr": 12,
+          "tekst": "Wie zijn naaste veracht, is verstandeloos;maar een verstandig man zwijgt stil."
+        },
+        {
+          "nr": 13,
+          "tekst": "Wie met laster omgaat, verraadt geheimen;maar wie betrouwbaar van geest is, houdt een zaak verborgen."
+        },
+        {
+          "nr": 14,
+          "tekst": "Als beleid ontbreekt, komt het volk ten val;maar er is redding, als er vele raadgevers zijn."
+        },
+        {
+          "nr": 15,
+          "tekst": "Slecht vergaat het hem die borg is voor een vreemde,maar wie de handslag vermijdt, gaat veilig."
+        },
+        {
+          "nr": 16,
+          "tekst": "Een bevallige vrouw verkrijgt eer,zo verkrijgen de geweldigen rijkdom."
+        },
+        {
+          "nr": 17,
+          "tekst": "Een weldadig man doet zichzelf wèl,maar wie onbarmhartig is, kwelt zijn eigen vlees."
+        },
+        {
+          "nr": 18,
+          "tekst": "De goddeloze maakt winst die niet gedijt,maar wie gerechtigheid zaait, heeft blijvend gewin."
+        },
+        {
+          "nr": 19,
+          "tekst": "Ware gerechtigheid strekt ten leven,maar wie het kwaad najaagt, hem strekt het ten dode."
+        },
+        {
+          "nr": 20,
+          "tekst": "De verkeerden van hart zijn de Here een gruwel,maar de oprechten van wandel zijn Hem welgevallig."
+        },
+        {
+          "nr": 21,
+          "tekst": "Voorwaar, de boze blijft niet ongestraft,maar het geslacht der rechtvaardigen wordt bevrijd."
+        },
+        {
+          "nr": 22,
+          "tekst": "Als een gouden ring in een varkenssnuitis een schone vrouw zonder verstand."
+        },
+        {
+          "nr": 23,
+          "tekst": "Wat de rechtvaardigen wensen, brengt enkel geluk;wat de goddelozen hopen, loopt uit op toorn."
+        },
+        {
+          "nr": 24,
+          "tekst": "Er zijn er, die uitstrooien en toch nog meer verkrijgen;terwijl anderen meer inhouden dan recht isen toch gebrek lijden."
+        },
+        {
+          "nr": 25,
+          "tekst": "De zegenende ziel wordt overvloedig verkwikt,wie laaft, wordt ook zelf gelaafd."
+        },
+        {
+          "nr": 26,
+          "tekst": "Wie koren achterhoudt, hem vloekt het volk;maar zegening daalt neer op het hoofd van de verkoper."
+        },
+        {
+          "nr": 27,
+          "tekst": "Wie het goede nastreeft, zoekt welbehagen;maar wie het kwade najaagt, hem zal het overkomen."
+        },
+        {
+          "nr": 28,
+          "tekst": "Wie op zijn rijkdom vertrouwt, die zal vallen;maar als fris loof zullen de rechtvaardigen uitspruiten."
+        },
+        {
+          "nr": 29,
+          "tekst": "Wie zijn huis in wanorde brengt, zal wind erven;de dwaas wordt een slaaf van de wijze van hart."
+        },
+        {
+          "nr": 30,
+          "tekst": "De vrucht des rechtvaardigen is een boom des levens,en wie wijs is, wint harten."
+        },
+        {
+          "nr": 31,
+          "tekst": "Zie, aan de rechtvaardige wordt vergolden op aarde,hoeveel te meer aan de goddeloze en de zondaar!"
+        }
+      ]
+    },
+    {
+      "nr": 12,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Wie tucht liefheeft, heeft kennis lief;maar wie terechtwijzing haat, is dom."
+        },
+        {
+          "nr": 2,
+          "tekst": "De goede verkrijgt welgevallen van de Here,maar een man met slinkse streken veroordeelt Hij."
+        },
+        {
+          "nr": 3,
+          "tekst": "Geen mens blijft staande door goddeloosheid,maar de wortel der rechtvaardigen is niet te verwrikken."
+        },
+        {
+          "nr": 4,
+          "tekst": "Een degelijke vrouw is de kroon van haar man,maar als bederf in zijn gebeente is zij, die beschaamd doet staan."
+        },
+        {
+          "nr": 5,
+          "tekst": "De overleggingen der rechtvaardigen zijn recht,de voornemens der goddelozen zijn bedriegerij."
+        },
+        {
+          "nr": 6,
+          "tekst": "De woorden der goddelozen loeren op bloed,maar de mond der oprechten redt hen uit."
+        },
+        {
+          "nr": 7,
+          "tekst": "De goddelozen worden omvergeworpen en zijn niet meer,maar het huis der rechtvaardigen blijft in stand."
+        },
+        {
+          "nr": 8,
+          "tekst": "Naar de mate van zijn verstand wordt een man geprezen,maar een verkeerde van hart komt in verachting."
+        },
+        {
+          "nr": 9,
+          "tekst": "Het is beter onaanzienlijk te zijn en een knecht te hebben,dan zich groot voor te doen bij broodgebrek."
+        },
+        {
+          "nr": 10,
+          "tekst": "De rechtvaardige weet wat toekomt aan zijn vee,maar de barmhartigheid der goddelozen is wreed."
+        },
+        {
+          "nr": 11,
+          "tekst": "Wie zijn akker bewerkt, zal zich met brood verzadigen;maar wie ijdele dingen najaagt, is verstandeloos."
+        },
+        {
+          "nr": 12,
+          "tekst": "De goddeloze begeert de vangst van boze dingen,maar de wortel der rechtvaardigen geeft (vrucht)."
+        },
+        {
+          "nr": 13,
+          "tekst": "In de overtreding der lippen ligt een boze valstrik,maar de rechtvaardige ontkomt aan de benauwdheid."
+        },
+        {
+          "nr": 14,
+          "tekst": "Van de vrucht zijns monds wordt iemand met het goede verzadigd;wat eens mensen handen volbrengen, keert weder tot hem."
+        },
+        {
+          "nr": 15,
+          "tekst": "De weg van de dwaas is recht in zijn ogen,maar wie naar raad luistert, is wijs."
+        },
+        {
+          "nr": 16,
+          "tekst": "Een dwaas maakt zijn ergernis aanstonds bekend,maar een schrandere bedekt de smaad."
+        },
+        {
+          "nr": 17,
+          "tekst": "Wie waarheid spreekt, deelt mee wat recht is,maar een leugenachtig getuige bedrog."
+        },
+        {
+          "nr": 18,
+          "tekst": "Er zijn er, wier gepraat werkt als dolksteken,maar de tong der wijzen brengt genezing aan."
+        },
+        {
+          "nr": 19,
+          "tekst": "Een waarachtige lip bestaat voor altijd,maar een leugenachtige tong slechts voor een ogenblik."
+        },
+        {
+          "nr": 20,
+          "tekst": "Bedrog is in het hart van wie kwaad smeden,maar voor wie tot vrede raden, is er vreugde."
+        },
+        {
+          "nr": 21,
+          "tekst": "De rechtvaardige zal generlei onheil treffen,maar de goddelozen zijn vol van rampspoed."
+        },
+        {
+          "nr": 22,
+          "tekst": "Leugenlippen zijn de Here een gruwel,maar wie trouw handelen, zijn Hem welgevallig."
+        },
+        {
+          "nr": 23,
+          "tekst": "Een schrander mens houdt zijn kennis voor zich,maar het hart der zotten verkondigt dwaasheid."
+        },
+        {
+          "nr": 24,
+          "tekst": "De hand der vlijtigen zal heersen,maar traagheid voert tot dienstbaarheid."
+        },
+        {
+          "nr": 25,
+          "tekst": "Kommer in het hart van de mens buigt het neder,maar een goed woord verblijdt het."
+        },
+        {
+          "nr": 26,
+          "tekst": "De rechtvaardige onderkent wie hem kwaad wil doen,maar de weg der goddelozen doet hen dwalen."
+        },
+        {
+          "nr": 27,
+          "tekst": "De trage zal zijn wild niet vangen,maar een kostbare have is het deel van de vlijtige."
+        },
+        {
+          "nr": 28,
+          "tekst": "Op het pad der gerechtigheid is leven,maar de weg der zonde voert ten dode."
+        }
+      ]
+    },
+    {
+      "nr": 13,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Een wijs zoon laat zich tuchtigen door zijn vader,maar een spotter luistert niet naar berisping."
+        },
+        {
+          "nr": 2,
+          "tekst": "Van de vrucht zijns monds zal iemand het goede eten,maar de begeerte der trouwelozen gaat uit naar geweld."
+        },
+        {
+          "nr": 3,
+          "tekst": "Wie zijn mond in toom houdt, bewaart zijn leven;wie zijn lippen openspert, hem wacht het verderf."
+        },
+        {
+          "nr": 4,
+          "tekst": "De ziel van de luiaard is begerig, maar tevergeefs,doch de ziel van de vlijtigen wordt overvloedig verkwikt."
+        },
+        {
+          "nr": 5,
+          "tekst": "De rechtvaardige haat leugentaal,maar de goddeloze maakt zich gehaat en wordt te schande."
+        },
+        {
+          "nr": 6,
+          "tekst": "Gerechtigheid bewaart de onberispelijken van wandel,maar goddeloosheid stort de zondaren in het verderf."
+        },
+        {
+          "nr": 7,
+          "tekst": "Sommigen stellen zich rijk aan,terwijl zij in het geheel niets hebben;anderen houden zich arm bij veel bezit."
+        },
+        {
+          "nr": 8,
+          "tekst": "Het losgeld voor iemands leven is zijn rijkdom,maar de arme krijgt geen bedreiging te horen."
+        },
+        {
+          "nr": 9,
+          "tekst": "Het licht der rechtvaardigen brandt blijde,maar de lamp der goddelozen wordt uitgeblust."
+        },
+        {
+          "nr": 10,
+          "tekst": "Door overmoed ontstaat slechts twist,maar bij hen die zich laten raden, is wijsheid."
+        },
+        {
+          "nr": 11,
+          "tekst": "Een vermogen, uit niets verkregen, slinkt weg;maar wie met eigen hand vergadert, wordt rijk."
+        },
+        {
+          "nr": 12,
+          "tekst": "Een langgerekt hopen maakt het hart ziek,maar een vervulde begeerte is een boom des levens."
+        },
+        {
+          "nr": 13,
+          "tekst": "Wie het woord veracht, moet het ontgelden;maar wie het gebod vreest, hem zal vergolden worden."
+        },
+        {
+          "nr": 14,
+          "tekst": "Het onderricht van de wijze is een bron des levens,om de strikken des doods te ontwijken."
+        },
+        {
+          "nr": 15,
+          "tekst": "Goed inzicht verschaft gunst,maar de weg der trouwelozen is onbegaanbaar."
+        },
+        {
+          "nr": 16,
+          "tekst": "Ieder schrander mens handelt met overleg,maar een zot kraamt dwaasheid uit."
+        },
+        {
+          "nr": 17,
+          "tekst": "Een goddeloos gezant valt in het ongeluk,maar een betrouwbare bode brengt genezing."
+        },
+        {
+          "nr": 18,
+          "tekst": "Armoede en schande treffen hem die de tucht in de wind slaat,maar wie de terechtwijzing in acht neemt, wordt geëerd."
+        },
+        {
+          "nr": 19,
+          "tekst": "Een vervulde begeerte is zoet voor de ziel,het is de dwazen een gruwel van het kwaad af te wijken."
+        },
+        {
+          "nr": 20,
+          "tekst": "Wie met wijzen omgaat, wordt wijs;maar wie met dwazen verkeert, wordt slecht."
+        },
+        {
+          "nr": 21,
+          "tekst": "Het kwaad vervolgt de zondaren,maar de rechtvaardigen vergeldt Hij het goede."
+        },
+        {
+          "nr": 22,
+          "tekst": "De goede doet zijn kindskinderen erven,maar het vermogen van de zondaarwordt weggelegd voor de rechtvaardigen."
+        },
+        {
+          "nr": 23,
+          "tekst": "Het pas ontgonnen land der armenkan overvloed van spijzen leveren,maar soms gaat deze door onrecht teloor."
+        },
+        {
+          "nr": 24,
+          "tekst": "Wie zijn roede spaart, haat zijn zoon;maar wie hem liefheeft, tuchtigt hem reeds vroeg."
+        },
+        {
+          "nr": 25,
+          "tekst": "De rechtvaardige eet tot verzadiging toe,maar de buik der goddelozen zal gebrek lijden."
+        }
+      ]
+    },
+    {
+      "nr": 14,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De wijsheid der vrouwen bouwt haar huis,maar de dwaasheid breekt het af met haar eigen handen."
+        },
+        {
+          "nr": 2,
+          "tekst": "Wie in oprechtheid wandelt, vreest de Here;maar hij wiens wegen verkeerd zijn, veracht Hem."
+        },
+        {
+          "nr": 3,
+          "tekst": "In de mond van de dwaas ligt een roede voor zijn hovaardij,maar de lippen der wijzen bewaren hen."
+        },
+        {
+          "nr": 4,
+          "tekst": "Als er geen runderen zijn, blijft de kribbe leeg,maar door de kracht van de ploegos is er een rijke opbrengst."
+        },
+        {
+          "nr": 5,
+          "tekst": "Een betrouwbaar getuige liegt niet,maar wie leugens uitblaast, is een vals getuige."
+        },
+        {
+          "nr": 6,
+          "tekst": "Een spotter zoekt naar wijsheid, doch tevergeefs,maar voor de verstandige is kennis gemakkelijk te verkrijgen."
+        },
+        {
+          "nr": 7,
+          "tekst": "Ga de dwaze man uit de weg,want verstandige lippen bemerkt gij daar niet."
+        },
+        {
+          "nr": 8,
+          "tekst": "De wijsheid van de schrandere is: zijn weg te verstaan,maar de dwaasheid der zotten loopt uit op bedrog."
+        },
+        {
+          "nr": 9,
+          "tekst": "Het schuldoffer spot met de dwazen,maar onder oprechten woont (Gods) welbehagen."
+        },
+        {
+          "nr": 10,
+          "tekst": "Het hart kent zijn eigen droefheid,en in zijn vreugde kan een vreemde zich niet mengen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Het huis der goddelozen zal verwoest worden,maar de tent der oprechten zal bloeien."
+        },
+        {
+          "nr": 12,
+          "tekst": "Soms schijnt een weg iemand recht,maar het einde daarvan voert naar de dood."
+        },
+        {
+          "nr": 13,
+          "tekst": "Ook onder het lachen kan het hart pijn lijdenen het einde der vreugde kan kommer zijn."
+        },
+        {
+          "nr": 14,
+          "tekst": "De afvallige van hart verzadigt zich met zijn wegen;maar een goed man met het zijne."
+        },
+        {
+          "nr": 15,
+          "tekst": "De onverstandige gelooft elk woord,maar de schrandere geeft acht op zijn gang."
+        },
+        {
+          "nr": 16,
+          "tekst": "De wijze vreest en wijkt af van het kwaad,maar de dwaas gaat zich te buiten en voelt zich toch veilig."
+        },
+        {
+          "nr": 17,
+          "tekst": "Wie spoedig toornig is, begaat dwaasheid,en een man met slinkse streken wordt gehaat."
+        },
+        {
+          "nr": 18,
+          "tekst": "De onverstandigen krijgen dwaasheid als hun deel,maar de schranderen worden gekroond met kennis."
+        },
+        {
+          "nr": 19,
+          "tekst": "De bozen moeten zich neerbuigen voor de goeden,en de goddelozen bij de poorten van de rechtvaardige."
+        },
+        {
+          "nr": 20,
+          "tekst": "Zelfs door zijn naaste wordt de arme gehaat,maar de vrienden van de rijke zijn vele."
+        },
+        {
+          "nr": 21,
+          "tekst": "Wie zijn naaste veracht, zondigt;maar welzalig hij, die zich ontfermt over ellendigen."
+        },
+        {
+          "nr": 22,
+          "tekst": "Zullen de bewerkers van het kwade niet dwalen?Doch liefde en trouw zijn voor de bewerkers van het goede."
+        },
+        {
+          "nr": 23,
+          "tekst": "In alle moeitevolle arbeid zal voordeel zijn,maar het gepraat der lippen leidt enkel tot gebrek."
+        },
+        {
+          "nr": 24,
+          "tekst": "De kroon der wijzen is hun rijkdom;de dwaasheid der zotten blijft dwaasheid."
+        },
+        {
+          "nr": 25,
+          "tekst": "Een betrouwbaar getuige is een redder van levens,maar wie leugens blaast, is een en al bedrog."
+        },
+        {
+          "nr": 26,
+          "tekst": "In de vreze des Heren ligt sterke gerustheid,zelfs voor zijn zonen is er een schuilplaats."
+        },
+        {
+          "nr": 27,
+          "tekst": "De vreze des Heren is een bron des levens,om de strikken des doods te ontwijken."
+        },
+        {
+          "nr": 28,
+          "tekst": "In de menigte van volk is des konings heerlijkheid,maar in gebrek aan onderdanenligt de ondergang van de machthebber."
+        },
+        {
+          "nr": 29,
+          "tekst": "De lankmoedige is groot van verstand,maar wie kortaangebonden is, hoopt dwaasheid op."
+        },
+        {
+          "nr": 30,
+          "tekst": "Een zachtmoedig hart is leven voor het vlees,maar jaloersheid is vertering voor de beenderen."
+        },
+        {
+          "nr": 31,
+          "tekst": "Wie de behoeftige verdrukt, smaadt diens Maker;maar wie zich over de arme ontfermt, eert Hem."
+        },
+        {
+          "nr": 32,
+          "tekst": "In zijn rampspoed wordt de goddeloze geveld,maar de rechtvaardige vindt zelfs in zijn dood een schuilplaats."
+        },
+        {
+          "nr": 33,
+          "tekst": "In het hart van de verstandige rust de wijsheid,zelfs te midden der zotten wordt zij onderkend."
+        },
+        {
+          "nr": 34,
+          "tekst": "Gerechtigheid verhoogt een volk,maar zonde is een schandvlek der natiën."
+        },
+        {
+          "nr": 35,
+          "tekst": "Het welgevallen des konings valt een verstandig dienaar ten deel,maar hem die zich schandelijk gedraagt, treft zijn verbolgenheid."
+        }
+      ]
+    },
+    {
+      "nr": 15,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Een zacht antwoord keert de grimmigheid af,maar een krenkend woord wekt de toorn op."
+        },
+        {
+          "nr": 2,
+          "tekst": "De tong der wijzen brengt degelijke kennis voort,maar de mond der zotten stort dwaasheid uit."
+        },
+        {
+          "nr": 3,
+          "tekst": "De ogen des Heren zijn aan alle plaatsen,opmerkzaam acht gevend op kwaden en goeden."
+        },
+        {
+          "nr": 4,
+          "tekst": "Zachtheid van tong is een boom des levens,maar valsheid in haar is een verderf in de geest."
+        },
+        {
+          "nr": 5,
+          "tekst": "De dwaas versmaadt de tucht van zijn vader,maar wie de terechtwijzing ter harte neemt, is verstandig."
+        },
+        {
+          "nr": 6,
+          "tekst": "In het huis van de rechtvaardige is een grote schat,maar het gewin van de goddeloze brengt vernieling."
+        },
+        {
+          "nr": 7,
+          "tekst": "De lippen der wijzen strooien kennis uit,maar het hart der dwazen is niet recht."
+        },
+        {
+          "nr": 8,
+          "tekst": "Het offer der goddelozen is de Here een gruwel,maar aan het gebed der oprechten heeft Hij welgevallen."
+        },
+        {
+          "nr": 9,
+          "tekst": "De weg van de goddeloze is de Here een gruwel,maar wie gerechtigheid najaagt, heeft Hij lief."
+        },
+        {
+          "nr": 10,
+          "tekst": "Gestrenge tuchtiging treft hem die het rechte pad verlaat;wie terechtwijzing haat, zal sterven."
+        },
+        {
+          "nr": 11,
+          "tekst": "Dodenrijk en verderf liggen open voor de Here,hoeveel te meer de harten der mensenkinderen!"
+        },
+        {
+          "nr": 12,
+          "tekst": "De spotter houdt er niet van, dat men hem terechtwijst;tot de wijzen zal hij niet gaan."
+        },
+        {
+          "nr": 13,
+          "tekst": "Een blij hart maakt het aangezicht vrolijk,maar door harteleed wordt de geest verslagen."
+        },
+        {
+          "nr": 14,
+          "tekst": "Het hart van de verstandige zoekt kennis,maar de mond der zotten houdt zich met dwaasheid bezig."
+        },
+        {
+          "nr": 15,
+          "tekst": "Al de dagen van de ellendige zijn boos,maar voor de blijmoedige is het altijd feest."
+        },
+        {
+          "nr": 16,
+          "tekst": "Beter is een weinig in de vreze des Heren,dan een grote schat en onrust daarbij."
+        },
+        {
+          "nr": 17,
+          "tekst": "Beter een schotel groente, waar liefde heerst,dan een gemeste os en haat daarbij."
+        },
+        {
+          "nr": 18,
+          "tekst": "Een opvliegend mens verwekt twist,maar een lankmoedige doet de strijd bedaren."
+        },
+        {
+          "nr": 19,
+          "tekst": "De weg van de luiaard is als een doornhaag,maar het pad der oprechten is welgebaand."
+        },
+        {
+          "nr": 20,
+          "tekst": "Een wijs zoon verheugt de vader,maar een dwaas van een mens veracht zijn moeder."
+        },
+        {
+          "nr": 21,
+          "tekst": "Dwaasheid is vreugde voor de verstandeloze,maar een man van verstand houdt de rechte weg."
+        },
+        {
+          "nr": 22,
+          "tekst": "Plannen mislukken bij gebrek aan overleg,maar door de veelheid van raadgevers komt iets tot stand."
+        },
+        {
+          "nr": 23,
+          "tekst": "Iemand heeft vreugde, als hij een gepast antwoord geeft,en hoe goed is een woord op zijn tijd!"
+        },
+        {
+          "nr": 24,
+          "tekst": "Het pad des levens gaat voor de verstandige opwaarts,opdat hij ontwijke het dodenrijk beneden."
+        },
+        {
+          "nr": 25,
+          "tekst": "Het huis der hoogmoedigen breekt de Here af,maar Hij maakt de grenspaal der weduwe vast."
+        },
+        {
+          "nr": 26,
+          "tekst": "De plannen van de boze zijn de Here een gruwel,maar liefelijke woorden zijn rein."
+        },
+        {
+          "nr": 27,
+          "tekst": "Wie hunkert naar onrechtmatige winst, vernielt zijn eigen huis;maar wie geschenken haat, zal leven."
+        },
+        {
+          "nr": 28,
+          "tekst": "Het hart van de rechtvaardige overweegt, wat hij zal antwoorden,maar de mond der goddelozen stort boosheden uit."
+        },
+        {
+          "nr": 29,
+          "tekst": "Ver is de Here van de goddelozen,maar het gebed der rechtvaardigen hoort Hij."
+        },
+        {
+          "nr": 30,
+          "tekst": "Vriendelijk stralende ogen verheugen het hart;een goede tijding verkwikt het gebeente."
+        },
+        {
+          "nr": 31,
+          "tekst": "Het oor, dat luistert naar de terechtwijzing die ten leven is,zal vertoeven te midden der wijzen."
+        },
+        {
+          "nr": 32,
+          "tekst": "Wie de tucht in de wind slaat, veracht zijn leven;maar wie naar terechtwijzing luistert, verkrijgt verstand."
+        },
+        {
+          "nr": 33,
+          "tekst": "De vreze des Heren voedt op tot wijsheid,en ootmoed gaat vooraf aan de eer."
+        }
+      ]
+    },
+    {
+      "nr": 16,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De mens heeft overleggingen des harten,maar het antwoord der tong is van de Here."
+        },
+        {
+          "nr": 2,
+          "tekst": "Al iemands wegen zijn rein in zijn ogen,maar de Here toetst de geesten."
+        },
+        {
+          "nr": 3,
+          "tekst": "Beveel de Here uw werken,dan zullen uw voornemens gelukken."
+        },
+        {
+          "nr": 4,
+          "tekst": "De Here heeft alles gemaakt voor zijn doel,ja, zelfs de goddeloze voor de dag des kwaads."
+        },
+        {
+          "nr": 5,
+          "tekst": "Iedere hooghartige is de Here een gruwel;voorwaar, hij blijft niet ongestraft."
+        },
+        {
+          "nr": 6,
+          "tekst": "Door liefde en trouw wordt de ongerechtigheid verzoend,door de vreze des Heren wijkt men van het kwaad."
+        },
+        {
+          "nr": 7,
+          "tekst": "Als iemands wegen de Here behagen,doet Hij zelfs diens vijanden vrede met hem maken."
+        },
+        {
+          "nr": 8,
+          "tekst": "Beter een weinig met gerechtigheid,dan grote inkomsten met onrecht."
+        },
+        {
+          "nr": 9,
+          "tekst": "Het hart des mensen overdenkt zijn weg,maar de Here bestiert zijn gang."
+        },
+        {
+          "nr": 10,
+          "tekst": "Het godsoordeel is op de lippen van de koning,in het gericht faalt zijn mond niet."
+        },
+        {
+          "nr": 11,
+          "tekst": "Zuivere waag en weegschaal zijn des Heren;al de weegstenen in de buidel zijn zijn werk."
+        },
+        {
+          "nr": 12,
+          "tekst": "Voor koningen is het een gruwel, goddeloosheid te plegen,want door gerechtigheid wordt de troon bevestigd."
+        },
+        {
+          "nr": 13,
+          "tekst": "Rechtvaardige lippen zijn de koningen welgevallig,hem die oprechte woorden spreekt, heeft hij lief."
+        },
+        {
+          "nr": 14,
+          "tekst": "De grimmigheid van de koning is een voorbode van de dood,maar een wijs man verzoent die."
+        },
+        {
+          "nr": 15,
+          "tekst": "Het licht op het gelaat van de koning is het leven,en zijn welgevallen is als een wolk van de late regen."
+        },
+        {
+          "nr": 16,
+          "tekst": "Hoeveel beter is het, wijsheid te verkrijgen dan goud,hoeveel verkieslijker is het, verstand te verwerven dan zilver!"
+        },
+        {
+          "nr": 17,
+          "tekst": "De koers der oprechten is: te wijken van het kwaad;wie acht geeft op zijn weg, bewaart zijn leven."
+        },
+        {
+          "nr": 18,
+          "tekst": "Hovaardij gaat vooraf aan het verderf,en hoogmoed komt voor de val."
+        },
+        {
+          "nr": 19,
+          "tekst": "Het is beter nederig van geest te zijn met de armen,dan buit te delen met de hovaardigen."
+        },
+        {
+          "nr": 20,
+          "tekst": "Wie op het woord acht geeft, zal het goede vinden;ja, welzalig hij, die op de Here vertrouwt."
+        },
+        {
+          "nr": 21,
+          "tekst": "De wijze van hart wordt verstandig genoemd,en zoetheid van lippen versterkt het betoog."
+        },
+        {
+          "nr": 22,
+          "tekst": "Het verstand is voor zijn bezitters een bron van leven,maar de straf voor de dwazen is hun eigen dwaasheid."
+        },
+        {
+          "nr": 23,
+          "tekst": "Het hart van de wijze maakt zijn mond verstandig,en versterkt het betoog op zijn lippen."
+        },
+        {
+          "nr": 24,
+          "tekst": "Vriendelijke woorden zijn als honigzeem,zoet voor de ziel en medicijn voor het gebeente."
+        },
+        {
+          "nr": 25,
+          "tekst": "Soms schijnt een weg iemand recht,maar het einde daarvan voert naar de dood."
+        },
+        {
+          "nr": 26,
+          "tekst": "De honger van de werkman werkt voor hem,want zijn mond spoort hem aan."
+        },
+        {
+          "nr": 27,
+          "tekst": "Een nietswaardig man delft boosheid op,op zijn lippen is het als verzengend vuur."
+        },
+        {
+          "nr": 28,
+          "tekst": "Een valsaard veroorzaakt twist,een lasteraar brengt scheiding tussen vrienden."
+        },
+        {
+          "nr": 29,
+          "tekst": "Een man des gewelds verleidt zijn naasteen leidt hem op een weg die niet goed is."
+        },
+        {
+          "nr": 30,
+          "tekst": "Wie zijn ogen toeknijpt, wil valse dingen verzinnen;wie zijn lippen samendrukt, heeft het kwaad reeds gedaan."
+        },
+        {
+          "nr": 31,
+          "tekst": "De grijsheid is een sierlijke kroon,zij wordt op de weg der gerechtigheid gevonden."
+        },
+        {
+          "nr": 32,
+          "tekst": "Een lankmoedig mens overtreft een held,wie zijn geest beheerst, hem die een stad inneemt."
+        },
+        {
+          "nr": 33,
+          "tekst": "Het lot wordt in de schoot geworpen,maar elke beslissing daarvan is van de Here."
+        }
+      ]
+    },
+    {
+      "nr": 17,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Beter een droge bete en rust daarbij,dan een huis vol vleesspijzen, waarover men twist."
+        },
+        {
+          "nr": 2,
+          "tekst": "Een verstandig slaaf zal heersenover een zoon die zich schandelijk gedraagt,en zal in de erfenis delen te midden der broeders."
+        },
+        {
+          "nr": 3,
+          "tekst": "De smeltkroes is voor het zilver en de oven voor het goud,maar de toetser der harten is de Here."
+        },
+        {
+          "nr": 4,
+          "tekst": "Een booswicht schenkt aandacht aan een bedrieglijke lip;valsheid leent het oor aan de verderfelijke tong."
+        },
+        {
+          "nr": 5,
+          "tekst": "Wie de arme bespot, smaadt diens Maker;wie zich over rampspoed verheugt, blijft niet ongestraft."
+        },
+        {
+          "nr": 6,
+          "tekst": "De kroon der ouden zijn kindskinderenen de eer der kinderen zijn hun ouders."
+        },
+        {
+          "nr": 7,
+          "tekst": "Een groot woord past niet aan een dwaas,hoeveel te minder leugentaal aan een edele."
+        },
+        {
+          "nr": 8,
+          "tekst": "Het geschenk is in de ogen van zijn bezitter een kostbare steen,hij is voorspoedig waarheen hij zich ook wendt."
+        },
+        {
+          "nr": 9,
+          "tekst": "Wie een overtreding bedekt, jaagt liefde na;maar wie een zaak ophaalt, brengt scheiding tussen vrienden."
+        },
+        {
+          "nr": 10,
+          "tekst": "Een berisping maakt op de verstandige meer indrukdan honderd slagen op een zot."
+        },
+        {
+          "nr": 11,
+          "tekst": "De wederspannige zoekt slechts het kwade,maar tegen hem zal een onbarmhartige bode worden gezonden."
+        },
+        {
+          "nr": 12,
+          "tekst": "Laat een van jongen beroofde berin iemand tegenkomen,maar niet een zot in zijn dwaasheid."
+        },
+        {
+          "nr": 13,
+          "tekst": "Wie kwaad voor goed vergeldt,het kwaad zal van zijn huis niet wijken."
+        },
+        {
+          "nr": 14,
+          "tekst": "Het begin van een twist is als het doorsteken van een waterkering;laat dus af van twist, voordat hij losbreekt."
+        },
+        {
+          "nr": 15,
+          "tekst": "Wie een goddeloze vrijspreekten wie een rechtvaardige veroordeelt,deze beiden zijn de Here een gruwel."
+        },
+        {
+          "nr": 16,
+          "tekst": "Wat baat de koopprijs in de hand van de dwaasom wijsheid te kopen, daar hij immers geen verstand heeft?"
+        },
+        {
+          "nr": 17,
+          "tekst": "Een vriend heeft te allen tijde lief,maar een broeder wordt voor de nood geboren."
+        },
+        {
+          "nr": 18,
+          "tekst": "Een verstandeloos mens is hij, die handslag geeft,die zich borg stelt voor zijn naaste."
+        },
+        {
+          "nr": 19,
+          "tekst": "Wie twist liefheeft, heeft overtreding lief;wie een grote mond opzet, zoekt verderf."
+        },
+        {
+          "nr": 20,
+          "tekst": "De verkeerde van hart vindt geen geluk,de valse van tong valt in het ongeluk."
+        },
+        {
+          "nr": 21,
+          "tekst": "Wie een zot verwekt, die wordt het tot kwelling,de vader van een dwaas zal zich niet verheugen."
+        },
+        {
+          "nr": 22,
+          "tekst": "Een vrolijk hart bevordert de genezing,maar een verslagen geest doet het gebeente verdorren."
+        },
+        {
+          "nr": 23,
+          "tekst": "De goddeloze neemt een geschenk uit de buidel aan,om de paden van het recht te buigen."
+        },
+        {
+          "nr": 24,
+          "tekst": "De verstandige heeft de wijsheid voor ogen,maar de ogen van een dwaas dwalen tot het einde der aarde."
+        },
+        {
+          "nr": 25,
+          "tekst": "Een dwaas zoon is zijn vader een ergernisen een verdriet voor wie hem baarde."
+        },
+        {
+          "nr": 26,
+          "tekst": "Een rechtvaardige te beboeten is reeds verkeerd,onbehoorlijk is het een edele te slaan."
+        },
+        {
+          "nr": 27,
+          "tekst": "De verstandige houdt zijn woorden in,de man van inzicht is bezonnen."
+        },
+        {
+          "nr": 28,
+          "tekst": "Zelfs een dwaas die zwijgt, gaat door voor wijs;als hij zijn lippen gesloten houdt, voor verstandig."
+        }
+      ]
+    },
+    {
+      "nr": 18,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De eenzelvige zoekt zijn eigen begeerte,hij barst los tegen al wat verstandig is."
+        },
+        {
+          "nr": 2,
+          "tekst": "Een dwaas schept geen behagen in inzicht,maar hierin, dat zijn hart zich bloot geeft."
+        },
+        {
+          "nr": 3,
+          "tekst": "Waar de goddeloze komt, komt ook verachting,en met schande komt smaad."
+        },
+        {
+          "nr": 4,
+          "tekst": "De woorden van iemands mond zijn diepe wateren,een bruisende beek, een bron van wijsheid."
+        },
+        {
+          "nr": 5,
+          "tekst": "Het is verkeerd de goddeloze voor te trekken,en de rechtvaardige in het gericht weg te duwen."
+        },
+        {
+          "nr": 6,
+          "tekst": "De lippen van de dwaas brengen twist voort,en zijn mond roept om slagen."
+        },
+        {
+          "nr": 7,
+          "tekst": "De mond van de dwaas is hem tot verderf,zijn lippen zijn een valstrik voor hemzelf."
+        },
+        {
+          "nr": 8,
+          "tekst": "De woorden van de lasteraar zijn als lekkernijen;zij glijden immers af naar de schuilhoeken van het hart."
+        },
+        {
+          "nr": 9,
+          "tekst": "Hij, die traag is in zijn arbeid,is reeds een broeder van de verderver."
+        },
+        {
+          "nr": 10,
+          "tekst": "De naam des Heren is een sterke toren;de rechtvaardige ijlt daarheen en is onaantastbaar."
+        },
+        {
+          "nr": 11,
+          "tekst": "Het bezit van de rijke is zijn sterke stad,en als een hoge muur – in zijn verbeelding."
+        },
+        {
+          "nr": 12,
+          "tekst": "Vóór de val is het hart van de mens hoogmoedig,maar ootmoed gaat vooraf aan de eer."
+        },
+        {
+          "nr": 13,
+          "tekst": "Wie antwoord geeft, voordat hij hoort,die is het tot dwaasheid en smaad."
+        },
+        {
+          "nr": 14,
+          "tekst": "De geestkracht van de mens houdt hem staande in zijn lijden,maar een neerslachtige geest, wie zal die opbeuren?"
+        },
+        {
+          "nr": 15,
+          "tekst": "Het hart van de verstandige verwerft kennis,het oor der wijzen zoekt kennis."
+        },
+        {
+          "nr": 16,
+          "tekst": "Iemands geschenk maakt ruimte voor hemen brengt hem in de tegenwoordigheid der groten."
+        },
+        {
+          "nr": 17,
+          "tekst": "In het rechtsgeding heeft de eerste (spreker) gelijk,maar dan komt de ander en rekent hem na."
+        },
+        {
+          "nr": 18,
+          "tekst": "Het lot doet twistingen ophoudenen scheidt sterke mannen van elkander."
+        },
+        {
+          "nr": 19,
+          "tekst": "Een verongelijkte broeder is ontoegankelijker dan een sterke stad,en twistingen zijn als de grendel van een burcht."
+        },
+        {
+          "nr": 20,
+          "tekst": "Van de vrucht van iemands mond wordt zijn binnenste verzadigd;hij verzadigt zich van de opbrengst van zijn lippen."
+        },
+        {
+          "nr": 21,
+          "tekst": "Dood en leven zijn in de macht der tong,wie aan haar toegeeft, zal haar vrucht eten."
+        },
+        {
+          "nr": 22,
+          "tekst": "Wie een vrouw vond, heeft iets goeds gevondenen gunst van de Here verworven."
+        },
+        {
+          "nr": 23,
+          "tekst": "Smekend spreekt de arme,maar hard antwoordt de rijke."
+        },
+        {
+          "nr": 24,
+          "tekst": "Veel makkers strekken een mens tot ongeluk,maar soms is een vriend aanhankelijker dan een broeder."
+        }
+      ]
+    },
+    {
+      "nr": 19,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Beter een arme die in oprechtheid wandelt,dan een verkeerde van lippen, die bovendien dwaas is."
+        },
+        {
+          "nr": 2,
+          "tekst": "Zonder verstand deugt zelfs ijver niet,wie haastig is met zijn voeten, begaat een misstap."
+        },
+        {
+          "nr": 3,
+          "tekst": "Des mensen eigen dwaasheid verderft zijn weg,en dan is zijn hart gramstorig op de Here."
+        },
+        {
+          "nr": 4,
+          "tekst": "Rijkdom brengt veel vrienden aan,maar een arme wordt door zijn vriend verlaten."
+        },
+        {
+          "nr": 5,
+          "tekst": "Een vals getuige blijft niet ongestraft,wie leugens uitblaast, ontkomt niet."
+        },
+        {
+          "nr": 6,
+          "tekst": "Velen dingen naar de gunst van de aanzienlijke,ieder is vriend van wie geschenken geeft."
+        },
+        {
+          "nr": 7,
+          "tekst": "Al de broeders van de arme haten hem,hoeveel te meer blijven zijn vrienden verre van hem.Achtervolgt hij hen met woorden– weg zijn zij."
+        },
+        {
+          "nr": 8,
+          "tekst": "Wie verstand verwerft, heeft zijn leven lief;wie inzicht bewaart, vindt geluk."
+        },
+        {
+          "nr": 9,
+          "tekst": "Een vals getuige blijft niet ongestraft,wie leugens uitblaast, zal omkomen."
+        },
+        {
+          "nr": 10,
+          "tekst": "Weelde past een dwaas niet,hoeveel te minder een slaaf te heersen over vorsten."
+        },
+        {
+          "nr": 11,
+          "tekst": "Des mensen verstand maakt hem lankmoedig,het is zijn eer een overtreding voorbij te zien."
+        },
+        {
+          "nr": 12,
+          "tekst": "De toorn van een koning is als het grommen van een jonge leeuw,maar zijn welgevallen is als dauw op het gras."
+        },
+        {
+          "nr": 13,
+          "tekst": "Een dwaas zoon is een ramp voor zijn vader,het getwist van een vrouw als een gestadig druppelend lek."
+        },
+        {
+          "nr": 14,
+          "tekst": "Huis en have is een erfdeel der vaderen,maar een verstandige vrouw is van de Here."
+        },
+        {
+          "nr": 15,
+          "tekst": "Luiheid doet in diepe slaap vallenen de trage moet honger lijden."
+        },
+        {
+          "nr": 16,
+          "tekst": "Wie het gebod bewaart, bewaart zijn leven;maar wie niet let op zijn wandel, zal sterven."
+        },
+        {
+          "nr": 17,
+          "tekst": "Wie zich over de arme ontfermt, leent de Here;Hij zal hem zijn weldaad vergelden."
+        },
+        {
+          "nr": 18,
+          "tekst": "Kastijd uw zoon, wanneer er nog hoop is,maar laat u niet verleiden hem te doden."
+        },
+        {
+          "nr": 19,
+          "tekst": "Een doldriftige moet boeten,want als gij helpen wilt, maakt gij het erger."
+        },
+        {
+          "nr": 20,
+          "tekst": "Luister naar raad en neem vermaning aan,opdat gij ten slotte wijs wordt."
+        },
+        {
+          "nr": 21,
+          "tekst": "Vele zijn de overleggingen in het hart des mensen,maar de raad des Heren, die zal bestaan."
+        },
+        {
+          "nr": 22,
+          "tekst": "Het aantrekkelijke van de mens is zijn welwillendheid;beter is een arme dan een leugenachtig man."
+        },
+        {
+          "nr": 23,
+          "tekst": "De vreze des Heren is ten leven;men overnacht verzadigd, door het kwaad niet bezocht."
+        },
+        {
+          "nr": 24,
+          "tekst": "Al heeft de luiaard zijn hand in de schotel gestoken,hij brengt ze niet eens aan de mond."
+        },
+        {
+          "nr": 25,
+          "tekst": "Slaat gij de spotter, dan wordt de onverstandige schrander,tuchtigt gij de verstandige, hij put er kennis uit."
+        },
+        {
+          "nr": 26,
+          "tekst": "Wie zijn vader mishandelt, zijn moeder verstoot,is een snood en schandelijk zoon."
+        },
+        {
+          "nr": 27,
+          "tekst": "Houd maar op, mijn zoon, naar vermaning te luisterenals gij toch afwijkt van verstandige woorden."
+        },
+        {
+          "nr": 28,
+          "tekst": "Een nietswaardig getuige spot met het recht,en de mond der goddelozen verslindt onrecht."
+        },
+        {
+          "nr": 29,
+          "tekst": "Voor de spotters zijn straffen gereeden slagen voor de rug der dwazen."
+        }
+      ]
+    },
+    {
+      "nr": 20,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De wijn is een spotter, de drank een luidruchtige,ieder die zich daaraan overgeeft, is onwijs."
+        },
+        {
+          "nr": 2,
+          "tekst": "De dreiging des konings is als het grommen van een jonge leeuw,wie tegen hem overtreedt, zondigt tegen zijn leven."
+        },
+        {
+          "nr": 3,
+          "tekst": "Het is een eer voor een man zich verre te houden van twist,maar elke dwaas barst los."
+        },
+        {
+          "nr": 4,
+          "tekst": "In de herfst ploegt de luiaard niet;zoekt hij in de oogsttijd – dan is er niets."
+        },
+        {
+          "nr": 5,
+          "tekst": "De plannen in het hart van de mens zijn diepe wateren,maar een man van verstand weet ze op te diepen."
+        },
+        {
+          "nr": 6,
+          "tekst": "Vele mensen roemen hun eigen welwillendheid,maar een betrouwbaar man – wie kan hem vinden?"
+        },
+        {
+          "nr": 7,
+          "tekst": "Een rechtvaardige, wandelend in zijn oprechtheid –welzalig zijn zijn kinderen na hem."
+        },
+        {
+          "nr": 8,
+          "tekst": "Een koning, op de rechterstoel gezeten,weet reeds met zijn ogen al het boze te schiften."
+        },
+        {
+          "nr": 9,
+          "tekst": "Wie kan zeggen: Ik heb mijn hart rein bewaard,ik ben rein van zonde?"
+        },
+        {
+          "nr": 10,
+          "tekst": "Tweeërlei gewicht, tweeërlei maat,beide zijn de Here een gruwel."
+        },
+        {
+          "nr": 11,
+          "tekst": "Reeds een knaap laat zich door zijn handelingen kennen,of zijn doen zuiver is en recht."
+        },
+        {
+          "nr": 12,
+          "tekst": "Het oor dat hoort en het oog dat ziet,de Here heeft beide gemaakt."
+        },
+        {
+          "nr": 13,
+          "tekst": "Heb de slaap niet lief, opdat gij niet verarmt,houd uw ogen open, dan hebt gij brood genoeg."
+        },
+        {
+          "nr": 14,
+          "tekst": "Slecht! Slecht! zegt de koper,maar als hij weggaat, dan beroemt hij zich."
+        },
+        {
+          "nr": 15,
+          "tekst": "Al heeft men goud en een menigte koralen,het kostbaarste kleinood zijn verstandige lippen."
+        },
+        {
+          "nr": 16,
+          "tekst": "Ontneem hem zijn kleed, want hij bleef borg voor een vreemde,en neem hem als pand voor onbekenden."
+        },
+        {
+          "nr": 17,
+          "tekst": "Brood des bedrogs is zoet voor een mens,maar daarna is zijn mond vol kiezel."
+        },
+        {
+          "nr": 18,
+          "tekst": "Plannen komen tot stand door beraad,voer dus de strijd met overleg."
+        },
+        {
+          "nr": 19,
+          "tekst": "Wie als lasteraar rondgaat, openbaart geheimen;laat u dus niet in met een loslippige."
+        },
+        {
+          "nr": 20,
+          "tekst": "Wie zijn vader en zijn moeder vervloekt,diens lamp wordt uitgeblust ten tijde der dichte duisternis."
+        },
+        {
+          "nr": 21,
+          "tekst": "Een bezit, in het begin te spoedig verworven,zal ten slotte niet tot zegen zijn."
+        },
+        {
+          "nr": 22,
+          "tekst": "Zeg niet: Ik zal het kwaad vergelden;wacht op de Here, Hij zal u helpen."
+        },
+        {
+          "nr": 23,
+          "tekst": "Tweeërlei gewicht is de Here een gruwel,en een valse weegschaal is verkeerd."
+        },
+        {
+          "nr": 24,
+          "tekst": "Van de Here zijn de schreden eens mans,maar een mens – hoe zal hij zijn weg doorzien?"
+        },
+        {
+          "nr": 25,
+          "tekst": "Het is een valstrik voor een mensondoordacht „heilig” te roepen,en pas na gedane geloften te overwegen."
+        },
+        {
+          "nr": 26,
+          "tekst": "Een wijs koning zuivert de goddelozen uiten doet het rad over hen heengaan."
+        },
+        {
+          "nr": 27,
+          "tekst": "De geest van de mens is een lamp des Heren,doorzoekende al de schuilhoeken van het hart."
+        },
+        {
+          "nr": 28,
+          "tekst": "Liefde en trouw beschermen de koning,en door liefde schraagt hij zijn troon."
+        },
+        {
+          "nr": 29,
+          "tekst": "Der jongelingen sieraad is hun kracht,en der ouden glorie is de grijsheid."
+        },
+        {
+          "nr": 30,
+          "tekst": "Bloedige striemen zuiveren het kwaad uit,en slagen reinigen de schuilhoeken van het hart."
+        }
+      ]
+    },
+    {
+      "nr": 21,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Het hart van de koning is in de hand des Heren als waterbeken,Hij leidt het overal heen, waar het Hem behaagt."
+        },
+        {
+          "nr": 2,
+          "tekst": "Elke weg van een mens is recht in zijn ogen,maar de Here beproeft de harten."
+        },
+        {
+          "nr": 3,
+          "tekst": "Gerechtigheid en recht doen,is de Here welgevalliger dan offers."
+        },
+        {
+          "nr": 4,
+          "tekst": "Trotsheid van ogen en opgeblazenheid van hart –de glans der goddelozen is zonde."
+        },
+        {
+          "nr": 5,
+          "tekst": "De plannen van de vlijtige strekken tot louter overvloed,maar al wie overijlt, komt slechts tot gebrek."
+        },
+        {
+          "nr": 6,
+          "tekst": "Schatten verwerven met bedrieglijke tongis een verwaaiende nevel, dodelijke valstrikken."
+        },
+        {
+          "nr": 7,
+          "tekst": "De gewelddaad der goddelozen sleurt hen mee,want zij weigeren recht te doen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Kronkelend is de weg van de bedrieger,maar een eerlijk man is recht in zijn doen."
+        },
+        {
+          "nr": 9,
+          "tekst": "Beter te wonen op een hoek van het dakdan met een twistzieke vrouwin een gemeenschappelijke woning."
+        },
+        {
+          "nr": 10,
+          "tekst": "De begeerte van de goddeloze gaat uit naar het kwaad;zijn naaste draagt hij geen genegenheid toe."
+        },
+        {
+          "nr": 11,
+          "tekst": "Straft men de spotter, dan wordt de onverstandige wijs;onderricht men de wijze, hij zal kennis verwerven."
+        },
+        {
+          "nr": 12,
+          "tekst": "De Rechtvaardige let op het huis van de goddelozeen stort de goddelozen in het verderf."
+        },
+        {
+          "nr": 13,
+          "tekst": "Wie zijn oor gesloten houdt voor het hulpgeroep van de geringe,zal, als hij zelf roept, geen antwoord ontvangen."
+        },
+        {
+          "nr": 14,
+          "tekst": "Een heimelijke gave doet de toorn bedaren,een geschenk in de buidel hevige gramschap."
+        },
+        {
+          "nr": 15,
+          "tekst": "Recht doen is een vreugde voor de rechtvaardige,maar een verschrikking voor de bedrijvers van ongerechtigheid."
+        },
+        {
+          "nr": 16,
+          "tekst": "Een mens die afdwaalt van de weg van het verstand,zal tot rust komen in de vergadering der schimmen."
+        },
+        {
+          "nr": 17,
+          "tekst": "Wie van vermaak houdt, zal gebrek lijden;wie olie en wijn liefheeft, wordt niet rijk."
+        },
+        {
+          "nr": 18,
+          "tekst": "De goddeloze is een losprijs voor de rechtvaardige,en de trouweloze komt in de plaats van de oprechten."
+        },
+        {
+          "nr": 19,
+          "tekst": "Het is beter te wonen in een woestijndan met een twistzieke en gramstorige vrouw."
+        },
+        {
+          "nr": 20,
+          "tekst": "In de woning van de wijze is kostelijke voorraad en olie,maar een dwaas van een mens brengt het door."
+        },
+        {
+          "nr": 21,
+          "tekst": "Wie gerechtigheid en liefde najaagt,vindt leven, gerechtigheid en eer."
+        },
+        {
+          "nr": 22,
+          "tekst": "Een wijze beklimt een stad van heldenen werpt de sterkte waarop zij vertrouwde terneer."
+        },
+        {
+          "nr": 23,
+          "tekst": "Wie zijn mond en zijn tong bewaakt,bewaart zichzelf voor benauwdheden."
+        },
+        {
+          "nr": 24,
+          "tekst": "Een overmoedige en vermetele heet spotter,hij, die handelt in mateloze overmoed."
+        },
+        {
+          "nr": 25,
+          "tekst": "De begeerte van de luiaard brengt hem ten dode,want zijn handen weigeren te werken."
+        },
+        {
+          "nr": 26,
+          "tekst": "De begerigheid begeert de ganse dag,maar de rechtvaardige geeft en houdt niet terug."
+        },
+        {
+          "nr": 27,
+          "tekst": "Het offer der goddelozen is een gruwel,hoeveel te meer, als hij het met boze bedoeling brengt."
+        },
+        {
+          "nr": 28,
+          "tekst": "Een leugenachtig getuige zal omkomen,maar een man die luistert, zal zegevierend spreken."
+        },
+        {
+          "nr": 29,
+          "tekst": "De goddeloze zet een onbeschaamd gezicht,maar de oprechte, hij geeft vastheid aan zijn wandel."
+        },
+        {
+          "nr": 30,
+          "tekst": "Er is geen wijsheid en geen verstand,geen raad is er tegenover de Here."
+        },
+        {
+          "nr": 31,
+          "tekst": "Het paard wordt opgetuigd tegen de dag van de strijd,maar de zege is van de Here."
+        }
+      ]
+    },
+    {
+      "nr": 22,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Een goede naam is verkieslijker dan veel rijkdom,gunst is beter dan zilver en goud."
+        },
+        {
+          "nr": 2,
+          "tekst": "Rijken en armen ontmoeten elkander;hun aller Maker is de Here."
+        },
+        {
+          "nr": 3,
+          "tekst": "De schrandere ziet het onheil en bergt zich,maar de onverstandigen gaan hun gang en moeten boeten."
+        },
+        {
+          "nr": 4,
+          "tekst": "Het loon van ootmoed – vreze des Heren –is rijkdom, eer en leven."
+        },
+        {
+          "nr": 5,
+          "tekst": "Dorens en strikken liggen op de weg van de verkeerde;wie zichzelf wil bewaren, blijft daarvan verre."
+        },
+        {
+          "nr": 6,
+          "tekst": "Oefen de knaap volgens de eis van zijn weg,ook wanneer hij oud geworden is, zal hij daarvan niet afwijken."
+        },
+        {
+          "nr": 7,
+          "tekst": "De rijke heerst over de armen,en de man die leent, is een knecht van de uitlener."
+        },
+        {
+          "nr": 8,
+          "tekst": "Wie onrecht zaait, zal onheil oogsten;de staf van zijn gramschap zal vergaan."
+        },
+        {
+          "nr": 9,
+          "tekst": "Wie vriendelijk van oog is, die wordt gezegend,omdat hij de behoeftige van zijn brood geeft."
+        },
+        {
+          "nr": 10,
+          "tekst": "Jaag de spotter weg en de twist verdwijnt,en het twisten en smaden houdt op."
+        },
+        {
+          "nr": 11,
+          "tekst": "Wie reinheid van hart bemint en wiens lippen vriendelijk zijn,de koning is zijn vriend."
+        },
+        {
+          "nr": 12,
+          "tekst": "De ogen des Heren bewaken de kennis,maar Hij verijdelt de woorden van de trouweloze."
+        },
+        {
+          "nr": 13,
+          "tekst": "De luiaard zegt: Er is een leeuw op de straat,ik moest eens op het plein gedood worden!"
+        },
+        {
+          "nr": 14,
+          "tekst": "De mond van vreemde vrouwen is een diepe groeve;hij, op wie de Here vergramd is, valt daarin."
+        },
+        {
+          "nr": 15,
+          "tekst": "Is dwaasheid vastgehecht in het hart van een knaap,de tuchtroede zal haar vandaar verdrijven."
+        },
+        {
+          "nr": 16,
+          "tekst": "Wie de geringe verdrukt, bevoordeelt hem;wie de rijke geeft, verarmt hem slechts."
+        },
+        {
+          "nr": 17,
+          "tekst": "Neig uw oor en hoor de woorden der wijzen,richt uw hart op mijn kennis."
+        },
+        {
+          "nr": 18,
+          "tekst": "Want het is liefelijk, dat gij ze in uw binnenste bewaart,dat zij alle bestendig op uw lippen zijn."
+        },
+        {
+          "nr": 19,
+          "tekst": "Opdat uw betrouwen op de Here zij,onderricht ik u heden, ja u."
+        },
+        {
+          "nr": 20,
+          "tekst": "Heb ik niet kernspreuken voor u opgeschrevenmet raadgevingen en kennis,"
+        },
+        {
+          "nr": 21,
+          "tekst": "om u bekend te maken de juistheid van betrouwbare woorden,opdat gij uw zender betrouwbare woorden kunt antwoorden?"
+        },
+        {
+          "nr": 22,
+          "tekst": "Beroof de geringe niet, omdat hij arm is,en vertreed de ellendige niet in de poort;"
+        },
+        {
+          "nr": 23,
+          "tekst": "want de Here zal hun rechtsgeding voerenen hun berovers van het leven beroven."
+        },
+        {
+          "nr": 24,
+          "tekst": "Ga niet om met een driftkopen laat u niet in met een heethoofd,"
+        },
+        {
+          "nr": 25,
+          "tekst": "opdat gij niet gewend raakt aan zijn padenen uzelf een strik spant."
+        },
+        {
+          "nr": 26,
+          "tekst": "Behoor niet tot hen die handslag gevenen zich borg stellen voor schulden;"
+        },
+        {
+          "nr": 27,
+          "tekst": "als gij niets hebt om te betalen,waarom zou men uw bed onder u wegnemen?"
+        },
+        {
+          "nr": 28,
+          "tekst": "Verleg de aloude grenzen niet,die uw vaderen vaststelden."
+        }
+      ]
+    },
+    {
+      "nr": 23,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Wanneer gij bij een heerser tafelt,bepaal dan uw aandacht alleen bij wat vóór u staat,"
+        },
+        {
+          "nr": 2,
+          "tekst": "en zet u het mes op de keel,als gij een gulzig mens zijt."
+        },
+        {
+          "nr": 3,
+          "tekst": "Begeer zijn lekkernijen niet,want het is bedrieglijke spijs."
+        },
+        {
+          "nr": 4,
+          "tekst": "Tob u niet af voor rijkdom,zie van uw voornemen af;"
+        },
+        {
+          "nr": 5,
+          "tekst": "richt gij uw oog erop, hij is er niet meer;want plotseling maakte hij zich vleugels,als een arend vliegt hij ten hemel."
+        },
+        {
+          "nr": 6,
+          "tekst": "Eet niet het brood van wie boos van oog is,begeer zijn lekkernijen niet;"
+        },
+        {
+          "nr": 7,
+          "tekst": "want als iemand die zijn eigen plannen maakt, zo is hij;„eet en drink!” zegt hij tot u, maar zijn hart is niet met u;"
+        },
+        {
+          "nr": 8,
+          "tekst": "de bete die gij gegeten hebt, zult gij uitspuwen,en uw vriendelijke woorden hebt gij verspild."
+        },
+        {
+          "nr": 9,
+          "tekst": "Spreek niet ten aanhoren van een dwaas,want hij veracht uw verstandige taal,"
+        },
+        {
+          "nr": 10,
+          "tekst": "Verleg de aloude grenzen nieten kom niet op de akker der wezen,"
+        },
+        {
+          "nr": 11,
+          "tekst": "want hun Losser is sterk;Hij zal hun rechtsgeding tegen u voeren."
+        },
+        {
+          "nr": 12,
+          "tekst": "Richt uw hart op de vermaningen uw oor op woorden van verstand."
+        },
+        {
+          "nr": 13,
+          "tekst": "Onthoud de tucht niet aan de knaap;slaat gij hem met de stok, hij sterft er niet van;"
+        },
+        {
+          "nr": 14,
+          "tekst": "gij slaat hem wel met de stok,maar redt zijn leven van het dodenrijk."
+        },
+        {
+          "nr": 15,
+          "tekst": "Mijn zoon, indien uw hart wijs is,dan zal ook mijn hart zich verheugen;"
+        },
+        {
+          "nr": 16,
+          "tekst": "dan zal mijn binnenste jubelen,wanneer uw lippen rechte dingen spreken."
+        },
+        {
+          "nr": 17,
+          "tekst": "Uw hart zij niet naijverig op de zondaren,maar beijvere zich voortdurend de Here te vrezen;"
+        },
+        {
+          "nr": 18,
+          "tekst": "waarlijk, dan is er toekomsten uw verwachting wordt niet afgesneden."
+        },
+        {
+          "nr": 19,
+          "tekst": "Hoor gij, mijn zoon, en word wijs,richt uw hart op de weg."
+        },
+        {
+          "nr": 20,
+          "tekst": "Verkeer niet met wie zich te buiten gaanaan wijn en vlees;"
+        },
+        {
+          "nr": 21,
+          "tekst": "want een drinker en een doorbrenger verarmen,en slaperigheid doet lompen dragen."
+        },
+        {
+          "nr": 22,
+          "tekst": "Luister naar uw vader, die u heeft verwekt;veracht uw moeder niet, wanneer zij oud geworden is."
+        },
+        {
+          "nr": 23,
+          "tekst": "Koop waarheid en verkoop ze niet,wijsheid en vermaning en verstand."
+        },
+        {
+          "nr": 24,
+          "tekst": "De vader van een rechtvaardige verblijdt zich zeer,wie een wijze verwekte, verheugt zich over hem."
+        },
+        {
+          "nr": 25,
+          "tekst": "Mogen uw vader en uw moeder zich verheugen,moge zij, die u baarde, zich verblijden."
+        },
+        {
+          "nr": 26,
+          "tekst": "Mijn zoon, geef mij uw hart,laten uw ogen behagen hebben in mijn wegen;"
+        },
+        {
+          "nr": 27,
+          "tekst": "want de hoer is een diepe kuil,de ontuchtige een nauwe put;"
+        },
+        {
+          "nr": 28,
+          "tekst": "ja, zij ligt op de loer als een roveren vermeerdert de trouwelozen onder de mensen."
+        },
+        {
+          "nr": 29,
+          "tekst": "Bij wie is ach? bij wie is wee? bij wie is twist? bij wie geklaag?bij wie zijn wonden zonder reden? bij wie troebele ogen?"
+        },
+        {
+          "nr": 30,
+          "tekst": "Bij hen die laat opzitten bij de wijn,die komen om de gemengde drank te proeven."
+        },
+        {
+          "nr": 31,
+          "tekst": "Zie niet naar de wijn, wanneer hij roodachtig fonkelt,wanneer hij in de beker parelt; vlot glijdt hij naar binnen,"
+        },
+        {
+          "nr": 32,
+          "tekst": "ten slotte bijt hij als een slangen spuwt gif als een adder."
+        },
+        {
+          "nr": 33,
+          "tekst": "Dan zien uw ogen vreemde dingenen uw hart spreekt wartaal;"
+        },
+        {
+          "nr": 34,
+          "tekst": "gij zijt als een, die in het hart der zee ligt,als een, die op het uiteinde van een ra ligt."
+        }
+      ]
+    },
+    {
+      "nr": 24,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Wees niet afgunstig op booswichtenen begeer niet met hen te verkeren;"
+        },
+        {
+          "nr": 2,
+          "tekst": "want hun hart bedenkt onderdrukking,hun lippen spreken onheil."
+        },
+        {
+          "nr": 3,
+          "tekst": "Door wijsheid wordt een huis gebouwd,door verstand wordt het bevestigd;"
+        },
+        {
+          "nr": 4,
+          "tekst": "door kennis worden de kamers gevuldmet allerlei kostbaar en liefelijk bezit."
+        },
+        {
+          "nr": 5,
+          "tekst": "Een wijs man is sterk,een man van kennis betoont kracht;"
+        },
+        {
+          "nr": 6,
+          "tekst": "want met overleg moet gij de strijd voerenen de overwinning ligt in de veelheid van raadgevers."
+        },
+        {
+          "nr": 7,
+          "tekst": "Onbereikbaar is de wijsheid voor een dwaas,in de poort doet hij zijn mond niet open."
+        },
+        {
+          "nr": 8,
+          "tekst": "Wie aldoor bedenkt kwaad te doen,die noemt men een aartsschelm."
+        },
+        {
+          "nr": 9,
+          "tekst": "Het bedenken van dwaasheid is zonde,en de spotter is de mens een gruwel."
+        },
+        {
+          "nr": 10,
+          "tekst": "Betoont gij u slap ten dage der benauwdheid,dan komt uw kracht in het nauw."
+        },
+        {
+          "nr": 11,
+          "tekst": "Red hen die ten dode gegrepen zijn,wend u niet af van hen die ter slachting wankelen."
+        },
+        {
+          "nr": 12,
+          "tekst": "Wanneer gij zegt: Zie, wij wisten dit niet –zal Hij, die de harten doorzoekt, het niet merken,en Hij, die op uw ziel let, het niet weten,en de mens naar zijn doen vergelden?"
+        },
+        {
+          "nr": 13,
+          "tekst": "Eet honig, mijn zoon, want dat is goed,honigzeem is zoet voor uw gehemelte;"
+        },
+        {
+          "nr": 14,
+          "tekst": "erken, dat de wijsheid zó is voor uw ziel.Als gij haar gevonden hebt, dan is er toekomsten uw verwachting wordt niet afgesneden."
+        },
+        {
+          "nr": 15,
+          "tekst": "Gij goddelozen, belaagt de woning van de rechtvaardige niet,verwoest niet zijn verblijfplaats;"
+        },
+        {
+          "nr": 16,
+          "tekst": "want de rechtvaardige valt zevenmaal, doch staat weer op,maar de goddelozen struikelen in de rampspoed."
+        },
+        {
+          "nr": 17,
+          "tekst": "Als uw vijand valt, verheug u dan niet;als hij struikelt, jubele uw hart niet,"
+        },
+        {
+          "nr": 18,
+          "tekst": "opdat de Here het niet zie en het Hem mishage,zodat Hij zijn toorn van hem zou afwenden."
+        },
+        {
+          "nr": 19,
+          "tekst": "Wees niet afgunstig op de boosdoenersnoch naijverig op de goddelozen;"
+        },
+        {
+          "nr": 20,
+          "tekst": "want voor de boze is er geen toekomst,de lamp der goddelozen wordt uitgeblust."
+        },
+        {
+          "nr": 21,
+          "tekst": "Mijn zoon, vrees de Here en de koning,laat u niet in met oproermakers;"
+        },
+        {
+          "nr": 22,
+          "tekst": "want onverhoeds verheft zich hun verderf,en wie weet, hoe hun jaren in ongeluk vergaan!"
+        },
+        {
+          "nr": 23,
+          "tekst": "Ook dit zijn (spreuken) van wijzen.Aanzien des persoons in het gericht is verkeerd."
+        },
+        {
+          "nr": 24,
+          "tekst": "Wie tot de schuldige zegt: Gij zijt onschuldig –hem zullen volken vloeken,natiën zullen hem verwensen,"
+        },
+        {
+          "nr": 25,
+          "tekst": "maar hun die recht oordelen, gaat het goed,over hen komt de zegen van de voorspoed."
+        },
+        {
+          "nr": 26,
+          "tekst": "Wie juiste antwoorden geeft,kust de lippen."
+        },
+        {
+          "nr": 27,
+          "tekst": "Maak buiten uw werk gereed en bereid het voor u op het veld;daarna kunt gij uw huis bouwen."
+        },
+        {
+          "nr": 28,
+          "tekst": "Wees niet een lichtvaardig getuige tegen uw naaste,want zoudt gij misleiden met uw lippen?"
+        },
+        {
+          "nr": 29,
+          "tekst": "Zeg niet: Zoals hij mij deed, zo zal ik hem doen;ik vergeld de man naar zijn doen."
+        },
+        {
+          "nr": 30,
+          "tekst": "Ik ging langs de akker van een luiaarden langs de wijngaard van een verstandeloos mens,"
+        },
+        {
+          "nr": 31,
+          "tekst": "en zie, hij was geheel begroeid met distels, met onkruid bedekt,zijn stenen muur was neergehaald."
+        },
+        {
+          "nr": 32,
+          "tekst": "Toen ik dit aanschouwde, nam ik het ter harte,toen ik het zag, trok ik een les daaruit:"
+        },
+        {
+          "nr": 33,
+          "tekst": "nog even slapen, nog even sluimeren,nog even liggen met gevouwen handen,"
+        },
+        {
+          "nr": 34,
+          "tekst": "daar komt uw armoede aangelopenen uw gebrek als een gewapend man."
+        }
+      ]
+    },
+    {
+      "nr": 25,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Ook dit zijn spreuken van Salomo, welke de mannen van Hizkia, de koning van Juda, hebben bijeengebracht."
+        },
+        {
+          "nr": 2,
+          "tekst": "Het is Gods eer een zaak te verbergen,maar der koningen eer een zaak uit te vorsen."
+        },
+        {
+          "nr": 3,
+          "tekst": "De hoogte des hemels, de diepte der aardeen het hart der koningen is niet te doorvorsen."
+        },
+        {
+          "nr": 4,
+          "tekst": "Doe het schuim van het zilver weg,en er komt een werkstuk uit voor de zilversmid."
+        },
+        {
+          "nr": 5,
+          "tekst": "Doe de goddeloze van de koning weg,en zijn troon wordt bevestigd door gerechtigheid."
+        },
+        {
+          "nr": 6,
+          "tekst": "Praal niet bij de koning,ga niet staan op de plaats der groten;"
+        },
+        {
+          "nr": 7,
+          "tekst": "want het is beter, dat men tot u zegt: Kom hierheen, hoger op!dan dat men u vernedere voor de aanzienlijke,die uw ogen hebben gezien."
+        },
+        {
+          "nr": 8,
+          "tekst": "Ga niet haastig over tot een rechtsgeding,want wat zult gij ten slotte doen,wanneer uw naaste u beschaamd maakt?"
+        },
+        {
+          "nr": 9,
+          "tekst": "Beslecht uw rechtsgeding met uw naaste,maar openbaar het geheim van een ander niet,"
+        },
+        {
+          "nr": 10,
+          "tekst": "opdat wie het hoort u niet beschimpe;dan zou het kwaad gerucht over u niet ophouden."
+        },
+        {
+          "nr": 11,
+          "tekst": "Een woord, in juiste vorm gesproken,is als gouden appelen op zilveren schalen."
+        },
+        {
+          "nr": 12,
+          "tekst": "Een wijs vermaner bij een luisterend oor,is een gouden ring en een fijn gouden sieraad."
+        },
+        {
+          "nr": 13,
+          "tekst": "Gelijk de koelte der sneeuw in de oogsttijd,is een betrouwbare bode voor wie hem zendt;hij verkwikt de ziel van zijn heer."
+        },
+        {
+          "nr": 14,
+          "tekst": "Dampen en wind en toch geen regen,zo is iemand die ophef maakt van een waardeloos geschenk."
+        },
+        {
+          "nr": 15,
+          "tekst": "Door lankmoedigheid wordt de machtige vermurwd,een zachte tong verbreekt beenderen."
+        },
+        {
+          "nr": 16,
+          "tekst": "Hebt gij honig gevonden, eet zoveel als u voldoende is,opdat gij er niet te veel van krijgt en het uitspuwt."
+        },
+        {
+          "nr": 17,
+          "tekst": "Zet uw voet niet te dikwijls in het huis van uw naaste,opdat hij niet genoeg van u krijge en u hate."
+        },
+        {
+          "nr": 18,
+          "tekst": "Een knots en een zwaard en een scherpe pijl,zo is iemand die als vals getuige optreedt tegen zijn naaste."
+        },
+        {
+          "nr": 19,
+          "tekst": "Als een afbrekende tand en een zwikkende voetis het vertrouwen op een trouweloze ten dage der benauwdheid."
+        },
+        {
+          "nr": 20,
+          "tekst": "Als iemand die een kleed uittrektop een koude dag, als azijn op loog,is wie liedjes zingt bij een treurig hart."
+        },
+        {
+          "nr": 21,
+          "tekst": "Indien uw vijand honger heeft, geef hem brood te eten,indien hij dorst heeft, geef hem water te drinken;"
+        },
+        {
+          "nr": 22,
+          "tekst": "want dan hoopt gij vurige kolen op zijn hoofd,en de Here zal het u vergelden."
+        },
+        {
+          "nr": 23,
+          "tekst": "De noordenwind verwekt stortregen,heimelijk gepraat toornige aangezichten."
+        },
+        {
+          "nr": 24,
+          "tekst": "Beter te wonen op een hoek van het dakdan met een twistzieke vrouwin een gemeenschappelijke woning."
+        },
+        {
+          "nr": 25,
+          "tekst": "Goede tijding uit verren landeis koel water voor een dorstige ziel."
+        },
+        {
+          "nr": 26,
+          "tekst": "Een troebel gemaakte fontein en een verontreinigde bron,zo is de rechtvaardige die voor de goddeloze wankelt."
+        },
+        {
+          "nr": 27,
+          "tekst": "Veel honig eten is niet goed,maar het doorvorsen van zware dingen is een eer."
+        },
+        {
+          "nr": 28,
+          "tekst": "Een stad met omvergehaalde muren,zo is iemand die zijn geest niet in bedwang heeft."
+        }
+      ]
+    },
+    {
+      "nr": 26,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Evenmin als sneeuw in de zomer, en regen in de oogsttijd,past eer bij een dwaas."
+        },
+        {
+          "nr": 2,
+          "tekst": "Gelijk een mus wegfladdert en een zwaluw heenvliegt,zo is een ongegronde vloek: hij treft geen doel."
+        },
+        {
+          "nr": 3,
+          "tekst": "De zweep is voor het paard, de teugel voor de ezel,en de roede voor de rug der dwazen."
+        },
+        {
+          "nr": 4,
+          "tekst": "Antwoord een zot niet naar zijn dwaasheid,opdat gijzelf hem niet gelijk wordt."
+        },
+        {
+          "nr": 5,
+          "tekst": "Antwoord een zot naar zijn dwaasheid,opdat hij niet wijs zij in eigen oog."
+        },
+        {
+          "nr": 6,
+          "tekst": "Wie een boodschap zendt door een dwaas,kapt zich de voeten af en drinkt onheil in."
+        },
+        {
+          "nr": 7,
+          "tekst": "De benen van een kreupele hangen slap neer,zo is een spreuk in de mond van dwazen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Zoals wie een steen in een slinger vastbindt,zo is hij, die een dwaas eer geeft."
+        },
+        {
+          "nr": 9,
+          "tekst": "Gelijk een doorn dringt in de hand van een dronkaard,zo is een spreuk in de mond van dwazen."
+        },
+        {
+          "nr": 10,
+          "tekst": "Zoals een boogschutter die alle voorbijgangers verwondt,is hij, die een dwaas en die dronkaards in dienst neemt."
+        },
+        {
+          "nr": 11,
+          "tekst": "Een zot die zijn dwaasheid herhaalt,is als een hond die naar zijn uitbraaksel terugkeert."
+        },
+        {
+          "nr": 12,
+          "tekst": "Ziet gij een man die wijs is in eigen oog,voor een dwaas is meer hoop dan voor hem."
+        },
+        {
+          "nr": 13,
+          "tekst": "De luiaard zegt: Een roofdier op de weg!een leeuw op straat!"
+        },
+        {
+          "nr": 14,
+          "tekst": "De deur draait zich om op haar scharnieren,zo de luiaard op zijn bed."
+        },
+        {
+          "nr": 15,
+          "tekst": "Al heeft de luiaard zijn hand in de schotel gestoken,hij is te traag om haar naar zijn mond te brengen."
+        },
+        {
+          "nr": 16,
+          "tekst": "De luiaard is wijzer in eigen oogdan zeven die verstandig antwoord geven."
+        },
+        {
+          "nr": 17,
+          "tekst": "Wie zich mengt in een twist die hem niet aangaat,is als iemand die een voorbijlopende hond bij de oren grijpt."
+        },
+        {
+          "nr": 18,
+          "tekst": "Zoals een dolleman,die brandende pijlen en dodelijke schichten afschiet,"
+        },
+        {
+          "nr": 19,
+          "tekst": "zo is hij, die zijn naaste bedriegten zegt: Deed ik het niet voor de grap?"
+        },
+        {
+          "nr": 20,
+          "tekst": "Als er geen hout is, dooft het vuur;waar geen lasteraar is, komt de twist tot rust."
+        },
+        {
+          "nr": 21,
+          "tekst": "Zoals de kolen de gloed en hout het vuur doen opvlammen,zo een twistziek man de strijd."
+        },
+        {
+          "nr": 22,
+          "tekst": "De woorden van de lasteraar zijn als lekkernijen;zij glijden immers af naar de schuilhoeken van het hart."
+        },
+        {
+          "nr": 23,
+          "tekst": "Zilverglazuursel op een potscherf,zo zijn brandende lippen en een boos hart."
+        },
+        {
+          "nr": 24,
+          "tekst": "Wie haat koestert, veinst met zijn lippen,maar in zijn binnenste bergt hij bedrog."
+        },
+        {
+          "nr": 25,
+          "tekst": "Al spreekt hij met vriendelijke stem, geloof hem niet,want zeven gruwelen zijn in zijn hart."
+        },
+        {
+          "nr": 26,
+          "tekst": "Al tracht de haat zich door bedrog te verbergen,zijn boosheid komt in de vergadering wel aan het licht."
+        },
+        {
+          "nr": 27,
+          "tekst": "Wie een kuil graaft, zal erin vallen;en wie een steen wentelt, op die zal hij terugrollen."
+        },
+        {
+          "nr": 28,
+          "tekst": "Een leugenachtige tong haat hen die zij kwelt,en een gladde mond bereidt verderf."
+        }
+      ]
+    },
+    {
+      "nr": 27,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Beroem u niet op de dag van morgen,want gij weet niet wat een dag kan baren."
+        },
+        {
+          "nr": 2,
+          "tekst": "Een ander roeme u, en niet uw eigen mond,een vreemde, en niet uw eigen lippen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Steen is zwaar en zand weegt,maar de ergernis over een dwaas is zwaarder dan die beide."
+        },
+        {
+          "nr": 4,
+          "tekst": "Gramschap is wreed en toorn is overstelpend,maar wie zal voor jaloersheid bestaan?"
+        },
+        {
+          "nr": 5,
+          "tekst": "Een onomwonden bestraffing is beterdan verborgen liefde;"
+        },
+        {
+          "nr": 6,
+          "tekst": "oprecht gemeend zijn de wonden door een vriend geslagen,maar overvloedig zijn de kussen van een vijand."
+        },
+        {
+          "nr": 7,
+          "tekst": "Een verzadigd mens vertreedt honigzeem,maar voor een hongerige is al het bittere zoet."
+        },
+        {
+          "nr": 8,
+          "tekst": "Zoals een vogel die rondzwerft ver buiten zijn nest,zo is een man die rondzwerft ver buiten zijn woonplaats."
+        },
+        {
+          "nr": 9,
+          "tekst": "Olie en reukwerk verheugen het hart,en warme vriendschap, vanwege welgemeende raad."
+        },
+        {
+          "nr": 10,
+          "tekst": "Laat uw vriend en de vriend van uw vader niet in de steek,maar betreed het huis van uw broeder nietten dage van uw ongeluk.Beter een buur dichtbij dan een broeder veraf."
+        },
+        {
+          "nr": 11,
+          "tekst": "Wees wijs, mijn zoon, en verheug mijn hart,opdat ik een antwoord heb voor wie mij smaadt."
+        },
+        {
+          "nr": 12,
+          "tekst": "De schrandere ziet het onheil en bergt zich;de onverstandigen gaan hun gang en moeten boeten."
+        },
+        {
+          "nr": 13,
+          "tekst": "Ontneem hem zijn kleed, want hij bleef borg voor een vreemde;neem hem als pand voor een onbekende."
+        },
+        {
+          "nr": 14,
+          "tekst": "Wie zijn naaste in de vroege morgen op luidruchtige wijze groet,het wordt hem als een vloek aangerekend."
+        },
+        {
+          "nr": 15,
+          "tekst": "Een gestadig druppelend lek op een dag van stortregenen een twistzieke vrouw zijn aan elkander gelijk."
+        },
+        {
+          "nr": 16,
+          "tekst": "Wie haar wil opsluiten, zou wind opsluiten,en zijn rechterhand zou olie ontmoeten."
+        },
+        {
+          "nr": 17,
+          "tekst": "Zoals men ijzer met ijzer scherpt,zo scherpt de ene mens de ander."
+        },
+        {
+          "nr": 18,
+          "tekst": "Wie de vijgeboom verzorgt, geniet zijn vrucht;wie voor zijn heer zorgt, wordt geëerd."
+        },
+        {
+          "nr": 19,
+          "tekst": "Zoals het water het gelaat weerspiegelt,zo weerspiegelt het hart van de mens de mens."
+        },
+        {
+          "nr": 20,
+          "tekst": "Dodenrijk en verderf zijn onverzadelijk;even onverzadelijk zijn de ogen des mensen."
+        },
+        {
+          "nr": 21,
+          "tekst": "De smeltkroes is voor het zilver en de oven voor het goud,en de mens (wordt beoordeeld) naar zijn faam."
+        },
+        {
+          "nr": 22,
+          "tekst": "Al stampt gij een dwaas in een vijzel,tussen de graankorrels met een stamper,zijn dwaasheid zal niet van hem wijken."
+        },
+        {
+          "nr": 23,
+          "tekst": "Let wel op de staat van uw kleinvee,en zet uw hart op de kudden,"
+        },
+        {
+          "nr": 24,
+          "tekst": "want een schat duurt niet voor eeuwig;blijft soms een kroon van geslacht tot geslacht?"
+        },
+        {
+          "nr": 25,
+          "tekst": "Als het gras verdwenen is en het etgroen zich vertoonten de kruiden der bergen zijn ingezameld,"
+        },
+        {
+          "nr": 26,
+          "tekst": "dan hebt gij schapen voor uw kleding,en bokken tot koopprijs voor een akker,"
+        }
+      ]
+    },
+    {
+      "nr": 28,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De goddeloze gaat op de vlucht, zonder dat iemand vervolgt,maar de rechtvaardige voelt zich veilig als een jonge leeuw."
+        },
+        {
+          "nr": 2,
+          "tekst": "Door opstandigheid van het land zijn zijn vorsten vele,maar door een man van inzicht en verstandheeft het recht een lange duur."
+        },
+        {
+          "nr": 3,
+          "tekst": "Een arm man, die geringen verdrukt,is een wegspoelende regen, zodat er geen brood is."
+        },
+        {
+          "nr": 4,
+          "tekst": "Wie de wet verzaken, prijzen de goddeloze;maar wie de wet betrachten, ergeren zich aan hen."
+        },
+        {
+          "nr": 5,
+          "tekst": "Boze lieden verstaan het recht niet,maar wie de Here zoeken, verstaan alles."
+        },
+        {
+          "nr": 6,
+          "tekst": "Beter een arme die in oprechtheid wandelt,dan iemand die verkeerde wegen gaat, al is hij rijk."
+        },
+        {
+          "nr": 7,
+          "tekst": "Wie de wet betracht, is een verstandig zoon,maar wie het met de doorbrengers houdt,maakt zijn vader te schande."
+        },
+        {
+          "nr": 8,
+          "tekst": "Wie zijn vermogen door rente en woeker vermeerdert,verzamelt het voor hem die zich over de geringen ontfermt."
+        },
+        {
+          "nr": 9,
+          "tekst": "Wie zijn oor afwendt van het horen der wet,diens gebed zelfs is een gruwel."
+        },
+        {
+          "nr": 10,
+          "tekst": "Wie de oprechten op een slechte weg voert,zal in zijn eigen kuil vallen,maar de rechtschapenen zullen geluk beërven."
+        },
+        {
+          "nr": 11,
+          "tekst": "Een rijk man moge wijs zijn in eigen ogen,een arme die verstandig is, doorziet hem wel."
+        },
+        {
+          "nr": 12,
+          "tekst": "Als de rechtvaardigen juichen, is de heerlijkheid groot,maar als de goddelozen tot macht komen,verbergen zich de mensen."
+        },
+        {
+          "nr": 13,
+          "tekst": "Wie zijn overtredingen bedekt, zal niet voorspoedig zijn;maar wie ze belijdt en nalaat, die vindt ontferming."
+        },
+        {
+          "nr": 14,
+          "tekst": "Welzalig de mens die gedurig vreest,maar wie zijn hart verhardt, valt in het onheil."
+        },
+        {
+          "nr": 15,
+          "tekst": "Een grommende leeuw en een hongerige beeris een goddeloze heerser over een zwak volk."
+        },
+        {
+          "nr": 16,
+          "tekst": "Een vorst zonder inzicht bedrijft veel afpersingen,maar wie onrechtmatig gewin haat, verlengt zijn dagen."
+        },
+        {
+          "nr": 17,
+          "tekst": "Een mens, bezwaard door bloedschuld,zal vluchten tot de groeve toe; men weerhoude hem niet."
+        },
+        {
+          "nr": 18,
+          "tekst": "Wie in oprechtheid wandelt, zal worden gered;maar hij, wiens wegen verkeerd zijn, valt onverhoeds."
+        },
+        {
+          "nr": 19,
+          "tekst": "Wie zijn akker bewerkt, zal zich met brood verzadigen;maar wie ijdele dingen najaagt, zal zich met armoede verzadigen."
+        },
+        {
+          "nr": 20,
+          "tekst": "Een betrouwbaar man heeft veel zegen,maar wie naar rijkdom jaagt, blijft niet ongestraft."
+        },
+        {
+          "nr": 21,
+          "tekst": "Aanzien des persoons is verkeerd:zelfs om een bete broods kan een man overtreden."
+        },
+        {
+          "nr": 22,
+          "tekst": "Een man, boos van oog, hunkert naar rijkdom,en hij weet niet, dat gebrek hem zal overkomen."
+        },
+        {
+          "nr": 23,
+          "tekst": "Wie een ander vermaant, zal later meer dank oogstendan wie vleit met gladde tong."
+        },
+        {
+          "nr": 24,
+          "tekst": "Wie zijn vader en zijn moeder iets ontrooften denkt: het is geen zonde,die is een metgezel van de misdadiger."
+        },
+        {
+          "nr": 25,
+          "tekst": "De hebzuchtige verwekt twist,maar wie op de Here vertrouwt, wordt overvloedig verkwikt."
+        },
+        {
+          "nr": 26,
+          "tekst": "Wie op eigen hart vertrouwt, is een dwaas;maar wie in wijsheid wandelt, zal ontkomen."
+        },
+        {
+          "nr": 27,
+          "tekst": "Wie de arme geeft, zal geen gebrek lijden;maar wie zijn ogen toesluit, wordt zwaar vervloekt."
+        },
+        {
+          "nr": 28,
+          "tekst": "Als de goddelozen tot macht komen, verschuilen zich de mensen,maar als zij omkomen, nemen de rechtvaardigen toe."
+        }
+      ]
+    },
+    {
+      "nr": 29,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Wie zijn nek verhardt ondanks herhaalde vermaning,wordt opeens onherstelbaar gebroken."
+        },
+        {
+          "nr": 2,
+          "tekst": "Als de rechtvaardigen toenemen, verheugt zich het volk;maar het volk zucht, als een goddeloze heerst."
+        },
+        {
+          "nr": 3,
+          "tekst": "Wie wijsheid liefheeft, verheugt zijn vader;maar wie met hoeren verkeert, brengt zijn vermogen door."
+        },
+        {
+          "nr": 4,
+          "tekst": "Door recht houdt een koning het land staande,maar een afperser richt het te gronde."
+        },
+        {
+          "nr": 5,
+          "tekst": "Een man die zijn naaste vleit,spreidt een net uit voor zijn schreden."
+        },
+        {
+          "nr": 6,
+          "tekst": "In de overtreding van de boze ligt een valstrik,maar de rechtvaardige zal jubelen en vrolijk zijn."
+        },
+        {
+          "nr": 7,
+          "tekst": "De rechtvaardige erkent het recht van de geringen,de goddeloze heeft daar geen weet van."
+        },
+        {
+          "nr": 8,
+          "tekst": "Overmoedigen brengen de stad in onrust,maar wijzen doen de toorn bedaren."
+        },
+        {
+          "nr": 9,
+          "tekst": "Als een wijs man een rechtszaak heeft met een dwaas,dan raast en lacht deze zonder bedaren."
+        },
+        {
+          "nr": 10,
+          "tekst": "Mannen des bloeds haten de rechtschapene,maar de oprechten zoeken zijn behoud."
+        },
+        {
+          "nr": 11,
+          "tekst": "De dwaas laat zijn ganse toorn de vrije loop,maar de wijze houdt die in en doet hem bedaren."
+        },
+        {
+          "nr": 12,
+          "tekst": "Een heerser die acht slaat op leugentaal –al zijn dienaren zijn goddeloos."
+        },
+        {
+          "nr": 13,
+          "tekst": "De arme en de verdrukker ontmoeten elkander,de Here geeft hun beiden het licht der ogen."
+        },
+        {
+          "nr": 14,
+          "tekst": "Een koning die de geringen naar waarheid richt,diens troon staat voor eeuwig vast."
+        },
+        {
+          "nr": 15,
+          "tekst": "Roede en bestraffing geven wijsheid,maar een aan zichzelf overgelaten knaapmaakt zijn moeder te schande."
+        },
+        {
+          "nr": 16,
+          "tekst": "Als de goddelozen talrijk worden, neemt de overtreding toe,maar de rechtvaardigen verlustigen zich in hun val."
+        },
+        {
+          "nr": 17,
+          "tekst": "Tuchtig uw zoon, en hij zal u rust bereidenen u vreugde verschaffen."
+        },
+        {
+          "nr": 18,
+          "tekst": "Indien openbaring ontbreekt, verwildert het volk,maar heil hem die de wet bewaart."
+        },
+        {
+          "nr": 19,
+          "tekst": "Met woorden wordt een slaaf niet in tucht gehouden,want al verstaat hij ze, hij stoort zich er niet aan."
+        },
+        {
+          "nr": 20,
+          "tekst": "Ziet gij iemand die met zijn woorden te haastig is,voor een dwaas is meer hoop dan voor hem."
+        },
+        {
+          "nr": 21,
+          "tekst": "Wie zijn slaaf van jongs af verwent,voor die zal het einde weerbarstigheid zijn."
+        },
+        {
+          "nr": 22,
+          "tekst": "Een opvliegend man verwekt twisten de driftkop begaat vele misdaden."
+        },
+        {
+          "nr": 23,
+          "tekst": "Eens mensen hoogmoed vernedert hem,maar een nederige van geest zal eer ontvangen."
+        },
+        {
+          "nr": 24,
+          "tekst": "Wie met een dief deelt, haat zichzelf;al hoort hij de vloek, toch geeft hij de zaak niet aan."
+        },
+        {
+          "nr": 25,
+          "tekst": "Vrees voor mensen spant een strik,maar wie op de Here vertrouwt, is onaantastbaar."
+        },
+        {
+          "nr": 26,
+          "tekst": "Velen zoeken de gunst van een heerser,maar van de Here ontvangt de mens zijn recht."
+        },
+        {
+          "nr": 27,
+          "tekst": "Een booswicht is de rechtvaardigen een gruwel,wie recht is van wandel, is een gruwel voor de goddeloze."
+        }
+      ]
+    },
+    {
+      "nr": 30,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "De woorden van Agur, de zoon van Jake. De godsspraak.Deze man zegt: Ik tobde mij af, o God,ik tobde mij af, o God, en ik versmacht;"
+        },
+        {
+          "nr": 2,
+          "tekst": "want ik ben onvernuftiger dan enig mensen mensenverstand heb ik niet;"
+        },
+        {
+          "nr": 3,
+          "tekst": "ook heb ik geen wijsheid geleerd,dat ik de Hoogheilige zou kennen."
+        },
+        {
+          "nr": 4,
+          "tekst": "Wie klom op ten hemel en daalde weer neder,wie heeft de wind in zijn vuist verzameld?Wie heeft de wateren saamgebonden in zijn kleed,wie heeft al de einden der aarde vastgesteld?Hoe is zijn naam en hoe de naam van zijn zoon?Gij weet het toch."
+        },
+        {
+          "nr": 5,
+          "tekst": "Alle woord Gods is gelouterd;hun die bij Hem schuilen, is Hij ten schild."
+        },
+        {
+          "nr": 6,
+          "tekst": "Doe niets aan zijn woorden toe,opdat Hij u niet terechtwijzeen gij een leugenaar bevonden wordt."
+        },
+        {
+          "nr": 7,
+          "tekst": "Twee dingen vraag ik van U,onthoud ze mij niet, voordat ik sterf:"
+        },
+        {
+          "nr": 8,
+          "tekst": "houd valsheid en leugentaal verre van mij,geef mij armoede noch rijkdom,voed mij met het brood, mij toebedeeld;"
+        },
+        {
+          "nr": 9,
+          "tekst": "opdat ik, verzadigd zijnde, U niet verloocheneen zegge: Wie is de Here?noch ook, verarmd zijnde, steleen mij aan de naam van mijn God vergrijpe."
+        },
+        {
+          "nr": 10,
+          "tekst": "Belaster een knecht niet bij zijn heer,opdat hij u niet vloeke en gij ervoor moet boeten,"
+        },
+        {
+          "nr": 11,
+          "tekst": "Er is een geslacht, dat zijn vader vervloekten zijn moeder niet zegent,"
+        },
+        {
+          "nr": 12,
+          "tekst": "een geslacht, dat rein is in eigen ogen,maar niet van zijn vuil is gewassen;"
+        },
+        {
+          "nr": 13,
+          "tekst": "een geslacht met trotse ogenen opgetrokken wimpers;"
+        },
+        {
+          "nr": 14,
+          "tekst": "een geslacht, welks tanden zwaarden, welks gebit messen zijn,om de ellendigen te verteren,zodat er geen meer zijn in het land,en geen nooddruftigen onder de mensen."
+        },
+        {
+          "nr": 15,
+          "tekst": "De bloedzuiger heeft twee dochters: geef, geef!Deze drie zijn onverzadelijk,vier zeggen nooit: Het is genoeg:"
+        },
+        {
+          "nr": 16,
+          "tekst": "het dodenrijk en de onvruchtbare schoot,de aarde, die nooit van water verzadigd wordt,en het vuur, dat nooit zegt: het is genoeg!"
+        },
+        {
+          "nr": 17,
+          "tekst": "Het oog dat de vader bespoten de gehoorzaamheid aan de moeder veracht,dat zullen de raven der beek uitpikkenen de jonge arenden opeten."
+        },
+        {
+          "nr": 18,
+          "tekst": "Deze drie dingen zijn mij te wonderlijk,ja, vier begrijp ik niet:"
+        },
+        {
+          "nr": 19,
+          "tekst": "de weg van de adelaar langs de hemelen de weg van de slang op de rots,de weg van een schip in volle zeeen de weg van een man bij een jonge vrouw."
+        },
+        {
+          "nr": 20,
+          "tekst": "Zo is de weg der overspelige vrouw:zij eet, veegt haar mond af en zegt: Ik heb geen kwaad gedaan."
+        },
+        {
+          "nr": 21,
+          "tekst": "Onder drie dingen beeft de aarde,ja, onder vier, die zij niet dragen kan:"
+        },
+        {
+          "nr": 22,
+          "tekst": "onder een slaaf, als hij koning wordt,en een nietsnut, als hij verzadigd wordt met brood,"
+        },
+        {
+          "nr": 23,
+          "tekst": "onder een versmade, als zij ten huwelijk wordt genomen,en een dienstmaagd, als zij haar meesteres verdringt."
+        },
+        {
+          "nr": 24,
+          "tekst": "Deze vier zijn de kleinste op aarde,doch zijn bovenmate wijs:"
+        },
+        {
+          "nr": 25,
+          "tekst": "de mieren zijn een volk zonder kracht,toch bereiden zij hun spijs in de zomer;"
+        },
+        {
+          "nr": 26,
+          "tekst": "de klipdassen zijn een machteloos volk,toch maken zij hun woning in de rots;"
+        },
+        {
+          "nr": 27,
+          "tekst": "de sprinkhanen hebben geen koning,toch trekken zij gezamenlijk in goede orde op;"
+        },
+        {
+          "nr": 28,
+          "tekst": "de hagedis kan men met de hand grijpen,toch is zij in des konings paleizen."
+        },
+        {
+          "nr": 29,
+          "tekst": "Deze drie hebben een statige tred,ja, vier een statige gang:"
+        },
+        {
+          "nr": 30,
+          "tekst": "de leeuw, de held onder de dieren,die voor niets of niemand terugdeinst;"
+        },
+        {
+          "nr": 31,
+          "tekst": "de windhond, of de geiteboken een koning wiens krijgsvolk met hem is."
+        },
+        {
+          "nr": 32,
+          "tekst": "Hetzij gij u ondoordacht verheft,hetzij wel overwogen: de hand op de mond!"
+        },
+        {
+          "nr": 33,
+          "tekst": "Want drukking van de melk brengt boter voort,en drukking op de neus brengt bloed voort,en drukking van toorn brengt twist voort."
+        }
+      ]
+    },
+    {
+      "nr": 31,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Woorden van Lemuël, de koning van Massa, waarmee zijn moeder hem vermaande."
+        },
+        {
+          "nr": 2,
+          "tekst": "Wat, mijn zoon, (zal ik u zeggen)? ja wat, zoon van mijn schoot?ja wat, zoon van mijn geloften?"
+        },
+        {
+          "nr": 3,
+          "tekst": "Geef uw kracht niet aan de vrouwen,noch uw omgang aan haar die koningen verderven."
+        },
+        {
+          "nr": 4,
+          "tekst": "Het past koningen niet, o Lemuël,het past koningen niet wijn te drinken,noch machthebbers bedwelmende drank te begeren,"
+        },
+        {
+          "nr": 5,
+          "tekst": "opdat hij niet drinke en de inzettingen vergeteen het recht van alle verdrukten verkere."
+        },
+        {
+          "nr": 6,
+          "tekst": "Geeft bedwelmende drank aan wie te gronde gaat,en wijn aan wie bitter bedroefd zijn;"
+        },
+        {
+          "nr": 7,
+          "tekst": "opdat hij drinke en zijn armoede vergete,en aan zijn moeite niet meer denke."
+        },
+        {
+          "nr": 8,
+          "tekst": "Doe uw mond open ten bate van de stomme,ten behoeve van het recht van allen die wegkwijnen;"
+        },
+        {
+          "nr": 9,
+          "tekst": "open uw mond, oordeel rechtvaardig,verschaf de verdrukte en nooddruftige recht."
+        },
+        {
+          "nr": 10,
+          "tekst": "Een degelijke huisvrouw, wie zal haar vinden?haar waarde gaat koralen ver te boven."
+        },
+        {
+          "nr": 11,
+          "tekst": "Op haar vertrouwt het hart van haar man,het zal hem aan voordeel niet ontbreken."
+        },
+        {
+          "nr": 12,
+          "tekst": "Zij doet hem goed en geen kwaad,al de dagen van haar leven."
+        },
+        {
+          "nr": 13,
+          "tekst": "Zij is bezig met wol en vlasen werkt met vaardige handen."
+        },
+        {
+          "nr": 14,
+          "tekst": "Zij is als de schepen van de koopmanen haalt van verre haar spijs."
+        },
+        {
+          "nr": 15,
+          "tekst": "Zij staat op, als het nog nacht is,zij geeft haar huis het voedsel, haar dienstmaagden haar deel."
+        },
+        {
+          "nr": 16,
+          "tekst": "Zint zij op een akker, dan verwerft zij die,van de verdienste van haar handen plant zij een wijngaard."
+        },
+        {
+          "nr": 17,
+          "tekst": "Zij omgordt haar lendenen met krachten versterkt haar armen."
+        },
+        {
+          "nr": 18,
+          "tekst": "Zij bemerkt, dat haar koophandel gedijt,des nachts gaat haar lamp niet uit."
+        },
+        {
+          "nr": 19,
+          "tekst": "Zij grijpt met haar handen het spinrokkenen haar handen houden de weefspoel."
+        },
+        {
+          "nr": 20,
+          "tekst": "Haar hand breidt zij uit naar de ellendige,haar handen strekt zij uit naar de nooddruftige."
+        },
+        {
+          "nr": 21,
+          "tekst": "Zij vreest de sneeuw niet voor haar gezin,want haar ganse gezin is in scharlaken gekleed."
+        },
+        {
+          "nr": 22,
+          "tekst": "Zij maakt voor zich tapijten;van fijn linnen en rood purper is haar gewaad."
+        },
+        {
+          "nr": 23,
+          "tekst": "Haar man is bekend in de poorten,als hij neerzit te midden van de oudsten des lands."
+        },
+        {
+          "nr": 24,
+          "tekst": "Zij vervaardigt linnen kleding en verkoopt die;aan de koopman levert zij gordels."
+        },
+        {
+          "nr": 25,
+          "tekst": "Kracht en luister is haar gewaad,de komende dag lacht zij toe."
+        },
+        {
+          "nr": 26,
+          "tekst": "Met wijsheid opent zij haar mond,vriendelijke onderwijzing ligt op haar tong."
+        },
+        {
+          "nr": 27,
+          "tekst": "Zij houdt toezicht op de gang van haar huishouding,het brood der traagheid eet zij niet."
+        },
+        {
+          "nr": 28,
+          "tekst": "Haar zonen staan op en prijzen haar gelukkig,ook haar man roemt haar:"
+        },
+        {
+          "nr": 29,
+          "tekst": "Vele dochters gedragen zich wakker,maar gij overtreft haar alle!"
+        },
+        {
+          "nr": 30,
+          "tekst": "Bedrieglijk is de bevalligheid en ijdel de schoonheid,maar een vrouw die de Here vreest, die is te prijzen."
+        },
+        {
+          "nr": 31,
+          "tekst": "Geeft haar van de vrucht harer handen,dat haar daden haar roemen in de poorten!"
+        }
+      ]
+    }
+  ]
+}

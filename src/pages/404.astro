@@ -1,0 +1,11 @@
+---
+import Basis from '../layouts/Basis.astro';
+import { pad } from '../lib/paden';
+---
+<Basis titel="Pagina niet gevonden — Videobijbel" beschrijving="Deze pagina bestaat niet op Videobijbel.">
+  <div class="pagina proza">
+    <h1>Deze pagina bestaat niet</h1>
+    <p><a class="knop" href={pad()}>Naar de startpagina</a></p>
+    <p><a href={pad('lezen', 'joh', 3)}>Johannes 3 lezen</a></p>
+  </div>
+</Basis>

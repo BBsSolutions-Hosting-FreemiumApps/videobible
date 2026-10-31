@@ -1,0 +1,36 @@
+---
+import Basis from '../../layouts/Basis.astro';
+import { seo } from '../../lib/seo';
+import { boeken } from '../../lib/gegevens';
+import { pad } from '../../lib/paden';
+const oud = boeken.filter((boek) => boek.testament === 'OT');
+const nieuw = boeken.filter((boek) => boek.testament === 'NT');
+---
+<Basis titel={seo.lezen.titel} beschrijving={seo.lezen.beschrijving}>
+  <div class="pagina">
+    <header class="proza">
+      <h1>De Bijbel lezen</h1>
+      <p>Kies een boek en hoofdstuk. Lees op eigen tempo, met ruimte voor video's en uitleg bij de tekst.</p>
+    </header>
+    <div class="boeken-rooster">
+      {[
+        ['Oude Testament', oud],
+        ['Nieuwe Testament', nieuw],
+      ].map(([titel, lijst]) => (
+        <section>
+          <h2>{titel}</h2>
+          {(lijst as typeof boeken).map((boek) => (
+            <details class="boekregel">
+              <summary>{boek.naam}</summary>
+              <div class="hoofdstukken">
+                {Array.from({ length: boek.hoofdstukken }, (_, i) => i + 1).map((nr) => (
+                  <a href={pad('lezen', boek.id, nr)}>{nr}</a>
+                ))}
+              </div>
+            </details>
+          ))}
+        </section>
+      ))}
+    </div>
+  </div>
+</Basis>

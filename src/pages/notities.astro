@@ -1,0 +1,41 @@
+---
+import Basis from '../layouts/Basis.astro';
+import { seo } from '../lib/seo';
+const boek = Astro.url.searchParams.get('boek') ?? '';
+const hoofdstuk = Astro.url.searchParams.get('hoofdstuk') ?? '';
+const vers = Astro.url.searchParams.get('vers') ?? '';
+---
+<Basis titel={seo.notities.titel} beschrijving={seo.notities.beschrijving}>
+  <div class="pagina proza">
+    <h1>Mijn notities</h1>
+    <p>Gedachten, vragen en aantekeningen bij bijbelverzen krijgen hier een eigen plek. Notities blijven op het apparaat waarop ze zijn gemaakt.</p>
+    <form id="notitie-form" class="contactformulier">
+      <input type="hidden" id="notitie-id" name="id" />
+      <input type="hidden" id="notitie-boek" name="boek" value={boek} />
+      <input type="hidden" id="notitie-hoofdstuk" name="hoofdstuk" value={hoofdstuk} />
+      <input type="hidden" id="notitie-vers" name="vers" value={vers} />
+      <p data-notitie-doel class="wenk"></p>
+      <label class="veld">Notitie toevoegen
+        <textarea id="notitie-tekst" name="tekst" rows="5" required></textarea>
+      </label>
+      <button class="knop" type="submit">Notitie bewaren</button>
+      <p data-notitie-bewaard hidden>Notitie bewaard op dit apparaat.</p>
+    </form>
+    <p>Notities worden alleen in deze browser opgeslagen. Er is geen account en geen automatische synchronisatie tussen apparaten.</p>
+    <p>Exporteer notities als bestand om zelf een reservekopie te bewaren of ze naar een ander apparaat over te zetten.</p>
+    <p>Importeer eerder geëxporteerde notities uit een bestand.</p>
+    <p>Bij het wissen van browsergegevens kunnen notities verloren gaan. Bewaar zo nodig eerst een exportbestand.</p>
+    <p>
+      <button type="button" class="knop secundair" data-exporteer>Notities exporteren</button>
+      <label class="knop secundair">Notities importeren
+        <input class="visueel-verborgen" data-importeer type="file" accept="application/json" />
+      </label>
+      <button type="button" class="tekstknop" data-wissen>Alle notities wissen</button>
+    </p>
+    <p data-notities-leeg>Nog geen notities. Open een bijbelgedeelte en voeg een eerste notitie toe.</p>
+    <div data-notities-lijst></div>
+  </div>
+  <script>
+    import '../scripts/notities.ts';
+  </script>
+</Basis>

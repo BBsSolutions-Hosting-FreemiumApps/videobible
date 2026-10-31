@@ -1,0 +1,28 @@
+---
+import Basis from '../layouts/Basis.astro';
+import { seo } from '../lib/seo';
+import { pad } from '../lib/paden';
+---
+<Basis titel={seo.privacy.titel} beschrijving={seo.privacy.beschrijving}>
+  <div class="pagina proza">
+    <h1>Privacy en lokale opslag</h1>
+    <h2>Video's van YouTube</h2>
+    <p>Video's worden niet automatisch geladen. Eerst verschijnt een rustige aanduiding bij de tekst. Pas na een klik op <strong>Video laden</strong> wordt verbinding gemaakt met YouTube via <code>youtube-nocookie.com</code>.</p>
+    <p>YouTube kan na het laden gegevens over het gebruik ontvangen en zelf gegevens opslaan. De privacyvriendelijke insluitmodus betekent niet dat YouTube helemaal geen gegevens verwerkt.</p>
+    <p>Met <strong>Altijd toestaan</strong> kan de keuze voor het automatisch laden van video's op dit apparaat worden onthouden. Deze keuze kan weer worden gewijzigd.</p>
+    <p><button type="button" class="knop" data-yt-wijzig>Videotoestemming wijzigen</button></p>
+    <p data-yt-bevestiging hidden>De videokeuze is aangepast.</p>
+    <h2>Gegevens op het eigen apparaat</h2>
+    <p>De leesomgeving werkt zonder persoonlijk account. Instellingen, leesvoortgang en eigen notities worden lokaal in de browser bewaard.</p>
+    <h3>localStorage</h3>
+    <p>Hier worden de gekozen leesinstellingen bewaard, zoals tekstgrootte, lichte of donkere weergave en het tonen van versnummers. Ook het laatst geopende hoofdstuk, de voortgang van leesplannen en een eventuele keuze voor het laden van video's worden hier bewaard.</p>
+    <h3>IndexedDB</h3>
+    <p>Hier worden zelfgeschreven studienotities en de koppeling met bijbelverzen bewaard.</p>
+    <p>Deze gegevens worden niet automatisch tussen apparaten gedeeld. Bij het wissen van browsergegevens kunnen ze verloren gaan. Notities kunnen daarom worden geëxporteerd en later weer geïmporteerd.</p>
+    <h2>Contactformulier</h2>
+    <p>Het contactformulier is binnenkort beschikbaar. Tot die tijd worden via dit formulier geen gegevens verzonden of bewaard.</p>
+    <h2>Vragen over privacy</h2>
+    <p>Vragen over privacy kunnen worden gesteld zodra het contactformulier beschikbaar is. Tot die tijd staat de toelichting op deze pagina.</p>
+    <p><a href={pad('over')}>Over</a></p>
+  </div>
+</Basis>

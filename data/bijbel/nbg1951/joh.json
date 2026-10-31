@@ -1,0 +1,3634 @@
+{
+  "boek": "joh",
+  "naam": "Johannes",
+  "testament": "NT",
+  "voorbeeld": false,
+  "bron": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "hoofdstukken": [
+    {
+      "nr": 1,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "In den beginne was het Woord en het Woord was bij God en het Woord was God."
+        },
+        {
+          "nr": 2,
+          "tekst": "Dit was in den beginne bij God."
+        },
+        {
+          "nr": 3,
+          "tekst": "Alle dingen zijn door het Woord geworden en zonder dit is geen ding geworden, dat geworden is."
+        },
+        {
+          "nr": 4,
+          "tekst": "In het Woord was leven en het leven was het licht der mensen;"
+        },
+        {
+          "nr": 5,
+          "tekst": "en het licht schijnt in de duisternis en de duisternis heeft het niet gegrepen."
+        },
+        {
+          "nr": 6,
+          "tekst": "Er trad een mens op, van God gezonden, wiens naam was Johannes;"
+        },
+        {
+          "nr": 7,
+          "tekst": "deze kwam als getuige om van het licht te getuigen, opdat allen door hem geloven zouden."
+        },
+        {
+          "nr": 8,
+          "tekst": "Hij was het licht niet, maar was om te getuigen van het licht."
+        },
+        {
+          "nr": 9,
+          "tekst": "Het waarachtige licht, dat ieder mens verlicht, was komende in de wereld."
+        },
+        {
+          "nr": 10,
+          "tekst": "Hij was in de wereld, en de wereld is door Hem geworden, en de wereld heeft Hem niet gekend."
+        },
+        {
+          "nr": 11,
+          "tekst": "Hij kwam tot het zijne, en de zijnen hebben Hem niet aangenomen."
+        },
+        {
+          "nr": 12,
+          "tekst": "Doch allen, die Hem aangenomen hebben, hun heeft Hij macht gegeven om kinderen Gods te worden, hun, die in zijn naam geloven;"
+        },
+        {
+          "nr": 13,
+          "tekst": "die niet uit bloed, noch uit de wil des vlezes, noch uit de wil eens mans, doch uit God geboren zijn."
+        },
+        {
+          "nr": 14,
+          "tekst": "Het Woord is vlees geworden en het heeft onder ons gewoond en wij hebben zijn heerlijkheid aanschouwd, een heerlijkheid als van de eniggeborene des Vaders, vol van genade en waarheid."
+        },
+        {
+          "nr": 15,
+          "tekst": "Johannes heeft van Hem getuigd en heeft geroepen, zeggende: Deze was het, van wie ik zeide: Die na mij komt, is vóór mij geweest, want Hij was eer dan ik."
+        },
+        {
+          "nr": 16,
+          "tekst": "Immers uit zijn volheid hebben wij allen ontvangen zelfs genade op genade;"
+        },
+        {
+          "nr": 17,
+          "tekst": "want de wet is door Mozes gegeven, de genade en de waarheid zijn door Jezus Christus gekomen."
+        },
+        {
+          "nr": 18,
+          "tekst": "Niemand heeft ooit God gezien; de eniggeboren Zoon, die aan de boezem des Vaders is, die heeft Hem doen kennen."
+        },
+        {
+          "nr": 19,
+          "tekst": "En dit was het getuigenis van Johannes, toen de Joden uit Jeruzalem priesters en Levieten tot hem zonden om hem te vragen: Wie zijt gij?"
+        },
+        {
+          "nr": 20,
+          "tekst": "En hij beleed en ontkende het niet; en hij beleed: Ik ben de Christus niet."
+        },
+        {
+          "nr": 21,
+          "tekst": "En zij vroegen hem: Wat dan? Zijt gij Elia? En hij zeide: Ik ben het niet. Zijt gij de profeet? En hij antwoordde: Neen."
+        },
+        {
+          "nr": 22,
+          "tekst": "Zij zeiden dan tot hem: Wie zijt gij? Wij moeten toch antwoord geven aan hen, die ons gezonden hebben; wat zegt gij van uzelf?"
+        },
+        {
+          "nr": 23,
+          "tekst": "Hij zeide: Ik ben de stem van een die roept in de woestijn: Maakt recht de weg des Heren, gelijk de profeet Jesaja gesproken heeft."
+        },
+        {
+          "nr": 24,
+          "tekst": "En er waren sommigen afgezonden uit de Farizeeën."
+        },
+        {
+          "nr": 25,
+          "tekst": "En zij vroegen hem en zeiden tot hem: Waarom doopt gij dan, indien gij de Christus niet zijt, noch Elia, noch de profeet?"
+        },
+        {
+          "nr": 26,
+          "tekst": "Johannes antwoordde hun en zeide: Ik doop met water; midden onder u staat Hij, van wie gij niet weet,"
+        },
+        {
+          "nr": 27,
+          "tekst": "Hij, die na mij komt, wiens schoenriem ik niet waardig ben los te maken."
+        },
+        {
+          "nr": 28,
+          "tekst": "Dit geschiedde te Betanië over de Jordaan, waar Johannes doopte."
+        },
+        {
+          "nr": 29,
+          "tekst": "De volgende dag zag hij Jezus tot zich komen en zeide: Zie, het lam Gods, dat de zonde der wereld wegneemt."
+        },
+        {
+          "nr": 30,
+          "tekst": "Deze is het, van wie ik zeide: Na mij komt een man, die vóór mij geweest is, want Hij was eer dan ik."
+        },
+        {
+          "nr": 31,
+          "tekst": "En zelf wist ik niet van Hem, maar opdat Hij aan Israël zou geopenbaard worden, daarom kwam ik dopen met water."
+        },
+        {
+          "nr": 32,
+          "tekst": "En Johannes getuigde en zeide: Ik heb aanschouwd, dat de Geest nederdaalde als een duif uit de hemel, en Hij bleef op Hem."
+        },
+        {
+          "nr": 33,
+          "tekst": "En ik kende Hem niet, maar Hij, die mij gezonden had om te dopen met water, die had tot mij gezegd: Op wie gij de Geest ziet nederdalen en op Hem blijven, deze is het, die met de heilige Geest doopt."
+        },
+        {
+          "nr": 34,
+          "tekst": "En ik heb gezien en getuigd, dat deze de Zoon van God is."
+        },
+        {
+          "nr": 35,
+          "tekst": "De volgende dag stond Johannes daar weer met twee van zijn discipelen."
+        },
+        {
+          "nr": 36,
+          "tekst": "En toen hij Jezus zag gaan, zeide hij: Zie, het lam Gods!"
+        },
+        {
+          "nr": 37,
+          "tekst": "En de twee discipelen hoorden hem dat zeggen en volgden Jezus."
+        },
+        {
+          "nr": 38,
+          "tekst": "Maar Jezus keerde Zich om en zag, dat zij Hem volgden, en Hij zeide tot hen:"
+        },
+        {
+          "nr": 39,
+          "tekst": "Wat zoekt gij? Zij zeiden tot Hem: Rabbi – wat, vertaald, wil zeggen: Meester –, waar houdt Gij verblijf?"
+        },
+        {
+          "nr": 40,
+          "tekst": "Hij sprak tot hen: Komt en gij zult het zien. Zij kwamen dan en zagen, waar Hij verblijf hield, en zij bleven die dag bij Hem; het was omstreeks het tiende uur."
+        },
+        {
+          "nr": 41,
+          "tekst": "Andreas, de broeder van Simon Petrus, was een van de twee, die het van Johannes gehoord hadden en Hem gevolgd waren;"
+        },
+        {
+          "nr": 42,
+          "tekst": "deze vond eerst zijn broeder Simon en zeide tot hem: Wij hebben gevonden de Messias, wat betekent: Christus."
+        },
+        {
+          "nr": 43,
+          "tekst": "Hij leidde hem tot Jezus. Jezus zag hem aan en zeide: Gij zijt Simon, de zoon van Johannes, gij zult heten Kefas, wat vertaald wordt met Petrus."
+        },
+        {
+          "nr": 44,
+          "tekst": "De volgende dag wilde Hij naar Galilea vertrekken en Hij vond Filippus. En Jezus zeide tot hem: Volg Mij."
+        },
+        {
+          "nr": 45,
+          "tekst": "Filippus nu was uit Betsaïda, de stad van Andreas en Petrus."
+        },
+        {
+          "nr": 46,
+          "tekst": "Filippus vond Natanaël en zeide tot hem: Wij hebben Hem gevonden, van wie Mozes in de wet geschreven heeft en de profeten, Jezus, de zoon van Jozef, uit Nazaret."
+        },
+        {
+          "nr": 47,
+          "tekst": "En Natanaël zeide tot hem: Kan uit Nazaret iets goeds komen? Filippus zeide tot hem: Kom en zie."
+        },
+        {
+          "nr": 48,
+          "tekst": "Jezus zag Natanaël tot Zich komen en zeide van hem: Zie, waarlijk een Israëliet, in wie geen bedrog is!"
+        },
+        {
+          "nr": 49,
+          "tekst": "Natanaël zeide tot Hem: Vanwaar kent Gij mij? Jezus antwoordde en zeide tot hem: Eer Filippus u riep, zag Ik u onder de vijgeboom."
+        },
+        {
+          "nr": 50,
+          "tekst": "Natanaël antwoordde Hem: Rabbi, Gij zijt de Zoon van God, Gij zijt de Koning van Israël!"
+        },
+        {
+          "nr": 51,
+          "tekst": "Jezus antwoordde en zeide tot hem: Omdat Ik tot u gezegd heb: Ik zag u onder de vijgeboom, gelooft gij? Gij zult grotere dingen zien dan deze."
+        },
+        {
+          "nr": 52,
+          "tekst": "En Hij zeide tot hem: Voorwaar, voorwaar, Ik zeg ulieden, gij zult de hemel open zien en de engelen Gods opstijgen en nederdalen op de Zoon des mensen."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "En op de derde dag was er een bruiloft te Kana in Galilea en de moeder van Jezus was daar;"
+        },
+        {
+          "nr": 2,
+          "tekst": "en ook Jezus en zijn discipelen waren ter bruiloft genodigd."
+        },
+        {
+          "nr": 3,
+          "tekst": "En toen er gebrek aan wijn kwam, zeide de moeder van Jezus tot Hem: Zij hebben geen wijn."
+        },
+        {
+          "nr": 4,
+          "tekst": "En Jezus zeide tot haar: Vrouw, wat heb Ik met u van node? Mijn ure is nog niet gekomen."
+        },
+        {
+          "nr": 5,
+          "tekst": "Zijn moeder zeide tot hen, die bedienden: Wat Hij u ook zegt, doet dat!"
+        },
+        {
+          "nr": 6,
+          "tekst": "Nu waren daar zes stenen watervaten neergezet volgens het reinigingsgebruik der Joden, elk met een inhoud van twee of drie metreten."
+        },
+        {
+          "nr": 7,
+          "tekst": "Jezus zeide tot hen: Vult de vaten met water. En zij vulden ze tot de rand."
+        },
+        {
+          "nr": 8,
+          "tekst": "En Hij zeide tot hen: Schept nu en brengt het aan de leider van het feest. En zij brachten het."
+        },
+        {
+          "nr": 9,
+          "tekst": "Toen nu de leider van het feest het water proefde, dat wijn geworden was – en hij wist niet, waar deze vandaan kwam, maar de bedienden, die het water geschept hadden, wisten het – riep de leider van het feest de bruidegom, en hij zeide tot hem:"
+        },
+        {
+          "nr": 10,
+          "tekst": "Iedereen zet eerst de goede wijn op en als er goed gedronken is, de mindere; gij echter hebt de goede wijn tot dit ogenblik bewaard."
+        },
+        {
+          "nr": 11,
+          "tekst": "Dit heeft Jezus gedaan als begin van zijn tekenen te Kana in Galilea en Hij heeft zijn heerlijkheid geopenbaard, en zijn discipelen geloofden in Hem."
+        },
+        {
+          "nr": 12,
+          "tekst": "Daarna daalde Hij af naar Kafarnaüm, Hij, zijn moeder en zijn broeders en zijn discipelen, en zij bleven daar niet vele dagen."
+        },
+        {
+          "nr": 13,
+          "tekst": "En het Pascha der Joden was nabij en Jezus ging op naar Jeruzalem."
+        },
+        {
+          "nr": 14,
+          "tekst": "En Hij vond in de tempel de verkopers van runderen en schapen en duiven, en de wisselaars, die daar zaten."
+        },
+        {
+          "nr": 15,
+          "tekst": "En Hij maakte een zweep van touw en dreef allen uit de tempel, de schapen en de runderen; en het geld van de wisselaars wierp Hij op de grond en hun tafels keerde Hij om."
+        },
+        {
+          "nr": 16,
+          "tekst": "En tot de duivenverkopers zeide Hij: Neemt dit alles hier vandaan, maakt het huis mijns Vaders niet tot een verkoophuis."
+        },
+        {
+          "nr": 17,
+          "tekst": "En zijn discipelen herinnerden zich, dat er geschreven is: De ijver voor uw huis zal Mij verteren."
+        },
+        {
+          "nr": 18,
+          "tekst": "De Joden dan antwoordden en zeiden tot Hem: Welk teken toont Gij ons, dat Gij dit moogt doen?"
+        },
+        {
+          "nr": 19,
+          "tekst": "Jezus antwoordde en zeide tot hen: Breekt deze tempel af en binnen drie dagen zal Ik hem doen herrijzen."
+        },
+        {
+          "nr": 20,
+          "tekst": "De Joden dan zeiden: Zesenveertig jaren is over deze tempel gebouwd en Gij zult hem binnen drie dagen doen herrijzen?"
+        },
+        {
+          "nr": 21,
+          "tekst": "Maar Hij sprak van de tempel zijns lichaams."
+        },
+        {
+          "nr": 22,
+          "tekst": "Toen Hij dan opgewekt was uit de doden, herinnerden zijn discipelen zich, dat Hij dit gezegd had, en zij geloofden de Schrift en het woord, dat Jezus gesproken had."
+        },
+        {
+          "nr": 23,
+          "tekst": "En terwijl Hij te Jeruzalem was, op het Paasfeest, geloofden velen in zijn naam, doordat zij zijn tekenen zagen, die Hij deed;"
+        },
+        {
+          "nr": 24,
+          "tekst": "maar Jezus zelf vertrouwde Zichzelf hun niet toe, omdat Hij hen allen kende"
+        },
+        {
+          "nr": 25,
+          "tekst": "en omdat het voor Hem niet nodig was, dat iemand van de mens getuigde; want Hij wist zelf, wat in de mens was."
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "En er was iemand uit de Farizeeën, wiens naam was Nikodemus, een overste der Joden;"
+        },
+        {
+          "nr": 2,
+          "tekst": "deze kwam des nachts tot Hem en zeide tot Hem: Rabbi, wij weten, dat Gij van God gekomen zijt als leraar; want niemand kan die tekenen doen, welke Gij doet, tenzij God met Hem is."
+        },
+        {
+          "nr": 3,
+          "tekst": "Jezus antwoordde en zeide tot hem: Voorwaar, voorwaar, Ik zeg u, tenzij iemand wederom geboren wordt, kan hij het Koninkrijk Gods niet zien."
+        },
+        {
+          "nr": 4,
+          "tekst": "Nikodemus zeide tot Hem: Hoe kan een mens geboren worden, als hij oud is? Kan hij dan voor de tweede maal in de moederschoot ingaan en geboren worden?"
+        },
+        {
+          "nr": 5,
+          "tekst": "Jezus antwoordde: Voorwaar, voorwaar, Ik zeg u, tenzij iemand geboren wordt uit water en Geest, kan hij het Koninkrijk Gods niet binnengaan."
+        },
+        {
+          "nr": 6,
+          "tekst": "Wat uit het vlees geboren is, is vlees, en wat uit de Geest geboren is, is geest."
+        },
+        {
+          "nr": 7,
+          "tekst": "Verwonder u niet, dat Ik u gezegd heb: Gijlieden moet wederom geboren worden."
+        },
+        {
+          "nr": 8,
+          "tekst": "De wind blaast, waarheen hij wil, en gij hoort zijn geluid, maar gij weet niet, vanwaar hij komt of waar hij heengaat; zó is een ieder, die uit de Geest geboren is."
+        },
+        {
+          "nr": 9,
+          "tekst": "Nikodemus antwoordde en zeide tot Hem: Hoe kan dit geschieden?"
+        },
+        {
+          "nr": 10,
+          "tekst": "Jezus antwoordde en zeide tot hem: Gij zijt de leraar van Israël, en deze dingen verstaat gij niet?"
+        },
+        {
+          "nr": 11,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u: wij spreken van wat wij weten en wij getuigen van wat wij gezien hebben, en gij neemt ons getuigenis niet aan."
+        },
+        {
+          "nr": 12,
+          "tekst": "Indien Ik ulieden van het aardse gesproken heb, zonder dat gij gelooft, hoe zult gij geloven, wanneer Ik u van het hemelse spreek?"
+        },
+        {
+          "nr": 13,
+          "tekst": "En niemand is opgevaren naar de hemel, dan die uit de hemel nedergedaald is, de Zoon des mensen."
+        },
+        {
+          "nr": 14,
+          "tekst": "En gelijk Mozes de slang in de woestijn verhoogd heeft, zó moet ook de Zoon des mensen verhoogd worden,"
+        },
+        {
+          "nr": 15,
+          "tekst": "opdat een ieder, die gelooft, in Hem eeuwig leven hebbe."
+        },
+        {
+          "nr": 16,
+          "tekst": "Want alzo lief heeft God de wereld gehad, dat Hij zijn eniggeboren Zoon gegeven heeft, opdat een ieder, die in Hem gelooft, niet verloren ga, maar eeuwig leven hebbe."
+        },
+        {
+          "nr": 17,
+          "tekst": "Want God heeft zijn Zoon niet in de wereld gezonden, opdat Hij de wereld veroordele, maar opdat de wereld door Hem behouden worde."
+        },
+        {
+          "nr": 18,
+          "tekst": "Wie in Hem gelooft, wordt niet veroordeeld; wie niet gelooft, is reeds veroordeeld, omdat hij niet heeft geloofd in de naam van de eniggeboren Zoon van God."
+        },
+        {
+          "nr": 19,
+          "tekst": "Dit is het oordeel, dat het licht in de wereld gekomen is en de mensen de duisternis liever gehad hebben dan het licht, want hun werken waren boos."
+        },
+        {
+          "nr": 20,
+          "tekst": "Want een ieder, die kwaad bedrijft, haat het licht, en gaat niet tot het licht, opdat zijn werken niet aan de dag komen;"
+        },
+        {
+          "nr": 21,
+          "tekst": "maar wie de waarheid doet, gaat tot het licht, opdat van zijn werken blijke, dat zij in God verricht zijn."
+        },
+        {
+          "nr": 22,
+          "tekst": "Daarna ging Jezus met zijn discipelen naar het land van Judea en Hij vertoefde daar met hen en doopte."
+        },
+        {
+          "nr": 23,
+          "tekst": "Doch ook Johannes doopte, te Enon bij Salim, omdat daar veel water was, en de mensen kwamen daar en lieten zich dopen;"
+        },
+        {
+          "nr": 24,
+          "tekst": "want Johannes was nog niet in de gevangenis geworpen."
+        },
+        {
+          "nr": 25,
+          "tekst": "Er rees dan geschil tussen de discipelen van Johannes met een Jood over de reiniging."
+        },
+        {
+          "nr": 26,
+          "tekst": "En zij kwamen tot Johannes en zeiden tot hem: Rabbi, die met u was aan de overzijde van de Jordaan en van wie gij getuigd hebt, zie, die doopt en allen gaan tot Hem."
+        },
+        {
+          "nr": 27,
+          "tekst": "Johannes antwoordde en zeide: Geen mens kan iets aannemen, of het moet hem uit de hemel gegeven zijn."
+        },
+        {
+          "nr": 28,
+          "tekst": "Gij kunt zelf van mij getuigen, dat ik gezegd heb: Ik ben de Christus niet, maar ik ben voor Hem uit gezonden."
+        },
+        {
+          "nr": 29,
+          "tekst": "Die de bruid heeft, is de bruidegom; maar de vriend van de bruidegom, die erbij staat en naar hem luistert, verblijdt zich met blijdschap over de stem van de bruidegom. Zo is dan deze mijn blijdschap vervuld."
+        },
+        {
+          "nr": 30,
+          "tekst": "Hij moet wassen, ik moet minder worden."
+        },
+        {
+          "nr": 31,
+          "tekst": "Die van boven komt, is boven allen; wie uit de aarde is, is uit de aarde en spreekt van de aarde."
+        },
+        {
+          "nr": 32,
+          "tekst": "Die uit de hemel komt, is boven allen; wat Hij gezien en gehoord heeft, dat getuigt Hij en zijn getuigenis neemt niemand aan."
+        },
+        {
+          "nr": 33,
+          "tekst": "Wie zijn getuigenis aanvaardt, heeft bezegeld, dat God waarachtig is."
+        },
+        {
+          "nr": 34,
+          "tekst": "Want Hij, die God gezonden heeft, die spreekt de woorden Gods, want Hij geeft de Geest niet met mate."
+        },
+        {
+          "nr": 35,
+          "tekst": "De Vader heeft de Zoon lief en heeft Hem alles in handen gegeven."
+        },
+        {
+          "nr": 36,
+          "tekst": "Wie in de Zoon gelooft, heeft eeuwig leven; doch wie aan de Zoon ongehoorzaam is, zal het leven niet zien, maar de toorn Gods blijft op hem."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Toen nu de Here vernam, dat de Farizeeën gehoord hadden, dat Jezus meer discipelen maakte en doopte dan Johannes,"
+        },
+        {
+          "nr": 2,
+          "tekst": "– ofschoon Jezus niet zelf doopte, maar zijn discipelen –"
+        },
+        {
+          "nr": 3,
+          "tekst": "verliet Hij Judea en vertrok weder naar Galilea."
+        },
+        {
+          "nr": 4,
+          "tekst": "En Hij moest door Samaria gaan."
+        },
+        {
+          "nr": 5,
+          "tekst": "Hij kwam dan in een stad van Samaria, genaamd Sichar, dicht bij het veld, dat Jakob aan zijn zoon Jozef gegeven had; daar was de bron van Jakob."
+        },
+        {
+          "nr": 6,
+          "tekst": "Jezus nu was vermoeid van de tocht en bleef zo bij de bron zitten; het was ongeveer het zesde uur."
+        },
+        {
+          "nr": 7,
+          "tekst": "Er kwam een vrouw uit Samaria om water te putten. Jezus zeide tot haar: Geef Mij te drinken."
+        },
+        {
+          "nr": 8,
+          "tekst": "Want zijn discipelen waren naar de stad gegaan om voedsel te kopen."
+        },
+        {
+          "nr": 9,
+          "tekst": "De Samaritaanse vrouw dan zeide tot Hem: Hoe kunt Gij, als Jood, van mij, een Samaritaanse vrouw, te drinken vragen? [Want Joden gaan niet om met Samaritanen.]"
+        },
+        {
+          "nr": 10,
+          "tekst": "Jezus antwoordde en zeide tot haar: Indien gij wist van de gave Gods en wie het is, die tot u zegt: Geef Mij te drinken, gij zoudt het Hem gevraagd hebben en Hij zou u levend water hebben gegeven."
+        },
+        {
+          "nr": 11,
+          "tekst": "Zij zeide tot Hem: Here, Gij hebt geen emmer en de put is diep; hoe komt Gij dan aan het levende water?"
+        },
+        {
+          "nr": 12,
+          "tekst": "Zijt Gij soms meer dan onze vader Jakob, die ons de put gegeven en zelf eruit gedronken heeft met zijn zonen en zijn kudden?"
+        },
+        {
+          "nr": 13,
+          "tekst": "Jezus antwoordde en zeide tot haar: Een ieder, die van dit water drinkt, zal weder dorst krijgen;"
+        },
+        {
+          "nr": 14,
+          "tekst": "maar wie gedronken heeft van het water, dat Ik hem zal geven, zal geen dorst krijgen in eeuwigheid, maar het water, dat Ik hem zal geven, zal in hem worden tot een fontein van water, dat springt ten eeuwigen leven."
+        },
+        {
+          "nr": 15,
+          "tekst": "De vrouw zeide tot Hem: Here, geef mij dit water, opdat ik geen dorst heb en niet hierheen behoef te gaan om te putten."
+        },
+        {
+          "nr": 16,
+          "tekst": "Hij zeide tot haar: Ga heen, roep uw man en kom hier."
+        },
+        {
+          "nr": 17,
+          "tekst": "De vrouw antwoordde en zeide: Ik heb geen man. Jezus zeide tot haar: Terecht zegt gij: ik heb geen man;"
+        },
+        {
+          "nr": 18,
+          "tekst": "want gij hebt vijf mannen gehad en die gij nu hebt, is uw man niet; hierin hebt gij de waarheid gesproken."
+        },
+        {
+          "nr": 19,
+          "tekst": "De vrouw zeide tot Hem: Here, ik zie, dat Gij een profeet zijt."
+        },
+        {
+          "nr": 20,
+          "tekst": "Onze vaderen hebben op deze berg aangebeden en gijlieden zegt, dat te Jeruzalem de plaats is, waar men moet aanbidden."
+        },
+        {
+          "nr": 21,
+          "tekst": "Jezus zeide tot haar: Geloof Mij, vrouw, de ure komt, dat gij noch op deze berg, noch te Jeruzalem de Vader zult aanbidden."
+        },
+        {
+          "nr": 22,
+          "tekst": "Gij aanbidt, wat gij niet weet; wij aanbidden, wat wij weten, want het heil is uit de Joden;"
+        },
+        {
+          "nr": 23,
+          "tekst": "maar de ure komt en is nu, dat de waarachtige aanbidders de Vader aanbidden zullen in geest en in waarheid; want de Vader zoekt zulke aanbidders;"
+        },
+        {
+          "nr": 24,
+          "tekst": "God is geest en wie Hem aanbidden, moeten aanbidden in geest en in waarheid."
+        },
+        {
+          "nr": 25,
+          "tekst": "De vrouw zeide tot Hem: Ik weet, dat de Messias komt, die Christus genoemd wordt; wanneer die komt, zal Hij ons alles verkondigen."
+        },
+        {
+          "nr": 26,
+          "tekst": "Jezus zeide tot haar: Ik, die met u spreek, ben het."
+        },
+        {
+          "nr": 27,
+          "tekst": "En daarop kwamen zijn discipelen en waren verbaasd, dat Hij met een vrouw in gesprek was, en toch zeide niemand: Wat zoekt Gij, of: Waarom spreekt Gij met haar?"
+        },
+        {
+          "nr": 28,
+          "tekst": "De vrouw dan liet haar kruik staan, en ging naar de stad en zeide tot de mensen:"
+        },
+        {
+          "nr": 29,
+          "tekst": "Komt mede en ziet een mens, die gezegd heeft alles wat ik gedaan heb: zou deze niet de Christus zijn?"
+        },
+        {
+          "nr": 30,
+          "tekst": "Zij gingen de stad uit en kwamen tot Hem."
+        },
+        {
+          "nr": 31,
+          "tekst": "Intussen vroegen zijn discipelen Hem, zeggende: Rabbi, eet."
+        },
+        {
+          "nr": 32,
+          "tekst": "Hij zeide echter tot hen: Ik heb een spijs te eten, waarvan gij niet weet."
+        },
+        {
+          "nr": 33,
+          "tekst": "De discipelen dan zeiden tot elkander: Iemand heeft Hem toch niet te eten gebracht?"
+        },
+        {
+          "nr": 34,
+          "tekst": "Jezus zeide tot hen: Mijn spijze is de wil te doen desgenen, die Mij gezonden heeft, en zijn werk te volbrengen."
+        },
+        {
+          "nr": 35,
+          "tekst": "Zegt gij niet: Nog vier maanden, dan komt de oogst? Zie, Ik zeg u, slaat uw ogen op en beschouwt de velden, dat zij wit zijn om te oogsten."
+        },
+        {
+          "nr": 36,
+          "tekst": "Reeds ontvangt de maaier loon en verzamelt hij vrucht ten eeuwigen leven, opdat de zaaier zich tegelijk met de maaier verblijde."
+        },
+        {
+          "nr": 37,
+          "tekst": "Want hier is de spreuk waarachtig: De een zaait, de ander maait."
+        },
+        {
+          "nr": 38,
+          "tekst": "Ik heb u uitgezonden om datgene te maaien, wat u geen arbeid heeft gekost; anderen hebben gearbeid en gij hebt de vrucht van hun arbeid geplukt."
+        },
+        {
+          "nr": 39,
+          "tekst": "En uit die stad geloofden vele der Samaritanen in Hem om het woord der vrouw, die getuigde: Hij heeft mij gezegd alles wat ik gedaan heb."
+        },
+        {
+          "nr": 40,
+          "tekst": "Toen dan de Samaritanen tot Hem kwamen, verzochten zij Hem bij hen te blijven; en Hij bleef daar twee dagen."
+        },
+        {
+          "nr": 41,
+          "tekst": "En nog veel meer werden er gelovig om zijn woord,"
+        },
+        {
+          "nr": 42,
+          "tekst": "en zij zeiden tot de vrouw: Wij geloven niet meer om wat gij zegt, want wij zelf hebben Hem gehoord en weten, dat deze waarlijk de Heiland der wereld is."
+        },
+        {
+          "nr": 43,
+          "tekst": "En na die twee dagen vertrok Hij vandaar naar Galilea,"
+        },
+        {
+          "nr": 44,
+          "tekst": "want Jezus zelf had getuigd, dat een profeet in zijn vaderland niet in ere is."
+        },
+        {
+          "nr": 45,
+          "tekst": "Toen Hij dan in Galilea kwam, ontvingen de Galileeërs Hem, omdat zij gezien hadden, al wat Hij te Jeruzalem op het feest gedaan had, want zij waren ook zelf naar het feest geweest."
+        },
+        {
+          "nr": 46,
+          "tekst": "Hij kwam dan weder te Kana in Galilea, waar Hij het water tot wijn gemaakt had. En er was te Kafarnaüm een hoveling, wiens zoon ziek was."
+        },
+        {
+          "nr": 47,
+          "tekst": "Toen deze hoorde, dat Jezus uit Judea naar Galilea gekomen was, ging hij tot Hem en verzocht Hem te komen en zijn zoon te genezen; want deze lag op sterven."
+        },
+        {
+          "nr": 48,
+          "tekst": "Jezus zeide dan tot hem: Indien gijlieden geen tekenen en wonderen ziet, zult gij niet geloven."
+        },
+        {
+          "nr": 49,
+          "tekst": "De hoveling zeide tot Hem: Heer, kom af, eer mijn kind sterft."
+        },
+        {
+          "nr": 50,
+          "tekst": "Jezus zeide tot hem: Ga heen, uw zoon leeft! De man geloofde het woord, dat Jezus tot hem sprak, en ging heen."
+        },
+        {
+          "nr": 51,
+          "tekst": "En reeds terwijl hij afdaalde, kwamen zijn slaven hem tegemoet en zeiden, dat zijn kind leefde."
+        },
+        {
+          "nr": 52,
+          "tekst": "Hij vroeg hun naar het uur, waarop de beterschap was ingetreden; zij zeiden tot hem: Gisteren op het zevende uur werd hij vrij van koorts."
+        },
+        {
+          "nr": 53,
+          "tekst": "De vader dan bemerkte, dat het dat uur was, waarop Jezus tot hem gezegd had: Uw zoon leeft, en hij werd zelf gelovig en zijn gehele huis."
+        },
+        {
+          "nr": 54,
+          "tekst": "En dit deed Jezus weder als tweede teken, toen Hij uit Judea naar Galilea gekomen was."
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Daarna was er een feest der Joden en Jezus ging op naar Jeruzalem."
+        },
+        {
+          "nr": 2,
+          "tekst": "Nu is er te Jeruzalem bij de Schaapspoort een bad, dat in het Hebreeuws de bijnaam Betesda draagt, met vijf zuilengangen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Daarin lag een menigte zieken, blinden, verlamden en verschrompelden, [die wachtten op de beweging van het water."
+        },
+        {
+          "nr": 4,
+          "tekst": "Want van tijd tot tijd daalde een engel des Heren neder in het bad; dan bewoog het water; wie er dan het eerst in kwam na de beweging van het water, werd gezond, wat voor ziekte hij ook had.]"
+        },
+        {
+          "nr": 5,
+          "tekst": "En daar was een man, die reeds achtendertig jaar lang ziek geweest was."
+        },
+        {
+          "nr": 6,
+          "tekst": "Hem zag Jezus liggen en daar Hij wist, dat hij daar reeds lange tijd was, zeide Hij tot hem: Wilt gij gezond worden?"
+        },
+        {
+          "nr": 7,
+          "tekst": "De zieke antwoordde Hem: Here, ik heb geen mens om mij, zodra er beweging komt in het water, in het bad te werpen; en terwijl ik onderweg ben, daalt een ander vóór mij af."
+        },
+        {
+          "nr": 8,
+          "tekst": "Jezus zeide tot hem: Sta op, neem uw matras op en wandel."
+        },
+        {
+          "nr": 9,
+          "tekst": "En terstond werd de man gezond en nam zijn matras op en ging zijns weegs.Nu was het sabbat op die dag."
+        },
+        {
+          "nr": 10,
+          "tekst": "De Joden dan zeiden tot de genezene: Het is sabbat en dan moogt gij uw matras niet dragen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Doch hij antwoordde hun: Die mij gezond gemaakt heeft, die heeft tot mij gezegd: Neem uw matras op en ga uws weegs."
+        },
+        {
+          "nr": 12,
+          "tekst": "Zij vroegen hem: Wie is de mens, die tot u gezegd heeft: Neem op en ga uws weegs?"
+        },
+        {
+          "nr": 13,
+          "tekst": "En de genezene wist niet, wie het was; want Jezus was ontweken, omdat er een (grote) schare op die plaats was."
+        },
+        {
+          "nr": 14,
+          "tekst": "Daarna vond Jezus hem in de tempel en zeide tot hem: Zie, gij zijt gezond geworden; zondig niet meer, opdat u niet iets ergers overkome."
+        },
+        {
+          "nr": 15,
+          "tekst": "De man ging heen en zeide tot de Joden, dat het Jezus was, die hem gezond gemaakt had."
+        },
+        {
+          "nr": 16,
+          "tekst": "En daarom wilden de Joden Jezus vervolgen, omdat Hij deze dingen op sabbat deed."
+        },
+        {
+          "nr": 17,
+          "tekst": "Maar Hij antwoordde hun: Mijn Vader werkt tot nu toe en Ik werk ook."
+        },
+        {
+          "nr": 18,
+          "tekst": "Hierom dan trachtten de Joden des te meer Hem te doden, omdat Hij niet alleen de sabbat schond, maar ook God zijn eigen Vader noemde en Zich dus met God gelijkstelde."
+        },
+        {
+          "nr": 19,
+          "tekst": "Jezus dan antwoordde en zeide tot hen: Voorwaar, voorwaar, Ik zeg u, de Zoon kan niets doen van Zichzelf, of Hij moet het de Vader zien doen; want wat deze doet, dat doet ook de Zoon evenzo."
+        },
+        {
+          "nr": 20,
+          "tekst": "Want de Vader heeft de Zoon lief en toont Hem al wat Hij zelf doet, en Hij zal Hem grotere werken tonen dan deze, opdat gij u verwondert."
+        },
+        {
+          "nr": 21,
+          "tekst": "Want gelijk de Vader de doden opwekt en doet leven, zo doet ook de Zoon leven, wie Hij wil."
+        },
+        {
+          "nr": 22,
+          "tekst": "Want ook de Vader oordeelt niemand, maar heeft het gehele oordeel aan de Zoon gegeven,"
+        },
+        {
+          "nr": 23,
+          "tekst": "opdat allen de Zoon eren gelijk zij de Vader eren. Wie de Zoon niet eert, eert ook de Vader niet, die Hem gezonden heeft."
+        },
+        {
+          "nr": 24,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u, wie mijn woord hoort en Hem gelooft, die Mij gezonden heeft, heeft eeuwig leven en komt niet in het oordeel, want hij is overgegaan uit de dood in het leven."
+        },
+        {
+          "nr": 25,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u, de ure komt en is nu, dat de doden naar de stem van de Zoon van God zullen horen, en die haar horen, zullen leven."
+        },
+        {
+          "nr": 26,
+          "tekst": "Want gelijk de Vader leven heeft in Zichzelf, heeft Hij ook de Zoon gegeven, leven te hebben in Zichzelf."
+        },
+        {
+          "nr": 27,
+          "tekst": "En Hij heeft Hem macht gegeven om gericht te houden, omdat Hij de Zoon des mensen is."
+        },
+        {
+          "nr": 28,
+          "tekst": "Verwondert u hierover niet, want de ure komt, dat allen, die in de graven zijn, naar zijn stem zullen horen,"
+        },
+        {
+          "nr": 29,
+          "tekst": "en zij zullen uitgaan, wie het goede gedaan hebben, tot de opstanding ten leven, wie het kwade bedreven hebben, tot de opstanding ten oordeel."
+        },
+        {
+          "nr": 30,
+          "tekst": "Ik kan van Mijzelf niets doen; gelijk Ik hoor, oordeel Ik, en mijn oordeel is rechtvaardig, want Ik zoek niet mijn wil, doch de wil van Hem, die Mij gezonden heeft."
+        },
+        {
+          "nr": 31,
+          "tekst": "Indien Ik getuig van Mijzelf, is mijn getuigenis niet waar;"
+        },
+        {
+          "nr": 32,
+          "tekst": "een ander is het, die van Mij getuigt, en Ik weet, dat het getuigenis, dat Hij van Mij aflegt, waar is."
+        },
+        {
+          "nr": 33,
+          "tekst": "Gij hebt tot Johannes gezonden en hij heeft van de waarheid getuigd;"
+        },
+        {
+          "nr": 34,
+          "tekst": "maar Ik behoef het getuigenis van een mens niet, doch Ik zeg dit, opdat gij behouden wordt."
+        },
+        {
+          "nr": 35,
+          "tekst": "Hij was de brandende en schijnende lamp en gij hebt u een tijdlang in zijn licht willen verheugen."
+        },
+        {
+          "nr": 36,
+          "tekst": "Maar Ik heb een getuigenis, gewichtiger dan dat van Johannes; want de werken, die Mij de Vader gegeven heeft om te volbrengen, juist die werken, die Ik doe, getuigen van Mij, dat de Vader Mij gezonden heeft."
+        },
+        {
+          "nr": 37,
+          "tekst": "En de Vader, die Mij gezonden heeft, die heeft van Mij getuigenis gegeven. Gij hebt nooit zijn stem gehoord of zijn gedaante gezien,"
+        },
+        {
+          "nr": 38,
+          "tekst": "en zijn woord hebt gij niet blijvend in u, want die Hij gezonden heeft, gelooft gij niet."
+        },
+        {
+          "nr": 39,
+          "tekst": "Gij onderzoekt de Schriften, want gij meent daarin eeuwig leven te hebben, en deze zijn het, welke van Mij getuigen,"
+        },
+        {
+          "nr": 40,
+          "tekst": "en toch wilt gij niet tot Mij komen om leven te hebben."
+        },
+        {
+          "nr": 41,
+          "tekst": "Eer van mensen behoef Ik niet,"
+        },
+        {
+          "nr": 42,
+          "tekst": "maar Ik ken u: gij hebt de liefde Gods niet in uzelf."
+        },
+        {
+          "nr": 43,
+          "tekst": "Ik ben gekomen in de naam mijns Vaders en gij neemt Mij niet aan; indien een ander komt in zijn eigen naam, die zult gij aannemen."
+        },
+        {
+          "nr": 44,
+          "tekst": "Hoe kunt gij tot geloof komen, gij, die eer van elkander behoeft en de eer, die van de enige God komt, niet zoekt?"
+        },
+        {
+          "nr": 45,
+          "tekst": "Denkt niet, dat Ik u zal aanklagen bij de Vader; uw aanklager is Mozes, op wie gij uw hoop gevestigd hebt."
+        },
+        {
+          "nr": 46,
+          "tekst": "Want indien gij Mozes geloofdet, zoudt gij ook Mij geloven, want hij heeft van Mij geschreven."
+        },
+        {
+          "nr": 47,
+          "tekst": "Maar indien gij zijn geschriften niet gelooft, hoe zult gij mijn woorden geloven?"
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Daarna vertrok Jezus naar de overzijde van de zee van Tiberias in Galilea."
+        },
+        {
+          "nr": 2,
+          "tekst": "En Hem volgde een grote schare, omdat zij de tekenen zagen, die Hij aan zieken verrichtte."
+        },
+        {
+          "nr": 3,
+          "tekst": "En Jezus ging de berg op en zat daar neder met zijn discipelen."
+        },
+        {
+          "nr": 4,
+          "tekst": "En het Pascha, het feest der Joden, was nabij."
+        },
+        {
+          "nr": 5,
+          "tekst": "Toen Jezus dan de ogen opsloeg en zag, dat een grote schare tot Hem kwam, zeide Hij tot Filippus: Waar zullen wij broden kopen, dat dezen kunnen eten?"
+        },
+        {
+          "nr": 6,
+          "tekst": "Maar dit zeide Hij om hem op de proef te stellen, want Hij wist zelf, wat Hij doen zou."
+        },
+        {
+          "nr": 7,
+          "tekst": "Filippus antwoordde Hem: Tweehonderd schellingen brood is voor dezen niet genoeg, als ieder een kleine hoeveelheid zal krijgen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Een van zijn discipelen, Andreas, de broeder van Simon Petrus, zeide tot Hem:"
+        },
+        {
+          "nr": 9,
+          "tekst": "Hier is een jongen, die vijf gerstebroden en twee vissen heeft; maar wat betekent dit voor zovelen?"
+        },
+        {
+          "nr": 10,
+          "tekst": "Jezus zeide: Laat de mensen gaan zitten. Nu was er veel gras op die plaats. De mannen gingen dus zitten, ten getale van omstreeks vijfduizend."
+        },
+        {
+          "nr": 11,
+          "tekst": "Jezus dan nam de broden, dankte en verdeelde ze onder hen, die daar zaten, evenzo van de vissen, zoveel zij wensten."
+        },
+        {
+          "nr": 12,
+          "tekst": "En toen zij verzadigd waren, zeide Hij tot zijn discipelen: Verzamelt de overgebleven brokken, opdat niets verloren ga."
+        },
+        {
+          "nr": 13,
+          "tekst": "Zij verzamelden die dus en vulden twaalf korven met brokken van de vijf gerstebroden, die overgeschoten waren, nadat men gegeten had."
+        },
+        {
+          "nr": 14,
+          "tekst": "Toen dan de mensen zagen, welk teken Hij verricht had, zeiden zij: Deze is waarlijk de profeet, die in de wereld komen zou."
+        },
+        {
+          "nr": 15,
+          "tekst": "Daar Jezus bemerkte, dat zij zouden komen en Hem met geweld meevoeren om Hem koning te maken, trok Hij Zich weder terug in het gebergte, geheel alleen."
+        },
+        {
+          "nr": 16,
+          "tekst": "En toen het avond geworden was, gingen zijn discipelen naar de zee en begaven zich in een schip over de zee naar Kafarnaüm."
+        },
+        {
+          "nr": 17,
+          "tekst": "En het was reeds donker geworden en Jezus was nog niet tot hen gekomen,"
+        },
+        {
+          "nr": 18,
+          "tekst": "en de zee werd onstuimig, daar er een harde wind woei."
+        },
+        {
+          "nr": 19,
+          "tekst": "Toen zij dan vijfentwintig of dertig stadiën hadden geroeid, zagen zij Jezus over de zee gaan en dicht bij het schip komen, en zij werden bevreesd."
+        },
+        {
+          "nr": 20,
+          "tekst": "Maar Hij zeide tot hen: Ik ben het, weest niet bevreesd."
+        },
+        {
+          "nr": 21,
+          "tekst": "Zij wilden Hem dan in het schip nemen en terstond bereikte het schip het land, waar zij heengingen."
+        },
+        {
+          "nr": 22,
+          "tekst": "De volgende dag zag de schare, die aan de andere zijde van de zee stond, dat daar geen ander scheepje was geweest dan één, en dat Jezus niet met zijn discipelen in dit schip gegaan was, maar dat zijn discipelen alleen waren weggevaren."
+        },
+        {
+          "nr": 23,
+          "tekst": "Doch er kwamen andere scheepjes uit Tiberias bij de plaats, waar zij het brood gegeten hadden, nadat de Here gedankt had."
+        },
+        {
+          "nr": 24,
+          "tekst": "Toen dan de schare zag, dat Jezus daar niet was en ook zijn discipelen niet, gingen ook zij in de scheepjes en kwamen te Kafarnaüm om Jezus te zoeken."
+        },
+        {
+          "nr": 25,
+          "tekst": "En toen zij Hem aan de overkant der zee vonden, zeiden zij tot Hem: Rabbi, wanneer zijt Gij hier gekomen?"
+        },
+        {
+          "nr": 26,
+          "tekst": "Jezus antwoordde hun en zeide: Voorwaar, voorwaar, Ik zeg u, gij zoekt Mij, niet omdat gij tekenen gezien hebt, maar omdat gij van de broden gegeten hebt en verzadigd zijt."
+        },
+        {
+          "nr": 27,
+          "tekst": "Werkt niet om de spijs, die vergaat, maar om de spijs, die blijft tot in het eeuwige leven, welke de Zoon des mensen u geven zal; want op Hem heeft God, de Vader, zijn zegel gedrukt."
+        },
+        {
+          "nr": 28,
+          "tekst": "Zij zeiden dan tot Hem: Wat moeten wij doen, opdat wij de werken Gods mogen werken?"
+        },
+        {
+          "nr": 29,
+          "tekst": "Jezus antwoordde en zeide tot hen: Dit is het werk Gods, dat gij gelooft in Hem, die Hij gezonden heeft."
+        },
+        {
+          "nr": 30,
+          "tekst": "Zij zeiden dan tot Hem: Wat voor teken doet Gij dan, opdat wij mogen zien en U geloven? Wat voor werk doet Gij?"
+        },
+        {
+          "nr": 31,
+          "tekst": "Onze vaderen hebben het manna in de woestijn gegeten, zoals geschreven is: Brood uit de hemel gaf Hij hun te eten."
+        },
+        {
+          "nr": 32,
+          "tekst": "Jezus zeide dan tot hen: Voorwaar, voorwaar, Ik zeg u, niet Mozes heeft u het brood uit de hemel gegeven, maar mijn Vader geeft u het ware brood uit de hemel;"
+        },
+        {
+          "nr": 33,
+          "tekst": "want dát is het brood Gods, dat uit de hemel nederdaalt en aan de wereld het leven geeft."
+        },
+        {
+          "nr": 34,
+          "tekst": "Zij zeiden dan tot Hem: Here, geef ons altijd dit brood."
+        },
+        {
+          "nr": 35,
+          "tekst": "Jezus zeide tot hen: Ik ben het brood des levens; wie tot Mij komt, zal nimmermeer hongeren en wie in Mij gelooft, zal nimmermeer dorsten."
+        },
+        {
+          "nr": 36,
+          "tekst": "Maar Ik heb u gezegd, dat gij niet gelooft, ook al hebt gij Mij gezien."
+        },
+        {
+          "nr": 37,
+          "tekst": "Alles wat Mij de Vader geeft, zal tot Mij komen, en wie tot Mij komt, zal Ik geenszins uitwerpen."
+        },
+        {
+          "nr": 38,
+          "tekst": "Want Ik ben van de hemel nedergedaald, niet om mijn wil te doen, maar de wil van Hem, die Mij gezonden heeft."
+        },
+        {
+          "nr": 39,
+          "tekst": "En dit is de wil van Hem, die Mij gezonden heeft, dat Ik van alles wat Hij Mij gegeven heeft, niets verloren late gaan, maar het opwekke ten jongsten dage."
+        },
+        {
+          "nr": 40,
+          "tekst": "Want dit is de wil mijns Vaders, dat een ieder, die de Zoon aanschouwt en in Hem gelooft, eeuwig leven hebbe, en Ik zal hem opwekken ten jongsten dage."
+        },
+        {
+          "nr": 41,
+          "tekst": "De Joden dan morden over Hem, omdat Hij gezegd had: Ik ben het brood, dat uit de hemel nedergedaald is,"
+        },
+        {
+          "nr": 42,
+          "tekst": "en zij zeiden: Is dit niet Jezus, de zoon van Jozef, wiens vader en moeder wij kennen? Hoe zegt Hij nu: Ik ben uit de hemel nedergedaald?"
+        },
+        {
+          "nr": 43,
+          "tekst": "Jezus antwoordde en zeide tot hen: Mort niet onder elkander."
+        },
+        {
+          "nr": 44,
+          "tekst": "Niemand kan tot Mij komen, tenzij de Vader, die Mij gezonden heeft, hem trekke, en Ik zal hem opwekken ten jongsten dage."
+        },
+        {
+          "nr": 45,
+          "tekst": "Er is geschreven in de profeten: En zij zullen allen door God geleerd zijn. Een ieder, die het van de Vader gehoord en geleerd heeft, komt tot Mij."
+        },
+        {
+          "nr": 46,
+          "tekst": "Niet, dat iemand de Vader gezien heeft; alleen die van God komt, die heeft de Vader gezien."
+        },
+        {
+          "nr": 47,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u: Wie gelooft, heeft eeuwig leven."
+        },
+        {
+          "nr": 48,
+          "tekst": "Ik ben het brood des levens."
+        },
+        {
+          "nr": 49,
+          "tekst": "Uw vaderen hebben in de woestijn het manna gegeten en zij zijn gestorven;"
+        },
+        {
+          "nr": 50,
+          "tekst": "dit is het brood, dat uit de hemel nederdaalt, opdat wie ervan eet, niet sterve."
+        },
+        {
+          "nr": 51,
+          "tekst": "Ik ben het levende brood, dat uit de hemel nedergedaald is. Indien iemand van dit brood eet, hij zal in eeuwigheid leven; en het brood, dat Ik geven zal, is mijn vlees, voor het leven der wereld."
+        },
+        {
+          "nr": 52,
+          "tekst": "De Joden dan streden onderling en zeiden: Hoe kan deze ons zijn vlees te eten geven?"
+        },
+        {
+          "nr": 53,
+          "tekst": "Jezus dan zeide tot hen: Voorwaar, voorwaar, Ik zeg u, tenzij gij het vlees van de Zoon des mensen eet en zijn bloed drinkt, hebt gij geen leven in uzelf."
+        },
+        {
+          "nr": 54,
+          "tekst": "Wie mijn vlees eet en mijn bloed drinkt, heeft eeuwig leven en Ik zal hem opwekken ten jongsten dage."
+        },
+        {
+          "nr": 55,
+          "tekst": "Want mijn vlees is ware spijs en mijn bloed is ware drank."
+        },
+        {
+          "nr": 56,
+          "tekst": "Wie mijn vlees eet en mijn bloed drinkt, blijft in Mij en Ik in hem."
+        },
+        {
+          "nr": 57,
+          "tekst": "Gelijk de levende Vader Mij gezonden heeft en Ik leef door de Vader, zo zal ook hij, die Mij eet, leven door Mij."
+        },
+        {
+          "nr": 58,
+          "tekst": "Dit is het brood, dat uit de hemel nedergedaald is; niet gelijk de vaderen gegeten hebben en gestorven zijn; wie dit brood eet, zal in eeuwigheid leven."
+        },
+        {
+          "nr": 59,
+          "tekst": "Dit zeide Hij, lerende in de synagoge te Kafarnaüm."
+        },
+        {
+          "nr": 60,
+          "tekst": "Vele dan van zijn discipelen hoorden dit en zeiden: Deze rede is hard; wie kan haar aanhoren?"
+        },
+        {
+          "nr": 61,
+          "tekst": "Jezus nu wist bij Zichzelf, dat zijn discipelen hierover morden, en Hij zeide tot hen: Geeft u dit aanstoot?"
+        },
+        {
+          "nr": 62,
+          "tekst": "Wat dan, indien gij de Zoon des mensen daarheen zaagt opvaren, waar Hij tevoren was?"
+        },
+        {
+          "nr": 63,
+          "tekst": "De Geest is het, die levend maakt, het vlees doet geen nut; de woorden, die Ik tot u gesproken heb, zijn geest en zijn leven."
+        },
+        {
+          "nr": 64,
+          "tekst": "Maar er zijn sommigen onder u, die niet geloven. Want Jezus wist van den beginne, wie het waren, die niet geloofden, en wie het was, die Hem verraden zou."
+        },
+        {
+          "nr": 65,
+          "tekst": "En Hij zeide: Daarom heb Ik u gezegd, dat niemand tot Mij komen kan, tenzij het hem van de Vader gegeven zij."
+        },
+        {
+          "nr": 66,
+          "tekst": "Van toen af keerden vele van zijn discipelen terug en gingen niet langer met Hem mede."
+        },
+        {
+          "nr": 67,
+          "tekst": "Jezus zeide dan tot de twaalven: Gij wilt toch ook niet weggaan?"
+        },
+        {
+          "nr": 68,
+          "tekst": "Simon Petrus antwoordde Hem: Here, tot wie zullen wij heengaan? Gij hebt woorden van eeuwig leven;"
+        },
+        {
+          "nr": 69,
+          "tekst": "en wij hebben geloofd en erkend, dat Gij zijt de Heilige Gods."
+        },
+        {
+          "nr": 70,
+          "tekst": "Jezus antwoordde hun: Heb Ik niet u twaalven uitgekozen? En een van u is een duivel."
+        },
+        {
+          "nr": 71,
+          "tekst": "Hij bedoelde Judas, de zoon van Simon Iskariot; want die zou Hem verraden, één uit de twaalven."
+        }
+      ]
+    },
+    {
+      "nr": 7,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "En daarna trok Jezus rond in Galilea; want Hij wilde Zich in Judea niet ophouden, omdat de Joden Hem trachtten te doden."
+        },
+        {
+          "nr": 2,
+          "tekst": "Nu was het feest der Joden, Loofhutten, nabij."
+        },
+        {
+          "nr": 3,
+          "tekst": "Zijn broeders dan zeiden tot Hem: Ga vanhier en reis naar Judea, opdat ook uw discipelen uw werken aanschouwen, die Gij doet."
+        },
+        {
+          "nr": 4,
+          "tekst": "Want niemand doet iets in het verborgen en tracht tegelijk zelf de aandacht te trekken. Indien Gij zulke dingen doet, maak, dat Gij bekend wordt aan de wereld."
+        },
+        {
+          "nr": 5,
+          "tekst": "Want zelfs zijn broeders geloofden niet in Hem."
+        },
+        {
+          "nr": 6,
+          "tekst": "Jezus dan zeide tot hen: Mijn tijd is nog niet gekomen, maar uw tijd is steeds bereid."
+        },
+        {
+          "nr": 7,
+          "tekst": "U kan de wereld niet haten, maar Mij haat zij, omdat Ik van haar getuig, dat haar werken boos zijn."
+        },
+        {
+          "nr": 8,
+          "tekst": "Gaat gij op naar het feest; Ik ga niet op naar dit feest, omdat mijn tijd nog niet vervuld is."
+        },
+        {
+          "nr": 9,
+          "tekst": "En nadat Hij dit tot hen gezegd had, bleef Hij in Galilea."
+        },
+        {
+          "nr": 10,
+          "tekst": "Maar toen zijn broeders opgegaan waren naar het feest, toen ging Hij zelf ook op, niet openlijk, maar als in het verborgen."
+        },
+        {
+          "nr": 11,
+          "tekst": "De Joden dan zochten Hem op het feest en zeiden: Waar is Hij?"
+        },
+        {
+          "nr": 12,
+          "tekst": "En er was veel gemompel over Hem onder de scharen; sommigen zeiden: Hij is goed, anderen zeiden: Neen, maar Hij verleidt het volk."
+        },
+        {
+          "nr": 13,
+          "tekst": "Toch sprak niemand vrijuit over Hem, uit vrees voor de Joden."
+        },
+        {
+          "nr": 14,
+          "tekst": "Doch toen het feest reeds op de helft was, ging Jezus op naar de tempel en leerde."
+        },
+        {
+          "nr": 15,
+          "tekst": "De Joden dan verbaasden zich en zeiden: Hoe is deze zo geleerd zonder onderricht te hebben ontvangen?"
+        },
+        {
+          "nr": 16,
+          "tekst": "Jezus antwoordde hun en zeide: Mijn leer is niet van Mij, maar van Hem, die Mij gezonden heeft;"
+        },
+        {
+          "nr": 17,
+          "tekst": "indien iemand diens wil doen wil, zal hij van deze leer weten, of zij van God komt, dan of Ik uit Mijzelf spreek."
+        },
+        {
+          "nr": 18,
+          "tekst": "Wie uit zichzelf spreekt, zoekt zijn eigen eer, maar wie de eer zoekt van zijn zender, die is waar en er is geen onrecht in hem."
+        },
+        {
+          "nr": 19,
+          "tekst": "Heeft Mozes u niet de wet gegeven? En niemand van u doet de wet. Waartoe tracht gij Mij te doden?"
+        },
+        {
+          "nr": 20,
+          "tekst": "De schare antwoordde: Gij zijt bezeten; wie tracht U te doden?"
+        },
+        {
+          "nr": 21,
+          "tekst": "Jezus antwoordde en zeide tot hen: Eén werk heb Ik verricht en gij verwondert u allen."
+        },
+        {
+          "nr": 22,
+          "tekst": "Daarom: Mozes heeft u de besnijdenis gegeven – niet, dat zij van Mozes komt, maar van de vaderen – en gij besnijdt een mens op sabbat."
+        },
+        {
+          "nr": 23,
+          "tekst": "Als een mens op sabbat de besnijdenis ontvangt, opdat de wet van Mozes niet verbroken worde, zijt gij dan op Mij vertoornd, omdat Ik op sabbat een gehele mens gezond gemaakt heb?"
+        },
+        {
+          "nr": 24,
+          "tekst": "Oordeelt niet naar het aanzien, maar oordeelt met een rechtvaardig oordeel."
+        },
+        {
+          "nr": 25,
+          "tekst": "Sommigen dan uit de Jeruzalemmers zeiden: Is deze het niet, die zij trachten te doden?"
+        },
+        {
+          "nr": 26,
+          "tekst": "En zie, Hij spreekt vrijuit en zij zeggen Hem niets. Zouden waarlijk onze oversten hebben ingezien, dat deze de Christus is?"
+        },
+        {
+          "nr": 27,
+          "tekst": "Van deze echter weten wij, vanwaar Hij is, doch wanneer de Christus komt, weet niemand, vanwaar Hij is."
+        },
+        {
+          "nr": 28,
+          "tekst": "Jezus dan riep, terwijl Hij in de tempel leerde, en sprak: Mij kent gij en gij weet, vanwaar Ik ben; en Ik ben niet van Mijzelf gekomen, maar er is een Waarachtige, die Mij gezonden heeft en die gij niet kent."
+        },
+        {
+          "nr": 29,
+          "tekst": "Ik ken Hem, want Ik kom van Hem en Hij heeft Mij gezonden."
+        },
+        {
+          "nr": 30,
+          "tekst": "Zij trachtten Hem dan te grijpen, maar niemand sloeg de hand aan Hem, want zijn ure was nog niet gekomen."
+        },
+        {
+          "nr": 31,
+          "tekst": "En uit de schare kwamen velen tot geloof in Hem en zij zeiden: Zal de Christus, wanneer Hij komt, soms meer tekenen doen dan deze gedaan heeft?"
+        },
+        {
+          "nr": 32,
+          "tekst": "De Farizeeën hoorden de schare dit over Hem mompelen en de overpriesters en de Farizeeën zonden dienaars om Hem te grijpen."
+        },
+        {
+          "nr": 33,
+          "tekst": "Jezus dan zeide: Nog korte tijd ben Ik bij u en dan ga Ik heen tot Hem, die Mij gezonden heeft."
+        },
+        {
+          "nr": 34,
+          "tekst": "Gij zult Mij zoeken en niet vinden en waar Ik ben, kunt gij niet komen."
+        },
+        {
+          "nr": 35,
+          "tekst": "De Joden dan zeiden tot elkander: Waar zal deze heengaan, dat wij Hem niet zullen kunnen vinden? Hij is toch niet van plan naar de Griekse verstrooiing te gaan en de Grieken te leren?"
+        },
+        {
+          "nr": 36,
+          "tekst": "Wat is dit voor een woord, dat Hij gesproken heeft: Gij zult Mij zoeken en niet vinden, en: Waar Ik ben, kunt gij niet komen?"
+        },
+        {
+          "nr": 37,
+          "tekst": "En op de laatste, de grote dag van het feest, stond Jezus en riep, zeggende: Indien iemand dorst heeft, hij kome tot Mij en drinke!"
+        },
+        {
+          "nr": 38,
+          "tekst": "Wie in Mij gelooft, gelijk de Schrift zegt, stromen van levend water zullen uit zijn binnenste vloeien."
+        },
+        {
+          "nr": 39,
+          "tekst": "Dit zeide Hij van de Geest, welke zij, die tot geloof in Hem kwamen, ontvangen zouden; want de Geest was er nog niet, omdat Jezus nog niet verheerlijkt was."
+        },
+        {
+          "nr": 40,
+          "tekst": "Sommigen dan uit de schare, die naar deze woorden geluisterd hadden, spraken: Deze is waarlijk de profeet."
+        },
+        {
+          "nr": 41,
+          "tekst": "Anderen zeiden: Deze is de Christus; weer anderen zeiden: De Christus komt toch niet uit Galilea?"
+        },
+        {
+          "nr": 42,
+          "tekst": "Zegt de Schrift niet, dat de Christus komt uit het geslacht van David en van het dorp Betlehem, waar David was?"
+        },
+        {
+          "nr": 43,
+          "tekst": "Er ontstond dan verdeeldheid bij de schare om Hem;"
+        },
+        {
+          "nr": 44,
+          "tekst": "en sommigen van hen wilden Hem grijpen, maar niemand sloeg de handen aan Hem."
+        },
+        {
+          "nr": 45,
+          "tekst": "De dienaars dan gingen naar de overpriesters en Farizeeën en die zeiden tot hen: Waarom hebt gij Hem niet medegebracht?"
+        },
+        {
+          "nr": 46,
+          "tekst": "De dienaars nu antwoordden hun: Nooit heeft een mens zó gesproken, als deze mens spreekt!"
+        },
+        {
+          "nr": 47,
+          "tekst": "De Farizeeën dan antwoordden hun: Zijt gij soms ook verleid?"
+        },
+        {
+          "nr": 48,
+          "tekst": "Heeft soms één van de oversten in Hem geloofd, of van de Farizeeën?"
+        },
+        {
+          "nr": 49,
+          "tekst": "Maar die schare, die de wet niet kent, vervloekt zijn zij!"
+        },
+        {
+          "nr": 50,
+          "tekst": "Nikodemus, die vroeger tot Hem was gekomen, een van hen, zeide tot hen:"
+        },
+        {
+          "nr": 51,
+          "tekst": "Veroordeelt onze wet dan een mens, tenzij men zich eerst van hem op de hoogte gesteld heeft en kennis genomen van wat hij doet?"
+        },
+        {
+          "nr": 52,
+          "tekst": "Zij antwoordden en zeiden tot hem: Zijt gij soms ook uit Galilea? Ga maar na en zie, dat uit Galilea geen profeet opstaat."
+        },
+        {
+          "nr": 53,
+          "tekst": "[En zij begaven zich een ieder naar zijn huis,"
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "maar Jezus begaf Zich naar de Olijfberg."
+        },
+        {
+          "nr": 2,
+          "tekst": "En des morgens vroeg was Hij weder aanwezig in de tempel, en al het volk kwam tot Hem en Hij zette Zich neder en leerde hen."
+        },
+        {
+          "nr": 3,
+          "tekst": "En de schriftgeleerden en de Farizeeën brachten een vrouw, op overspel betrapt, en zij stelden haar in het midden en zeiden tot Hem:"
+        },
+        {
+          "nr": 4,
+          "tekst": "Meester, deze vrouw is op heterdaad betrapt bij het plegen van overspel;"
+        },
+        {
+          "nr": 5,
+          "tekst": "en in de wet heeft Mozes ons bevolen zulken te stenigen; Gij dan, wat zegt Gij?"
+        },
+        {
+          "nr": 6,
+          "tekst": "En dit zeiden zij om Hem in verzoeking te brengen, opdat zij iets hadden om Hem aan te klagen. Maar Jezus bukte neder en schreef met de vinger op de grond."
+        },
+        {
+          "nr": 7,
+          "tekst": "Doch toen zij Hem bleven vragen, richtte Hij Zich op en zeide tot hen: Wie van u zonder zonde is, werpe het eerst een steen naar haar."
+        },
+        {
+          "nr": 8,
+          "tekst": "En weer bukte Hij neder en schreef op de grond."
+        },
+        {
+          "nr": 9,
+          "tekst": "Maar toen zij dit hoorden, gingen zij één voor één weg, te beginnen bij de oudsten, en zij lieten Jezus alleen en de vrouw in het midden."
+        },
+        {
+          "nr": 10,
+          "tekst": "En Jezus richtte Zich op en zeide tot haar: Vrouw, waar zijn zij? Heeft niemand u veroordeeld?"
+        },
+        {
+          "nr": 11,
+          "tekst": "En zij zeide: Niemand, Here. En Jezus zeide: Ook Ik veroordeel u niet. Ga heen, zondig van nu af niet meer!]"
+        },
+        {
+          "nr": 12,
+          "tekst": "Wederom dan sprak Jezus tot hen en zeide: Ik ben het licht der wereld; wie Mij volgt, zal nimmer in de duisternis wandelen, maar hij zal het licht des levens hebben."
+        },
+        {
+          "nr": 13,
+          "tekst": "De Farizeeën dan zeiden tot Hem: Gij getuigt van Uzelf, uw getuigenis is niet waar."
+        },
+        {
+          "nr": 14,
+          "tekst": "Jezus antwoordde en zeide tot hen: Ook al getuig Ik van Mijzelf, toch is mijn getuigenis waar, want Ik weet, vanwaar Ik gekomen ben en waar Ik heenga; maar gij weet niet, vanwaar Ik kom of waar Ik heenga."
+        },
+        {
+          "nr": 15,
+          "tekst": "Gij oordeelt naar het vlees, Ik oordeel niemand,"
+        },
+        {
+          "nr": 16,
+          "tekst": "en indien Ik al oordeel, dan is mijn oordeel waarachtig, want Ik ben niet alleen, maar Ik en die Mij gezonden heeft."
+        },
+        {
+          "nr": 17,
+          "tekst": "En ook in uw wet staat geschreven, dat het getuigenis van twee mensen waar is;"
+        },
+        {
+          "nr": 18,
+          "tekst": "Ik ben het, die van Mijzelf getuig, en ook de Vader, die Mij gezonden heeft, getuigt van Mij."
+        },
+        {
+          "nr": 19,
+          "tekst": "Zij dan zeiden tot Hem: Waar is uw Vader? Jezus antwoordde: Noch Mij, noch mijn Vader kent gij: Indien gij Mij kendet, zoudt gij ook mijn Vader kennen."
+        },
+        {
+          "nr": 20,
+          "tekst": "Deze woorden sprak Jezus bij de schatkamer, lerende in de tempel; en niemand greep Hem, want zijn ure was nog niet gekomen."
+        },
+        {
+          "nr": 21,
+          "tekst": "Hij zeide dan wederom tot hen: Ik ga heen en gij zult Mij zoeken en in uw zonde zult gij sterven; waar Ik heenga, kunt gij niet komen."
+        },
+        {
+          "nr": 22,
+          "tekst": "De Joden dan zeiden: Hij zal toch geen zelfmoord plegen, dat Hij zegt: waar Ik heenga, kunt gij niet komen?"
+        },
+        {
+          "nr": 23,
+          "tekst": "En Hij zeide tot hen: Gij zijt van beneden, Ik ben van boven; gij zijt van deze wereld, Ik ben niet van deze wereld."
+        },
+        {
+          "nr": 24,
+          "tekst": "Ik heb u dan gezegd, dat gij in uw zonden zult sterven; want indien gij niet gelooft, dat Ik het ben, zult gij in uw zonden sterven."
+        },
+        {
+          "nr": 25,
+          "tekst": "Zij dan zeiden tot Hem: Wie zijt Gij? Jezus zeide tot hen: Wat spreek Ik eigenlijk nog met u?"
+        },
+        {
+          "nr": 26,
+          "tekst": "Ik heb veel over u te zeggen en te oordelen; maar die Mij gezonden heeft, is waar, en wat Ik van Hem gehoord heb, dat spreek Ik tot de wereld."
+        },
+        {
+          "nr": 27,
+          "tekst": "Zij hadden niet begrepen, dat Hij tot hen van de Vader sprak."
+        },
+        {
+          "nr": 28,
+          "tekst": "Jezus dan zeide: Wanneer gij de Zoon des mensen verhoogd hebt, zult gij inzien, dat Ik het ben en niets uit Mijzelf doe, doch dat Ik dit spreek, gelijk de Vader Mij geleerd heeft."
+        },
+        {
+          "nr": 29,
+          "tekst": "En die Mij gezonden heeft, is met Mij. Hij heeft Mij niet alleen gelaten, want Ik doe altijd wat Hem behaagt."
+        },
+        {
+          "nr": 30,
+          "tekst": "Toen Hij dit sprak, geloofden velen in Hem."
+        },
+        {
+          "nr": 31,
+          "tekst": "Jezus dan zeide tot de Joden, die in Hem geloofden: Als gij in mijn woord blijft, zijt gij waarlijk discipelen van Mij"
+        },
+        {
+          "nr": 32,
+          "tekst": "en gij zult de waarheid verstaan, en de waarheid zal u vrijmaken."
+        },
+        {
+          "nr": 33,
+          "tekst": "Zij antwoordden Hem: Wij zijn Abrahams nageslacht en zijn nooit iemands slaven geweest; hoe zegt Gij dan: gij zult vrij worden?"
+        },
+        {
+          "nr": 34,
+          "tekst": "Jezus antwoordde hun: Voorwaar, voorwaar, Ik zeg u, een ieder, die de zonde doet, is een slaaf der zonde."
+        },
+        {
+          "nr": 35,
+          "tekst": "En de slaaf blijft niet eeuwig in het huis, de zoon blijft er eeuwig."
+        },
+        {
+          "nr": 36,
+          "tekst": "Wanneer dan de Zoon u vrijgemaakt heeft, zult gij werkelijk vrij zijn."
+        },
+        {
+          "nr": 37,
+          "tekst": "Ik weet, dat gij Abrahams nageslacht zijt; maar gij tracht Mij te doden, omdat mijn woord bij u geen plaats vindt."
+        },
+        {
+          "nr": 38,
+          "tekst": "Wat Ik gezien heb bij de Vader, spreek Ik; zo doet ook gij, wat gij van uw vader gehoord hebt."
+        },
+        {
+          "nr": 39,
+          "tekst": "Zij antwoordden en zeiden tot Hem: Onze vader is Abraham. Jezus zeide tot hen: Indien gij kinderen van Abraham zijt, doet dan de werken van Abraham;"
+        },
+        {
+          "nr": 40,
+          "tekst": "maar nu tracht gij Mij te doden, een mens, die u de waarheid gezegd heeft, welke Ik van God gehoord heb; dit deed Abraham niet."
+        },
+        {
+          "nr": 41,
+          "tekst": "Gij doet de werken van uw vader. Zij zeiden tot Hem: Wij zijn niet uit hoererij geboren, wij hebben één Vader, God."
+        },
+        {
+          "nr": 42,
+          "tekst": "Jezus zeide tot hen: Indien God uw Vader was, zoudt gij Mij liefhebben, want Ik ben van God uitgegaan en gekomen; want Ik ben niet van Mijzelf gekomen, maar Hij heeft Mij gezonden."
+        },
+        {
+          "nr": 43,
+          "tekst": "Waarom begrijpt gij niet wat Ik zeg? Omdat gij mijn woord niet kunt horen."
+        },
+        {
+          "nr": 44,
+          "tekst": "Gij hebt de duivel tot vader en wilt de begeerten van uw vader doen. Die was een mensenmoorder van den beginne en staat niet in de waarheid, want er is in hem geen waarheid. Wanneer hij de leugen spreekt, spreekt hij naar zijn aard, want hij is een leugenaar en de vader der leugen."
+        },
+        {
+          "nr": 45,
+          "tekst": "Maar omdat Ik u de waarheid zeg – Mij gelooft gij niet."
+        },
+        {
+          "nr": 46,
+          "tekst": "Wie van u overtuigt Mij van zonde? Als Ik waarheid spreek, waarom gelooft gij Mij niet?"
+        },
+        {
+          "nr": 47,
+          "tekst": "Wie uit God is, hoort de woorden Gods; daarom hoort gij niet, omdat gij uit God niet zijt."
+        },
+        {
+          "nr": 48,
+          "tekst": "De Joden antwoordden en zeiden tot Hem: Zeggen wij niet terecht, dat Gij een Samaritaan zijt en bezeten zijt?"
+        },
+        {
+          "nr": 49,
+          "tekst": "Jezus antwoordde: Ik ben niet bezeten, maar Ik eer mijn Vader, en gij onteert Mij."
+        },
+        {
+          "nr": 50,
+          "tekst": "Maar Ik zoek niet mijn eer; Eén is er, die haar zoekt en die oordeelt."
+        },
+        {
+          "nr": 51,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u, indien iemand mijn woord bewaard heeft, hij zal de dood in eeuwigheid niet aanschouwen."
+        },
+        {
+          "nr": 52,
+          "tekst": "De Joden zeiden tot Hem: Nu weten wij, dat Gij bezeten zijt. Abraham is gestorven en ook de profeten, en Gij zegt: indien iemand mijn woord bewaard heeft, zal hij de dood in eeuwigheid niet smaken."
+        },
+        {
+          "nr": 53,
+          "tekst": "Gij zijt toch niet meer dan onze vader Abraham, die gestorven is? Ook de profeten zijn gestorven; voor wie houdt Gij Uzelf?"
+        },
+        {
+          "nr": 54,
+          "tekst": "Jezus antwoordde: Als Ik Mijzelf eer, betekent mijn eer niets; mijn Vader is het, die Mij eert, van wie gij zegt: Hij is onze God,"
+        },
+        {
+          "nr": 55,
+          "tekst": "en gij kent Hem niet, maar Ik ken Hem. En indien Ik zeide: Ik ken Hem niet, dan zou Ik u gelijk zijn, een leugenaar; doch Ik ken Hem en zijn woord bewaar Ik."
+        },
+        {
+          "nr": 56,
+          "tekst": "Uw vader Abraham heeft zich erop verheugd mijn dag te zien en hij heeft die gezien en zich verblijd."
+        },
+        {
+          "nr": 57,
+          "tekst": "De Joden dan zeiden tot Hem: Gij zijt nog geen vijftig jaar en hebt Gij Abraham gezien?"
+        },
+        {
+          "nr": 58,
+          "tekst": "Jezus zeide tot hen: Voorwaar, voorwaar, Ik zeg u: Eer Abraham was, ben Ik."
+        },
+        {
+          "nr": 59,
+          "tekst": "Zij namen dan stenen op om naar Hem te werpen; maar Jezus verborg Zich en verliet de tempel."
+        }
+      ]
+    },
+    {
+      "nr": 9,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "En voorbijgaande zag Hij een man, die sedert zijn geboorte blind was."
+        },
+        {
+          "nr": 2,
+          "tekst": "En zijn discipelen vroegen Hem en zeiden: Rabbi, wie heeft gezondigd, deze of zijn ouders, dat hij blind geboren is?"
+        },
+        {
+          "nr": 3,
+          "tekst": "Jezus antwoordde: Noch deze heeft gezondigd noch zijn ouders, maar de werken Gods moesten in hem openbaar worden."
+        },
+        {
+          "nr": 4,
+          "tekst": "Wij moeten werken de werken desgenen, die Mij gezonden heeft, zolang het dag is; er komt een nacht, waarin niemand werken kan."
+        },
+        {
+          "nr": 5,
+          "tekst": "Zolang Ik in de wereld ben, ben Ik het licht der wereld."
+        },
+        {
+          "nr": 6,
+          "tekst": "Na dit gezegd te hebben, spuwde Hij op de grond en maakte slijk van dit speeksel en Hij legde hem het slijk op de ogen,"
+        },
+        {
+          "nr": 7,
+          "tekst": "en zeide tot hem: Ga heen, was u in het badwater Siloam, hetgeen vertaald wordt door: uitgezonden. Hij dan ging heen, wies zich en kwam ziende terug."
+        },
+        {
+          "nr": 8,
+          "tekst": "De buren dan en zij, die hem vroeger als bedelaar gekend hadden, zeiden: Is hij dat niet, die zat te bedelen?"
+        },
+        {
+          "nr": 9,
+          "tekst": "Sommigen zeiden: Hij is het; anderen zeiden: Neen, maar hij gelijkt op hem. Hij zeide: Ik ben het."
+        },
+        {
+          "nr": 10,
+          "tekst": "Zij dan zeiden tot hem: Hoe zijn [dan] uw ogen geopend?"
+        },
+        {
+          "nr": 11,
+          "tekst": "Hij antwoordde: De mens, die Jezus genoemd wordt, maakte slijk, streek het op mijn ogen en zeide tot mij: Ga heen naar Siloam en was u. Ik ging dan heen en toen ik mij gewassen had, werd ik ziende."
+        },
+        {
+          "nr": 12,
+          "tekst": "En zij zeiden tot hem: Waar is Hij? Hij zeide: Ik weet het niet."
+        },
+        {
+          "nr": 13,
+          "tekst": "Zij brachten hem, die vroeger blind geweest was, naar de Farizeeën."
+        },
+        {
+          "nr": 14,
+          "tekst": "Nu was het sabbat op de dag, dat Jezus het slijk maakte en zijn ogen opende."
+        },
+        {
+          "nr": 15,
+          "tekst": "Opnieuw vroegen hem ook de Farizeeën, hoe hij ziende was geworden. En hij zeide tot hen: Hij legde slijk op mijn ogen, ik wies mij, en nu kan ik zien."
+        },
+        {
+          "nr": 16,
+          "tekst": "Sommige dan van de Farizeeën zeiden: Deze mens komt niet van God, want Hij houdt de sabbat niet. Anderen zeiden: Hoe kan een zondig mens zulke tekenen doen? En er was verdeeldheid onder hen."
+        },
+        {
+          "nr": 17,
+          "tekst": "Zij dan zeiden nog eens tot de blinde: Wat zegt gij van Hem, daar Hij uw ogen geopend heeft? En hij zeide: Hij is een profeet."
+        },
+        {
+          "nr": 18,
+          "tekst": "De Joden dan geloofden niet van hem, dat hij blind geweest en ziende geworden was, totdat zij de ouders geroepen hadden van hem, die ziende was geworden,"
+        },
+        {
+          "nr": 19,
+          "tekst": "en zij vroegen hun en zeiden: Is dit uw zoon, van wie gij zegt, dat hij blind geboren is? Hoe kan hij dan nu zien?"
+        },
+        {
+          "nr": 20,
+          "tekst": "Zijn ouders antwoordden en zeiden: Wij weten, dat dit onze zoon is, en dat hij blind geboren is;"
+        },
+        {
+          "nr": 21,
+          "tekst": "maar hoe hij nu zien kan, weten wij niet, en wie zijn ogen geopend heeft, wij weten het niet; vraagt het hemzelf, hij heeft zijn leeftijd, hij zal voor zichzelf spreken."
+        },
+        {
+          "nr": 22,
+          "tekst": "Dit zeiden zijn ouders, omdat zij bang waren voor de Joden, want de Joden waren reeds overeengekomen, dat, indien iemand mocht belijden, dat Hij de Christus was, hij uit de synagoge zou worden gebannen."
+        },
+        {
+          "nr": 23,
+          "tekst": "Daarom zeiden zijn ouders: Hij heeft zijn leeftijd, vraagt het hemzelf."
+        },
+        {
+          "nr": 24,
+          "tekst": "Zij riepen dan ten tweeden male de man, die blind geweest was, en zeiden tot hem: Geef Gode de eer; wij weten, dat deze mens een zondaar is."
+        },
+        {
+          "nr": 25,
+          "tekst": "Hij dan antwoordde: Of Hij een zondaar is, weet ik niet; één ding weet ik, dat ik, die blind was, nu zien kan."
+        },
+        {
+          "nr": 26,
+          "tekst": "Zij dan zeiden tot hem: Wat heeft Hij aan u gedaan? Hoe heeft Hij uw ogen geopend?"
+        },
+        {
+          "nr": 27,
+          "tekst": "Hij antwoordde hun: Ik heb het u al gezegd, en gij hebt er niet naar gehoord; waarom wilt gij het opnieuw horen? Wilt gij soms ook discipelen van Hem worden?"
+        },
+        {
+          "nr": 28,
+          "tekst": "En zij scholden hem uit en zeiden: Gij zijt een discipel van Hem, maar wij zijn discipelen van Mozes;"
+        },
+        {
+          "nr": 29,
+          "tekst": "wij weten, dat God tot Mozes gesproken heeft, maar van deze weten wij niet, vanwaar Hij komt."
+        },
+        {
+          "nr": 30,
+          "tekst": "De man antwoordde en zeide tot hen: Hierin is toch iets wonderlijks, dat gij niet weet, vanwaar Hij komt, maar mijn ogen heeft Hij geopend."
+        },
+        {
+          "nr": 31,
+          "tekst": "Wij weten, dat God naar zondaars niet hoort, maar is iemand godvruchtig, en doet hij zijn wil, die verhoort Hij."
+        },
+        {
+          "nr": 32,
+          "tekst": "Van eeuwigheid is het niet gehoord, dat iemand de ogen van een blindgeborene geopend heeft."
+        },
+        {
+          "nr": 33,
+          "tekst": "Als deze niet van God was gekomen, Hij had niets kunnen doen."
+        },
+        {
+          "nr": 34,
+          "tekst": "Zij antwoordden en zeiden tot hem: Gij zijt geheel in zonden geboren en wilt gij ons leren? En zij wierpen hem uit."
+        },
+        {
+          "nr": 35,
+          "tekst": "Jezus hoorde, dat zij hem uitgeworpen hadden, en Hij zeide, toen Hij hem aantrof: Gelooft gij in de Zoon des mensen?"
+        },
+        {
+          "nr": 36,
+          "tekst": "Hij antwoordde en zeide: En wie is Hij, Here, dat ik in Hem moge geloven?"
+        },
+        {
+          "nr": 37,
+          "tekst": "Jezus zeide tot hem: Gij hebt Hem niet slechts gezien, maar die met u spreekt, die is het."
+        },
+        {
+          "nr": 38,
+          "tekst": "Hij zeide: Ik geloof, Here, en hij wierp zich voor Hem neder."
+        },
+        {
+          "nr": 39,
+          "tekst": "En Jezus zeide: Tot een oordeel ben Ik in deze wereld gekomen, opdat wie niet zien, zien mogen, en wie zien, blind worden."
+        },
+        {
+          "nr": 40,
+          "tekst": "Dit hoorden sommigen uit de Farizeeën, die bij Hem waren, en zij zeiden tot Hem: Zijn wij soms ook blind?"
+        },
+        {
+          "nr": 41,
+          "tekst": "Jezus zeide tot hen: Indien gij blind waart, zoudt gij geen zonde hebben; maar nu zegt gij: Wij zien; daarom blijft uw zonde."
+        }
+      ]
+    },
+    {
+      "nr": 10,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u, wie niet door de deur de schaapskooi binnenkomt, maar op een andere plaats inklimt, die is een dief en een rover;"
+        },
+        {
+          "nr": 2,
+          "tekst": "maar wie door de deur binnenkomt, is de herder der schapen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Voor hem doet de deurwachter open en de schapen horen naar zijn stem en hij roept zijn eigen schapen bij name en voert ze naar buiten."
+        },
+        {
+          "nr": 4,
+          "tekst": "Wanneer hij zijn eigen schapen alle naar buiten gebracht heeft, gaat hij voor ze uit en de schapen volgen hem, omdat zij zijn stem kennen;"
+        },
+        {
+          "nr": 5,
+          "tekst": "maar een vreemde zullen zij voorzeker niet volgen, doch zij zullen van hem weglopen, omdat zij de stem der vreemden niet kennen."
+        },
+        {
+          "nr": 6,
+          "tekst": "In dit beeld sprak Jezus tot hen, maar zij begrepen niet, wat het was, dat Hij tot hen sprak."
+        },
+        {
+          "nr": 7,
+          "tekst": "Jezus zeide dan nogmaals: Voorwaar, voorwaar, Ik zeg u: Ik ben de deur der schapen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Allen, die vóór Mij gekomen zijn, zijn dieven en rovers, maar de schapen hebben naar hen niet gehoord."
+        },
+        {
+          "nr": 9,
+          "tekst": "Ik ben de deur; als iemand door Mij binnenkomt, zal hij behouden worden; en hij zal ingaan en uitgaan en weide vinden."
+        },
+        {
+          "nr": 10,
+          "tekst": "De dief komt niet dan om te stelen en te slachten en te verdelgen; Ik ben gekomen, opdat zij leven hebben en overvloed."
+        },
+        {
+          "nr": 11,
+          "tekst": "Ik ben de goede herder. De goede herder zet zijn leven in voor zijn schapen;"
+        },
+        {
+          "nr": 12,
+          "tekst": "maar wie huurling is en geen herder, wie de schapen niet toebehoren, ziet de wolf aankomen, laat de schapen in de steek en vlucht – en de wolf rooft ze en jaagt ze uiteen –"
+        },
+        {
+          "nr": 13,
+          "tekst": "want hij is een huurling en de schapen gaan hem niet ter harte."
+        },
+        {
+          "nr": 14,
+          "tekst": "Ik ben de goede herder en Ik ken de mijne en de mijne kennen Mij,"
+        },
+        {
+          "nr": 15,
+          "tekst": "gelijk Mij de Vader kent en Ik de Vader ken, en Ik zet mijn leven in voor de schapen."
+        },
+        {
+          "nr": 16,
+          "tekst": "Nog andere schapen heb Ik, die niet van deze stal zijn; ook die moet Ik leiden en zij zullen naar mijn stem horen en het zal worden één kudde, één herder."
+        },
+        {
+          "nr": 17,
+          "tekst": "Hierom heeft Mij de Vader lief, omdat Ik mijn leven afleg om het weder te nemen."
+        },
+        {
+          "nr": 18,
+          "tekst": "Niemand ontneemt het Mij, maar Ik leg het uit Mijzelf af. Ik heb macht het af te leggen en macht het weder te nemen; dit gebod heb Ik van mijn Vader ontvangen."
+        },
+        {
+          "nr": 19,
+          "tekst": "Er ontstond opnieuw verdeeldheid onder de Joden om die woorden."
+        },
+        {
+          "nr": 20,
+          "tekst": "En velen van hen zeiden: Hij is bezeten en waanzinnig; waarom luistert gij naar Hem?"
+        },
+        {
+          "nr": 21,
+          "tekst": "Anderen zeiden: Dit zijn geen woorden voor een bezetene, een boze geest kan toch de ogen van blinden niet openen?"
+        },
+        {
+          "nr": 22,
+          "tekst": "Toen kwam het Vernieuwingsfeest te Jeruzalem; het was winter."
+        },
+        {
+          "nr": 23,
+          "tekst": "En Jezus wandelde in de tempel, in de zuilengang van Salomo."
+        },
+        {
+          "nr": 24,
+          "tekst": "De Joden dan omringden Hem en zeiden tot Hem: Hoelang houdt Gij onze ziel nog in spanning? Indien Gij de Christus zijt, zeg het ons ronduit."
+        },
+        {
+          "nr": 25,
+          "tekst": "Jezus antwoordde hun: Ik heb het u gezegd en gij gelooft het niet; de werken, die Ik doe in de naam mijns Vaders, die getuigen van Mij;"
+        },
+        {
+          "nr": 26,
+          "tekst": "maar gij gelooft niet, omdat gij niet tot mijn schapen behoort."
+        },
+        {
+          "nr": 27,
+          "tekst": "Mijn schapen horen naar mijn stem en Ik ken ze en zij volgen Mij,"
+        },
+        {
+          "nr": 28,
+          "tekst": "en Ik geef hun eeuwig leven en zij zullen voorzeker niet verloren gaan in eeuwigheid en niemand zal ze uit mijn hand roven."
+        },
+        {
+          "nr": 29,
+          "tekst": "Wat mijn Vader Mij gegeven heeft, gaat alles te boven en niemand kan iets roven uit de hand mijns Vaders."
+        },
+        {
+          "nr": 30,
+          "tekst": "Ik en de Vader zijn één."
+        },
+        {
+          "nr": 31,
+          "tekst": "De Joden droegen weder stenen aan om Hem te stenigen."
+        },
+        {
+          "nr": 32,
+          "tekst": "Jezus antwoordde hun: Ik heb u vele goede werken doen zien vanwege mijn Vader; om welk van die werken wilt gij Mij stenigen?"
+        },
+        {
+          "nr": 33,
+          "tekst": "De Joden antwoordden Hem: Niet om een goed werk willen wij U stenigen, maar om godslastering en omdat Gij, een mens, Uzelf God maakt."
+        },
+        {
+          "nr": 34,
+          "tekst": "Jezus antwoordde hun: Is er niet geschreven in uw wet: Ik heb gezegd: Gij zijt goden?"
+        },
+        {
+          "nr": 35,
+          "tekst": "Als Hij hén goden genoemd heeft, tot wie het woord Gods gekomen is, en de Schrift niet kan gebroken worden,"
+        },
+        {
+          "nr": 36,
+          "tekst": "zegt gij dan tot Hem, die de Vader geheiligd en in de wereld gezonden heeft: Gij lastert, omdat Ik heb gezegd: Ik ben Gods Zoon?"
+        },
+        {
+          "nr": 37,
+          "tekst": "Indien Ik de werken mijns Vaders niet doe, gelooft Mij niet,"
+        },
+        {
+          "nr": 38,
+          "tekst": "doch indien Ik ze doe en gij Mij toch niet gelooft, gelooft dan de werken, opdat gij weten en erkennen moogt, dat de Vader in Mij is en Ik in de Vader."
+        },
+        {
+          "nr": 39,
+          "tekst": "Zij trachtten Hem dan weder te grijpen, maar Hij ontkwam uit hun handen."
+        },
+        {
+          "nr": 40,
+          "tekst": "En Hij vertrok weer naar de overzijde van de Jordaan, naar de plaats, waar Johannes de eerste maal doopte, en Hij bleef daar."
+        },
+        {
+          "nr": 41,
+          "tekst": "En velen kwamen tot Hem en zeiden: Johannes deed wel geen enkel teken, maar al wat Johannes van deze zeide, was waar."
+        },
+        {
+          "nr": 42,
+          "tekst": "En velen daar geloofden in Hem."
+        }
+      ]
+    },
+    {
+      "nr": 11,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Er was iemand ziek, Lazarus van Betanië, het dorp van Maria en haar zuster Marta."
+        },
+        {
+          "nr": 2,
+          "tekst": "Maria was het, die de Here gezalfd had met mirre en zijn voeten met haar haren had afgedroogd. En haar broeder Lazarus was ziek."
+        },
+        {
+          "nr": 3,
+          "tekst": "De zusters dan zonden Hem bericht: Here, zie, die Gij liefhebt, is ziek."
+        },
+        {
+          "nr": 4,
+          "tekst": "Toen Jezus het hoorde, zeide Hij: Deze ziekte is niet ten dode, maar ter ere Gods, opdat de Zoon van God erdoor verheerlijkt worde."
+        },
+        {
+          "nr": 5,
+          "tekst": "Jezus nu had Marta en haar zuster en Lazarus lief."
+        },
+        {
+          "nr": 6,
+          "tekst": "Toen Hij dan hoorde, dat hij ziek was, bleef Hij daarop nog twee dagen ter plaatse, waar Hij was;"
+        },
+        {
+          "nr": 7,
+          "tekst": "daarna echter zeide Hij tot zijn discipelen: Laten wij weder naar Judea gaan."
+        },
+        {
+          "nr": 8,
+          "tekst": "De discipelen zeiden tot Hem: Rabbi, onlangs trachtten de Joden U te stenigen en gaat Gij weder daarheen?"
+        },
+        {
+          "nr": 9,
+          "tekst": "Jezus antwoordde: Gaan er geen twaalf uren in een dag? Als iemand overdag loopt, stoot hij zich niet, omdat hij het licht van deze wereld kan zien;"
+        },
+        {
+          "nr": 10,
+          "tekst": "maar wanneer iemand bij nacht loopt, stoot hij zich, omdat het licht niet in hem is."
+        },
+        {
+          "nr": 11,
+          "tekst": "Zo sprak Hij en daarna zeide Hij tot hen: Lazarus, onze vriend, is ingeslapen, maar Ik ga daarheen om hem uit de slaap te wekken."
+        },
+        {
+          "nr": 12,
+          "tekst": "De discipelen zeiden dan tot Hem: Here, als hij slaapt, zal hij herstellen."
+        },
+        {
+          "nr": 13,
+          "tekst": "Doch Jezus had het bedoeld van zijn dood; zij echter meenden, dat Hij het van de rust van de slaap bedoelde."
+        },
+        {
+          "nr": 14,
+          "tekst": "Toen zeide Jezus ronduit tot hen: Lazarus is gestorven,"
+        },
+        {
+          "nr": 15,
+          "tekst": "en het verblijdt Mij om u, dat Ik daar niet geweest ben, opdat gij tot geloof komt; maar laten wij tot hem gaan."
+        },
+        {
+          "nr": 16,
+          "tekst": "Tomas dan, genaamd Didymus, zeide tot zijn medediscipelen: Laten wij ook gaan om met Hem te sterven."
+        },
+        {
+          "nr": 17,
+          "tekst": "Toen Jezus dan aankwam, bevond Hij, dat hij reeds vier dagen in het graf lag."
+        },
+        {
+          "nr": 18,
+          "tekst": "Betanië nu was dicht bij Jeruzalem gelegen, op een afstand van ongeveer vijftien stadiën."
+        },
+        {
+          "nr": 19,
+          "tekst": "Velen uit de Joden waren tot Marta en Maria gekomen om haar te troosten over haar broeder."
+        },
+        {
+          "nr": 20,
+          "tekst": "Toen nu Marta hoorde, dat Jezus kwam, ging zij Hem tegemoet, doch Maria bleef in huis zitten."
+        },
+        {
+          "nr": 21,
+          "tekst": "Marta dan zeide tot Jezus: Here, indien Gij hier geweest waart, zou mijn broeder niet gestorven zijn."
+        },
+        {
+          "nr": 22,
+          "tekst": "Ook nu weet ik, dat God U geven zal al wat Gij van God begeert."
+        },
+        {
+          "nr": 23,
+          "tekst": "Jezus zeide tot haar: Uw broeder zal opstaan."
+        },
+        {
+          "nr": 24,
+          "tekst": "Marta zeide tot Hem: Ik weet, dat hij zal opstaan bij de opstanding ten jongsten dage."
+        },
+        {
+          "nr": 25,
+          "tekst": "Jezus zeide tot haar: Ik ben de opstanding en het leven; wie in Mij gelooft, zal leven, ook al is hij gestorven,"
+        },
+        {
+          "nr": 26,
+          "tekst": "en een ieder, die leeft en in Mij gelooft, zal in eeuwigheid niet sterven; gelooft gij dat?"
+        },
+        {
+          "nr": 27,
+          "tekst": "Zij zeide tot Hem: Ja, Here, ik heb geloofd, dat Gij zijt de Christus, de Zoon van God, die in de wereld komen zou."
+        },
+        {
+          "nr": 28,
+          "tekst": "En na deze woorden ging zij heen en riep haar zuster Maria in stilte en zeide: Daar is de Meester en Hij roept u."
+        },
+        {
+          "nr": 29,
+          "tekst": "En toen zij dat hoorde, stond zij ijlings op en ging tot Hem;"
+        },
+        {
+          "nr": 30,
+          "tekst": "Jezus echter was nog niet in het dorp gekomen, maar bevond Zich nog op de plaats, waar Marta Hem ontmoet had."
+        },
+        {
+          "nr": 31,
+          "tekst": "De Joden dan, die met haar in het huis waren en haar troostten, zagen Maria ijlings opstaan en naar buiten gaan en zij volgden haar, vermoedende, dat zij naar het graf ging om daar te wenen."
+        },
+        {
+          "nr": 32,
+          "tekst": "Toen Maria dan kwam, waar Jezus was en Hem zag, viel zij Hem te voet en zeide tot Hem: Here, indien Gij hier geweest waart, zou mijn broeder niet gestorven zijn."
+        },
+        {
+          "nr": 33,
+          "tekst": "Toen Jezus haar dan zag wenen en ook de Joden, die met haar medegekomen waren, zag wenen, werd Hij verbolgen in de geest en diep ontroerd,"
+        },
+        {
+          "nr": 34,
+          "tekst": "en Hij zeide: Waar hebt gij hem gelegd? Zij zeiden tot Hem: Here, kom en zie."
+        },
+        {
+          "nr": 35,
+          "tekst": "Jezus weende."
+        },
+        {
+          "nr": 36,
+          "tekst": "De Joden dan zeiden: Zie, hoe lief Hij hem had!"
+        },
+        {
+          "nr": 37,
+          "tekst": "Maar sommigen van hen zeiden: Had Hij, die de ogen van de blinde heeft geopend, niet kunnen maken, dat ook deze niet stierf?"
+        },
+        {
+          "nr": 38,
+          "tekst": "Jezus dan, wederom bij Zichzelf verbolgen, ging naar het graf; dit nu was een spelonk en er lag een steen tegenaan."
+        },
+        {
+          "nr": 39,
+          "tekst": "Jezus zeide: Neemt de steen weg! Marta, de zuster van de gestorvene, zeide tot Hem: Here, er is reeds een lijklucht, want het is al de vierde dag."
+        },
+        {
+          "nr": 40,
+          "tekst": "Jezus zeide tot haar: Heb Ik u niet gezegd, dat gij, indien gij gelooft, de heerlijkheid Gods zien zult?"
+        },
+        {
+          "nr": 41,
+          "tekst": "Zij namen dan de steen weg. En Jezus sloeg de ogen opwaarts en zeide: Vader, Ik dank U, dat Gij Mij verhoord hebt."
+        },
+        {
+          "nr": 42,
+          "tekst": "Zelf wist Ik, dat Gij Mij altijd verhoort, maar ter wille van de schare, die rondom Mij staat, heb Ik gesproken, opdat zij geloven, dat Gij Mij gezonden hebt."
+        },
+        {
+          "nr": 43,
+          "tekst": "En na dit gezegd te hebben, riep Hij met luider stem: Lazarus, kom naar buiten!"
+        },
+        {
+          "nr": 44,
+          "tekst": "De gestorvene kwam naar buiten, de voeten en de handen gebonden met grafdoeken, en er was een zweetdoek om zijn gelaat gebonden. Jezus zeide tot hen: Maakt hem los en laat hem heengaan."
+        },
+        {
+          "nr": 45,
+          "tekst": "Velen der Joden dan, die tot Maria gekomen waren en aanschouwd hadden wat Hij gedaan had, geloofden in Hem;"
+        },
+        {
+          "nr": 46,
+          "tekst": "maar sommigen van hen begaven zich naar de Farizeeën en zeiden hun, wat Jezus gedaan had."
+        },
+        {
+          "nr": 47,
+          "tekst": "De overpriesters en de Farizeeën dan riepen de Raad samen en zeiden: Wat doen wij, want deze mens doet vele tekenen?"
+        },
+        {
+          "nr": 48,
+          "tekst": "Als wij Hem zo laten geworden, zullen allen in Hem geloven en de Romeinen zullen komen en ons zowel onze plaats als ons volk ontnemen."
+        },
+        {
+          "nr": 49,
+          "tekst": "Maar één van hen, Kajafas, de hogepriester van dat jaar, zeide tot hen: Gij weet niets,"
+        },
+        {
+          "nr": 50,
+          "tekst": "en gij beseft niet, dat het in uw belang is, dat één mens sterft voor het volk en niet het gehele volk verloren gaat."
+        },
+        {
+          "nr": 51,
+          "tekst": "Doch dit zeide hij niet uit zichzelf, maar als hogepriester van dat jaar profeteerde hij, dat Jezus zou sterven voor het volk,"
+        },
+        {
+          "nr": 52,
+          "tekst": "en niet alleen voor het volk, maar om ook de verstrooide kinderen Gods bijeen te vergaderen."
+        },
+        {
+          "nr": 53,
+          "tekst": "Sinds die dag dan beraadslaagden zij om Hem te doden."
+        },
+        {
+          "nr": 54,
+          "tekst": "Jezus dan bewoog Zich niet meer vrij onder de Joden, maar vertrok vandaar naar de landstreek dicht bij de woestijn, naar een stad, Efraïm genaamd, en Hij bleef daar met zijn discipelen."
+        },
+        {
+          "nr": 55,
+          "tekst": "Nu was het Pascha der Joden nabij en velen van het land gingen op naar Jeruzalem, nog vóór het Pascha, om zich te reinigen."
+        },
+        {
+          "nr": 56,
+          "tekst": "Zij zochten dan naar Jezus en spraken onder elkander, terwijl zij in de tempel stonden: Wat dunkt u? Zou Hij wel op het feest komen?"
+        },
+        {
+          "nr": 57,
+          "tekst": "De overpriesters en de Farizeeën nu hadden voorschriften gegeven, dat, indien iemand wist, waar Hij zich bevond, hij het zou aangeven, opdat zij Hem konden grijpen."
+        }
+      ]
+    },
+    {
+      "nr": 12,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Jezus dan kwam zes dagen vóór het Pascha te Betanië, waar Lazarus was, die Jezus uit de doden had opgewekt."
+        },
+        {
+          "nr": 2,
+          "tekst": "Zij richtten daar dan een maaltijd voor Hem aan en Marta bediende, en Lazarus was één van hen, die met Hem aan tafel waren."
+        },
+        {
+          "nr": 3,
+          "tekst": "Maria dan nam een pond echte, kostbare nardusmirre, en zij zalfde de voeten van Jezus en droogde zijn voeten af met haar haren; en de geur der mirre verspreidde zich door het gehele huis."
+        },
+        {
+          "nr": 4,
+          "tekst": "Maar Judas Iskariot, één van zijn discipelen, die Hem verraden zou, zeide:"
+        },
+        {
+          "nr": 5,
+          "tekst": "Waarom is deze mirre niet voor driehonderd schellingen verkocht en aan de armen gegeven?"
+        },
+        {
+          "nr": 6,
+          "tekst": "Maar dit zeide hij niet, omdat hij zich om de armen bekommerde, maar omdat hij een dief was en als beheerder der kas de inkomsten wegnam."
+        },
+        {
+          "nr": 7,
+          "tekst": "Jezus dan zeide: Laat haar begaan en het bewaren voor de dag mijner begrafenis;"
+        },
+        {
+          "nr": 8,
+          "tekst": "want de armen hebt gij altijd bij u, maar Mij hebt gij niet altijd."
+        },
+        {
+          "nr": 9,
+          "tekst": "De grote menigte uit de Joden dan kwam te weten, dat Hij daar was, en zij kwamen niet alleen om Jezus, maar ook opdat zij Lazarus zouden zien, die Hij uit de doden had opgewekt."
+        },
+        {
+          "nr": 10,
+          "tekst": "En de overpriesters beraadslaagden om ook Lazarus te doden,"
+        },
+        {
+          "nr": 11,
+          "tekst": "daar vele der Joden ter wille van hém kwamen en in Jezus geloofden."
+        },
+        {
+          "nr": 12,
+          "tekst": "De volgende dag, toen de grote menigte, die voor het feest gekomen was, hoorde, dat Jezus naar Jeruzalem kwam,"
+        },
+        {
+          "nr": 13,
+          "tekst": "namen zij palmtakken, gingen uit Hem tegemoet, en riepen:Hosanna, gezegend Hij, die komt in de naam des Heren!en: De koning van Israël!"
+        },
+        {
+          "nr": 14,
+          "tekst": "En Jezus vond een jonge ezel en Hij ging erop zitten, gelijk geschreven is:"
+        },
+        {
+          "nr": 15,
+          "tekst": "Wees niet bevreesd, dochter Sions, zie, uw Koning komt, gezeten op het veulen van een ezel."
+        },
+        {
+          "nr": 16,
+          "tekst": "Dit begrepen zijn discipelen aanvankelijk niet, maar toen Jezus verheerlijkt was, toen herinnerden zij zich, dat dit met het oog op Hem geschreven was en dat zij dit met Hem gedaan hadden."
+        },
+        {
+          "nr": 17,
+          "tekst": "De schare dan, die bij Hem was geweest, toen Hij Lazarus uit het graf geroepen en hem uit de doden opgewekt had, getuigde daarvan."
+        },
+        {
+          "nr": 18,
+          "tekst": "Daarom ging de schare Hem ook tegemoet, omdat zij gehoord hadden, dat Hij dit teken gedaan had."
+        },
+        {
+          "nr": 19,
+          "tekst": "De Farizeeën dan zeiden tot elkander: Gij ziet voor uw ogen, dat gij niets bereikt; zie, de gehele wereld loopt Hem na."
+        },
+        {
+          "nr": 20,
+          "tekst": "Er waren enige Grieken onder hen, die opgingen om op het feest te aanbidden:"
+        },
+        {
+          "nr": 21,
+          "tekst": "dezen dan gingen tot Filippus, die van Betsaïda in Galilea was, en vroegen hem en zeiden: Heer, wij zouden Jezus wel willen zien."
+        },
+        {
+          "nr": 22,
+          "tekst": "Filippus ging en zeide het aan Andreas; Andreas en Filippus gingen en zeiden het aan Jezus."
+        },
+        {
+          "nr": 23,
+          "tekst": "Maar Jezus antwoordde hun en zeide: De ure is gekomen, dat de Zoon des mensen moet verheerlijkt worden."
+        },
+        {
+          "nr": 24,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u, indien de graankorrel niet in de aarde valt en sterft, blijft zij op zichzelf; maar indien zij sterft, brengt zij veel vrucht voort."
+        },
+        {
+          "nr": 25,
+          "tekst": "Wie zijn leven liefheeft, maakt dat het verloren gaat, maar wie zijn leven haat in deze wereld, zal het bewaren ten eeuwigen leven."
+        },
+        {
+          "nr": 26,
+          "tekst": "Indien iemand Mij wil dienen, hij volge Mij, en waar Ik ben, daar zal ook mijn dienaar zijn. Indien iemand Mij dienen wil, de Vader zal hem eren."
+        },
+        {
+          "nr": 27,
+          "tekst": "Nu is mijn ziel ontroerd, en wat zal Ik zeggen? Vader, verlos Mij uit deze ure! Maar hiertoe ben Ik in deze ure gekomen."
+        },
+        {
+          "nr": 28,
+          "tekst": "Vader, verheerlijk uw naam! Toen kwam een stem uit de hemel: Ik heb hem verheerlijkt, en Ik zal hem nogmaals verheerlijken!"
+        },
+        {
+          "nr": 29,
+          "tekst": "De schare dan, die daar stond en toehoorde, zeide, dat er een donderslag geweest was; anderen zeiden: Een engel heeft tot Hem gesproken."
+        },
+        {
+          "nr": 30,
+          "tekst": "Jezus antwoordde en zeide: Niet om Mij is die stem er geweest, maar om u."
+        },
+        {
+          "nr": 31,
+          "tekst": "Nu gaat er een oordeel over deze wereld; nu zal de overste dezer wereld buitengeworpen worden;"
+        },
+        {
+          "nr": 32,
+          "tekst": "en als Ik van de aarde verhoogd ben, zal Ik allen tot Mij trekken."
+        },
+        {
+          "nr": 33,
+          "tekst": "En dit zeide Hij om aan te duiden, welke dood Hij sterven zou."
+        },
+        {
+          "nr": 34,
+          "tekst": "De schare dan antwoordde Hem: Wij hebben uit de wet gehoord, dat de Christus tot in eeuwigheid blijft; hoe kunt Gij dan zeggen, dat de Zoon des mensen moet verhoogd worden? Wie is deze Zoon des mensen?"
+        },
+        {
+          "nr": 35,
+          "tekst": "Jezus dan zeide tot hen: Nog een korte tijd is het licht onder u. Wandelt, terwijl gij het licht hebt, opdat de duisternis u niet overvalle; en wie in de duisternis wandelt, weet niet, waar hij heengaat."
+        },
+        {
+          "nr": 36,
+          "tekst": "Gelooft in het licht zolang gij het licht hebt, opdat gij kinderen des lichts moogt zijn.Dit sprak Jezus en Hij ging heen en verborg Zich voor hen."
+        },
+        {
+          "nr": 37,
+          "tekst": "En hoewel Hij zovele tekenen voor hun ogen gedaan had, geloofden zij niet in Hem,"
+        },
+        {
+          "nr": 38,
+          "tekst": "opdat het woord van de profeet Jesaja vervuld werd, dat hij sprak: Here, wie heeft geloofd, wat hij van ons hoorde? En aan wie is de arm des Heren geopenbaard?"
+        },
+        {
+          "nr": 39,
+          "tekst": "Hierom konden zij niet geloven, omdat Jesaja elders gezegd heeft:"
+        },
+        {
+          "nr": 40,
+          "tekst": "Hij heeft hun ogen verblind en hun hart verhard, dat zij niet met hun ogen zien, met hun hart verstaan en zich bekeren, en Ik hen geneze."
+        },
+        {
+          "nr": 41,
+          "tekst": "Dit zeide Jesaja, omdat hij zijn heerlijkheid zag en van Hem sprak."
+        },
+        {
+          "nr": 42,
+          "tekst": "En toch geloofden zelfs uit de oversten velen in Hem, maar ter wille van de Farizeeën kwamen zij er niet voor uit, om niet uit de synagoge te worden gebannen;"
+        },
+        {
+          "nr": 43,
+          "tekst": "want zij waren gesteld op de eer der mensen, meer dan op de eer van God."
+        },
+        {
+          "nr": 44,
+          "tekst": "Jezus riep en zeide: Wie in Mij gelooft, gelooft niet in Mij, maar in Hem, die Mij gezonden heeft;"
+        },
+        {
+          "nr": 45,
+          "tekst": "en wie Mij aanschouwt, aanschouwt Hem, die Mij gezonden heeft."
+        },
+        {
+          "nr": 46,
+          "tekst": "Ik ben als een licht in de wereld gekomen, opdat een ieder, die in Mij gelooft, niet in de duisternis blijve."
+        },
+        {
+          "nr": 47,
+          "tekst": "En indien iemand naar mijn woorden hoort, maar ze niet bewaart, Ik oordeel hem niet, want Ik ben niet gekomen om de wereld te oordelen, doch om de wereld te behouden."
+        },
+        {
+          "nr": 48,
+          "tekst": "Wie Mij verwerpt en mijn woorden niet aanneemt, heeft een, die hem oordeelt: het woord, dat Ik heb gesproken, dat zal hem oordelen ten jongsten dage."
+        },
+        {
+          "nr": 49,
+          "tekst": "Want Ik heb niet uit Mijzelf gesproken, maar de Vader, die Mij heeft gezonden, heeft zelf Mij een gebod gegeven, wat Ik zeggen en spreken moet."
+        },
+        {
+          "nr": 50,
+          "tekst": "En Ik weet, dat zijn gebod eeuwig leven is. Wat Ik dan spreek, spreek Ik zó, als de Vader Mij gezegd heeft."
+        }
+      ]
+    },
+    {
+      "nr": 13,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "En vóór het Paasfeest, toen Jezus wist, dat zijn ure gekomen was om uit deze wereld over te gaan tot de Vader, heeft Hij de zijnen, die Hij in de wereld liefhad, liefgehad tot het einde."
+        },
+        {
+          "nr": 2,
+          "tekst": "En onder de maaltijd, toen de duivel reeds Judas, Simons zoon Iskariot, in het hart had gegeven Hem te verraden,"
+        },
+        {
+          "nr": 3,
+          "tekst": "stond Hij, wetende, dat de Vader Hem alles in handen had gegeven en dat Hij van God uitgegaan was en tot God heenging, van de maaltijd op,"
+        },
+        {
+          "nr": 4,
+          "tekst": "en Hij legde zijn klederen af en nam een linnen doek en omgordde Zich daarmede."
+        },
+        {
+          "nr": 5,
+          "tekst": "Daarna deed Hij water in het bekken en begon de voeten der discipelen te wassen, en af te drogen met de doek, waarmede Hij omgord was."
+        },
+        {
+          "nr": 6,
+          "tekst": "Hij kwam dan bij Simon Petrus. Deze zeide tot Hem: Here, wilt Gij mij de voeten wassen?"
+        },
+        {
+          "nr": 7,
+          "tekst": "Jezus antwoordde en zeide tot hem: Wat Ik doe, weet gij nu niet, maar gij zult het later verstaan."
+        },
+        {
+          "nr": 8,
+          "tekst": "Petrus zeide tot Hem: Gij zult mijn voeten niet wassen in eeuwigheid! Jezus antwoordde hem: Indien Ik u niet was, hebt gij geen deel aan Mij."
+        },
+        {
+          "nr": 9,
+          "tekst": "Simon Petrus zeide tot Hem: Here, niet alleen mijn voeten, maar ook de handen en het hoofd!"
+        },
+        {
+          "nr": 10,
+          "tekst": "Jezus zeide tot hem: Wie gebaad heeft, behoeft zich [alleen de voeten] te laten wassen, want hij is geheel rein; en gijlieden zijt rein, doch niet allen."
+        },
+        {
+          "nr": 11,
+          "tekst": "Want Hij wist, wie Hem verraden zou; daarom zeide Hij: Gij zijt niet allen rein."
+        },
+        {
+          "nr": 12,
+          "tekst": "Toen Hij dan hun voeten gewassen had en zijn klederen aangedaan en weder plaats genomen had, zeide Hij tot hen: Begrijpt gij wat Ik u gedaan heb?"
+        },
+        {
+          "nr": 13,
+          "tekst": "Gij noemt Mij Meester en Here, en gij zegt dat terecht, want Ik ben het."
+        },
+        {
+          "nr": 14,
+          "tekst": "Indien nu Ik, uw Here en Meester, u de voeten gewassen heb, behoort ook gij elkander de voeten te wassen;"
+        },
+        {
+          "nr": 15,
+          "tekst": "want Ik heb u een voorbeeld gegeven, opdat ook gij doet, gelijk Ik u gedaan heb."
+        },
+        {
+          "nr": 16,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u, een slaaf staat niet boven zijn heer, noch een gezant boven zijn zender."
+        },
+        {
+          "nr": 17,
+          "tekst": "Indien gij dit weet, zalig zijt gij, als gij het doet."
+        },
+        {
+          "nr": 18,
+          "tekst": "Ik spreek niet van u allen; Ik weet, wie Ik heb uitgekozen; maar het schriftwoord moet vervuld worden: Hij, die mijn brood eet, heeft zijn hiel tegen Mij opgeheven."
+        },
+        {
+          "nr": 19,
+          "tekst": "Thans reeds zeg Ik het u, eer het geschiedt, opdat gij, wanneer het geschiedt, gelooft, dat Ik het ben."
+        },
+        {
+          "nr": 20,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u: Wie ontvangt, die Ik zend, ontvangt Mij, en wie Mij ontvangt, ontvangt Hem, die Mij gezonden heeft."
+        },
+        {
+          "nr": 21,
+          "tekst": "Na deze woorden werd Jezus ontroerd in de geest en Hij getuigde en zeide: Voorwaar, voorwaar, Ik zeg u: één van u zal Mij verraden."
+        },
+        {
+          "nr": 22,
+          "tekst": "De discipelen zagen elkander aan, in het onzekere, van wie Hij sprak."
+        },
+        {
+          "nr": 23,
+          "tekst": "Eén van de discipelen, dien Jezus liefhad, lag aan de boezem van Jezus;"
+        },
+        {
+          "nr": 24,
+          "tekst": "hem dan gaf Simon Petrus een wenk en zeide tot hem: Zeg, wie het is, van wie Hij spreekt."
+        },
+        {
+          "nr": 25,
+          "tekst": "Deze, aanstonds zich aan de borst van Jezus werpende, zeide tot Hem: Here, wie is het?"
+        },
+        {
+          "nr": 26,
+          "tekst": "Jezus dan antwoordde: Die is het, voor wie Ik het stuk brood indoop en wie Ik het geef. Hij doopte dan [het] stuk brood in en nam het en gaf het aan Judas, de zoon van Simon Iskariot."
+        },
+        {
+          "nr": 27,
+          "tekst": "En na dit stuk brood, toen voer de satan in hem. Jezus dan zeide tot hem: Wat gij doen wilt, doe het met spoed."
+        },
+        {
+          "nr": 28,
+          "tekst": "Maar niemand van de aanliggenden begreep, waartoe Hij hem dit zeide;"
+        },
+        {
+          "nr": 29,
+          "tekst": "want sommigen meenden, dat Jezus, omdat Judas de kas hield, tot hem zeide: Koop wat wij nodig hebben voor het feest, of dat hij iets aan de armen moest geven."
+        },
+        {
+          "nr": 30,
+          "tekst": "Hij nam dan het stuk brood en vertrok terstond. En het was nacht."
+        },
+        {
+          "nr": 31,
+          "tekst": "Toen hij dan heengegaan was, zeide Jezus: Nu is de Zoon des mensen verheerlijkt en God is in Hem verheerlijkt."
+        },
+        {
+          "nr": 32,
+          "tekst": "Als God in Hem verheerlijkt is, zal God ook Hem in Zich verheerlijken, en Hem terstond verheerlijken."
+        },
+        {
+          "nr": 33,
+          "tekst": "Kinderkens, nog een korte tijd ben Ik bij u; gij zult Mij zoeken en, gelijk Ik de Joden gezegd heb: Waar Ik heenga, kunt gij niet komen, zo spreek Ik thans ook tot u."
+        },
+        {
+          "nr": 34,
+          "tekst": "Een nieuw gebod geef Ik u, dat gij elkander liefhebt; gelijk Ik u liefgehad heb, dat gij ook elkander liefhebt."
+        },
+        {
+          "nr": 35,
+          "tekst": "Hieraan zullen allen weten, dat gij discipelen van Mij zijt, indien gij liefde hebt onder elkander."
+        },
+        {
+          "nr": 36,
+          "tekst": "Simon Petrus zeide tot Hem: Here, waar gaat Gij heen? Jezus antwoordde: Waar Ik heenga, kunt gij Mij nu niet volgen, maar gij zult later volgen."
+        },
+        {
+          "nr": 37,
+          "tekst": "Petrus zeide tot Hem: Here, waarom kan ik U thans niet volgen? Ik zal mijn leven voor U inzetten!"
+        },
+        {
+          "nr": 38,
+          "tekst": "Jezus antwoordde: Uw leven zult gij voor Mij inzetten? Voorwaar, voorwaar, Ik zeg u, de haan zal niet kraaien, eer gij Mij driemaal verloochend hebt."
+        }
+      ]
+    },
+    {
+      "nr": 14,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Uw hart worde niet ontroerd; gij gelooft in God, gelooft ook in Mij."
+        },
+        {
+          "nr": 2,
+          "tekst": "In het huis mijns Vaders zijn vele woningen – anders zou Ik het u gezegd hebben – want Ik ga heen om u plaats te bereiden;"
+        },
+        {
+          "nr": 3,
+          "tekst": "en wanneer Ik heengegaan ben en u plaats bereid heb, kom Ik weder en zal u tot Mij nemen, opdat ook gij zijn moogt, waar Ik ben."
+        },
+        {
+          "nr": 4,
+          "tekst": "En waar Ik heenga, daarheen weet gij de weg."
+        },
+        {
+          "nr": 5,
+          "tekst": "Tomas zeide tot Hem: Here, wij weten niet, waar Gij heengaat; hoe weten wij dan de weg?"
+        },
+        {
+          "nr": 6,
+          "tekst": "Jezus zeide tot hem: Ik ben de weg en de waarheid en het leven; niemand komt tot de Vader dan door Mij."
+        },
+        {
+          "nr": 7,
+          "tekst": "Indien gij Mij kendet, zoudt gij ook mijn Vader gekend hebben. Van nu aan kent gij Hem en hebt gij Hem gezien."
+        },
+        {
+          "nr": 8,
+          "tekst": "Filippus zeide tot Hem: Here, toon ons de Vader en het is ons genoeg."
+        },
+        {
+          "nr": 9,
+          "tekst": "Jezus zeide tot hem: Ben Ik zolang bij u, Filippus, en kent gij Mij niet? Wie Mij gezien heeft, heeft de Vader gezien; hoe zegt gij dan: Toon ons de Vader?"
+        },
+        {
+          "nr": 10,
+          "tekst": "Gelooft gij niet, dat Ik in de Vader ben en de Vader in Mij is? De woorden, die Ik tot u spreek, zeg Ik uit Mijzelf niet; maar de Vader, die in Mij blijft, doet zijn werken."
+        },
+        {
+          "nr": 11,
+          "tekst": "Gelooft Mij, dat Ik in de Vader ben en de Vader in Mij is: of anders, gelooft om de werken zelf."
+        },
+        {
+          "nr": 12,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u, wie in Mij gelooft, de werken, die Ik doe, zal hij ook doen, en grotere nog dan deze, want Ik ga tot de Vader;"
+        },
+        {
+          "nr": 13,
+          "tekst": "en wat gij ook vraagt in mijn naam, Ik zal het doen, opdat de Vader in de Zoon verheerlijkt worde."
+        },
+        {
+          "nr": 14,
+          "tekst": "Indien gij Mij iets vraagt in mijn naam, Ik zal het doen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Wanneer gij Mij liefhebt, zult gij mijn geboden bewaren."
+        },
+        {
+          "nr": 16,
+          "tekst": "En Ik zal de Vader bidden en Hij zal u een andere Trooster geven om tot in eeuwigheid bij u te zijn,"
+        },
+        {
+          "nr": 17,
+          "tekst": "de Geest der waarheid, die de wereld niet kan ontvangen, want zij ziet Hem niet en kent Hem niet; maar gij kent Hem, want Hij blijft bij u en zal in u zijn."
+        },
+        {
+          "nr": 18,
+          "tekst": "Ik zal u niet als wezen achterlaten. Ik kom tot u."
+        },
+        {
+          "nr": 19,
+          "tekst": "Nog een korte tijd en de wereld ziet Mij niet meer, maar gij ziet Mij, want Ik leef en gij zult leven."
+        },
+        {
+          "nr": 20,
+          "tekst": "Te dien dage zult gij weten, dat Ik in mijn Vader ben en gij in Mij en Ik in u."
+        },
+        {
+          "nr": 21,
+          "tekst": "Wie mijn geboden heeft en ze bewaart, die is het, die Mij liefheeft; en wie Mij liefheeft, zal geliefd worden door mijn Vader en Ik zal hem liefhebben en Mijzelf aan hem openbaren."
+        },
+        {
+          "nr": 22,
+          "tekst": "Judas, niet Iskariot, zeide tot Hem: Here, en hoe komt het, dat Gij Uzelf aan ons zult openbaren en niet aan de wereld?"
+        },
+        {
+          "nr": 23,
+          "tekst": "Jezus antwoordde en zeide tot hem: Indien iemand Mij liefheeft, zal hij mijn woord bewaren en mijn Vader zal hem liefhebben en Wij zullen tot hem komen en bij hem wonen."
+        },
+        {
+          "nr": 24,
+          "tekst": "Wie Mij niet liefheeft bewaart mijn woorden niet; en het woord, dat gij hoort, is niet van Mij, maar van de Vader, die Mij gezonden heeft."
+        },
+        {
+          "nr": 25,
+          "tekst": "Dit heb Ik tot u gesproken, terwijl Ik nog bij u verblijf;"
+        },
+        {
+          "nr": 26,
+          "tekst": "maar de Trooster, de heilige Geest, die de Vader zenden zal in mijn naam, die zal u alles leren en u te binnen brengen al wat Ik u gezegd heb."
+        },
+        {
+          "nr": 27,
+          "tekst": "Vrede laat Ik u, mijn vrede geef Ik u; niet gelijk de wereld die geeft, geef Ik hem u. Uw hart worde niet ontroerd of versaagd."
+        },
+        {
+          "nr": 28,
+          "tekst": "Gij hebt gehoord, dat Ik tot u gezegd heb: Ik ga heen en kom tot u. Indien gij Mij liefhadt, zoudt gij u verblijd hebben, omdat Ik tot de Vader ga, want de Vader is meer dan Ik."
+        },
+        {
+          "nr": 29,
+          "tekst": "En nu heb Ik het u gezegd, eer het geschiedt, opdat gij geloven moogt, wanneer het geschiedt."
+        },
+        {
+          "nr": 30,
+          "tekst": "Niet veel zal Ik meer met u spreken, want de overste der wereld komt en heeft aan Mij niets,"
+        },
+        {
+          "nr": 31,
+          "tekst": "maar de wereld moet weten, dat Ik de Vader liefheb en zó doe, als Mij de Vader geboden heeft.Staat op, laten wij vanhier gaan."
+        }
+      ]
+    },
+    {
+      "nr": 15,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Ik ben de ware wijnstok en mijn Vader is de landman."
+        },
+        {
+          "nr": 2,
+          "tekst": "Elke rank aan Mij, die geen vrucht draagt, neemt Hij weg, en elke die wel vrucht draagt, snoeit Hij, opdat zij meer vrucht drage."
+        },
+        {
+          "nr": 3,
+          "tekst": "Gij zijt nu rein om het woord, dat Ik tot u gesproken heb; blijft in Mij, gelijk Ik in u."
+        },
+        {
+          "nr": 4,
+          "tekst": "Evenals de rank geen vrucht kan dragen uit zichzelf, als zij niet aan de wijnstok blijft, zo ook gij niet, indien gij in Mij niet blijft."
+        },
+        {
+          "nr": 5,
+          "tekst": "Ik ben de wijnstok, gij zijt de ranken. Wie in Mij blijft, gelijk Ik in hem, die draagt veel vrucht, want zonder Mij kunt gij niets doen."
+        },
+        {
+          "nr": 6,
+          "tekst": "Wie in Mij niet blijft, is buitengeworpen als de rank en is verdord, en men verzamelt ze en werpt ze in het vuur en zij worden verbrand."
+        },
+        {
+          "nr": 7,
+          "tekst": "Indien gij in Mij blijft en mijn woorden in u blijven, vraagt wat gij maar wilt, en het zal u geworden."
+        },
+        {
+          "nr": 8,
+          "tekst": "Hierin is mijn Vader verheerlijkt, dat gij veel vrucht draagt en gij zult mijn discipelen zijn."
+        },
+        {
+          "nr": 9,
+          "tekst": "Gelijk de Vader Mij heeft liefgehad, heb ook Ik u liefgehad; blijft in mijn liefde."
+        },
+        {
+          "nr": 10,
+          "tekst": "Indien gij mijn geboden bewaart, zult gij in mijn liefde blijven, gelijk Ik de geboden mijns Vaders bewaard heb en blijf in zijn liefde."
+        },
+        {
+          "nr": 11,
+          "tekst": "Dit heb Ik tot u gesproken, opdat mijn blijdschap in u zij en uw blijdschap vervuld worde."
+        },
+        {
+          "nr": 12,
+          "tekst": "Dit is mijn gebod, dat gij elkander liefhebt, gelijk Ik u heb liefgehad."
+        },
+        {
+          "nr": 13,
+          "tekst": "Niemand heeft grotere liefde, dan dat hij zijn leven inzet voor zijn vrienden."
+        },
+        {
+          "nr": 14,
+          "tekst": "Gij zijt mijn vrienden, indien gij doet, wat Ik u gebied."
+        },
+        {
+          "nr": 15,
+          "tekst": "Ik noem u niet meer slaven, want de slaaf weet niet, wat zijn heer doet; maar u heb Ik vrienden genoemd, omdat Ik alles, wat Ik van mijn Vader gehoord heb, u heb bekend gemaakt."
+        },
+        {
+          "nr": 16,
+          "tekst": "Niet gij hebt Mij, maar Ik heb u uitgekozen en u aangewezen, opdat gij zoudt heengaan en vrucht dragen en uw vrucht zou blijven, opdat de Vader u alles geve, wat gij Hem bidt in mijn naam."
+        },
+        {
+          "nr": 17,
+          "tekst": "Dit gebied Ik u, dat gij elkander liefhebt."
+        },
+        {
+          "nr": 18,
+          "tekst": "Indien de wereld u haat, weet dan, dat zij Mij eer dan u gehaat heeft."
+        },
+        {
+          "nr": 19,
+          "tekst": "Indien gij van de wereld waart, zou de wereld het hare liefhebben, doch omdat gij van de wereld niet zijt, maar Ik u uit de wereld uitgekozen heb, daarom haat u de wereld."
+        },
+        {
+          "nr": 20,
+          "tekst": "Gedenkt het woord, dat Ik tot u gesproken heb: Een slaaf staat niet boven zijn heer. Indien zij Mij vervolgd hebben, zij zullen ook u vervolgen; indien zij mijn woord bewaard hebben, zij zullen ook het uwe bewaren."
+        },
+        {
+          "nr": 21,
+          "tekst": "Maar dit alles zullen zij u aandoen om mijn naam, want zij kennen Hem niet, die Mij gezonden heeft."
+        },
+        {
+          "nr": 22,
+          "tekst": "Indien Ik niet gekomen was en tot hen gesproken had, zij zouden geen zonde hebben, maar nu hebben zij geen voorwendsel voor hun zonde."
+        },
+        {
+          "nr": 23,
+          "tekst": "Wie Mij haat, haat ook mijn Vader."
+        },
+        {
+          "nr": 24,
+          "tekst": "Indien Ik niet de werken onder hen gedaan had, die niemand anders gedaan heeft, zouden zij geen zonde hebben; maar nu hebben zij, hoewel zij ze gezien hebben, toch Mij en mijn Vader gehaat."
+        },
+        {
+          "nr": 25,
+          "tekst": "Maar het woord moet vervuld worden, dat in hun wet geschreven is: Zij hebben Mij zonder reden gehaat."
+        },
+        {
+          "nr": 26,
+          "tekst": "Wanneer de Trooster komt, die Ik u zenden zal van de Vader, de Geest der Waarheid, die van de Vader uitgaat, zal deze van Mij getuigen;"
+        },
+        {
+          "nr": 27,
+          "tekst": "en gij moet ook getuigen, want gij zijt van het begin aan met Mij."
+        }
+      ]
+    },
+    {
+      "nr": 16,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Dit heb Ik tot u gesproken, opdat gij niet ten val komt."
+        },
+        {
+          "nr": 2,
+          "tekst": "Men zal u uit de synagoge bannen; ja, de ure komt, dat een ieder, die u doodt, zal menen Gode een heilige dienst te bewijzen."
+        },
+        {
+          "nr": 3,
+          "tekst": "En dit zullen zij doen, omdat zij noch de Vader, noch Mij kennen."
+        },
+        {
+          "nr": 4,
+          "tekst": "Maar deze dingen heb Ik tot u gesproken, opdat, wanneer hun uur komt, gij u moogt herinneren, dat Ik ze u gezegd heb.Doch dit heb Ik u niet van het begin aan gezegd, omdat Ik bij u was."
+        },
+        {
+          "nr": 5,
+          "tekst": "En nu ga Ik heen tot Hem, die Mij gezonden heeft, en niemand van u vraagt Mij: Waar gaat Gij heen?"
+        },
+        {
+          "nr": 6,
+          "tekst": "Maar omdat Ik dit tot u gesproken heb, heeft droefheid uw hart vervuld."
+        },
+        {
+          "nr": 7,
+          "tekst": "Doch Ik zeg u de waarheid: Het is beter voor u, dat Ik heenga. Want indien Ik niet heenga, kan de Trooster niet tot u komen, maar indien Ik heenga, zal Ik Hem tot u zenden."
+        },
+        {
+          "nr": 8,
+          "tekst": "En als Hij komt, zal Hij de wereld overtuigen van zonde en van gerechtigheid en van oordeel;"
+        },
+        {
+          "nr": 9,
+          "tekst": "van zonde, omdat zij in Mij niet geloven;"
+        },
+        {
+          "nr": 10,
+          "tekst": "van gerechtigheid, omdat Ik heenga tot de Vader en gij Mij niet langer ziet;"
+        },
+        {
+          "nr": 11,
+          "tekst": "van oordeel, omdat de overste dezer wereld geoordeeld is."
+        },
+        {
+          "nr": 12,
+          "tekst": "Nog veel heb Ik u te zeggen, maar gij kunt het thans niet dragen;"
+        },
+        {
+          "nr": 13,
+          "tekst": "doch wanneer Hij komt, de Geest der waarheid, zal Hij u de weg wijzen tot de volle waarheid; want Hij zal niet uit Zichzelf spreken, maar al wat Hij hoort, zal Hij spreken en de toekomst zal Hij u verkondigen."
+        },
+        {
+          "nr": 14,
+          "tekst": "Hij zal Mij verheerlijken, want Hij zal het uit het mijne nemen en het u verkondigen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Al wat de Vader heeft, is het mijne; daarom zeide Ik: Hij neemt uit het mijne en zal het u verkondigen."
+        },
+        {
+          "nr": 16,
+          "tekst": "Nog een korte tijd en gij ziet Mij niet meer, en nogmaals een korte tijd en gij zult Mij zien."
+        },
+        {
+          "nr": 17,
+          "tekst": "Sommige zijner discipelen dan zeiden tot elkander: Wat betekent dit, dat Hij tot ons zegt: Nog een korte tijd en gij ziet Mij niet en nogmaals een korte tijd en gij zult Mij zien? En: Ik ga heen tot de Vader?"
+        },
+        {
+          "nr": 18,
+          "tekst": "Zij zeiden dan: Wat is dit, dat Hij zegt: Nog een korte tijd? Wij weten niet, wat Hij bedoelt."
+        },
+        {
+          "nr": 19,
+          "tekst": "Jezus bemerkte, dat zij Hem iets wilden vragen en zeide tot hen: Redeneert gij hierover met elkander, dat Ik zeide: Nog een korte tijd en gij ziet Mij niet en nogmaals een korte tijd en gij zult Mij zien?"
+        },
+        {
+          "nr": 20,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u, gij zult schreien en weeklagen, maar de wereld zal zich verblijden; gij zult u bedroeven, maar uw droefheid zal tot blijdschap worden."
+        },
+        {
+          "nr": 21,
+          "tekst": "Een vrouw, die baart, heeft droefheid, omdat haar uur gekomen is; maar wanneer zij het kind ter wereld heeft gebracht, denkt zij niet meer aan haar benauwdheid, uit vreugde, dat een mens ter wereld is gekomen."
+        },
+        {
+          "nr": 22,
+          "tekst": "Ook gij hebt dan nu wel droefheid, maar Ik zal u wederzien en uw hart zal zich verblijden en niemand ontneemt u uw blijdschap."
+        },
+        {
+          "nr": 23,
+          "tekst": "En te dien dage zult gij Mij niets vragen. Voorwaar, voorwaar, Ik zeg u, als gij de Vader om iets bidt, zal Hij het u geven in mijn naam."
+        },
+        {
+          "nr": 24,
+          "tekst": "Tot nog toe hebt gij niet om iets gebeden in mijn naam; bidt en gij zult ontvangen, opdat uw blijdschap vervuld zij."
+        },
+        {
+          "nr": 25,
+          "tekst": "Dit heb Ik in beelden tot u gesproken; er komt een ure, dat Ik niet meer in beelden tot u zal spreken, maar u vrijuit over de Vader spreken zal."
+        },
+        {
+          "nr": 26,
+          "tekst": "Te dien dage zult gij in mijn naam bidden en Ik zeg u niet, dat Ik de Vader voor u vragen zal,"
+        },
+        {
+          "nr": 27,
+          "tekst": "want de Vader zelf heeft u lief, omdat gij Mij hebt liefgehad en geloofd hebt, dat Ik van God ben uitgegaan."
+        },
+        {
+          "nr": 28,
+          "tekst": "Ik ben van de Vader uitgegaan en in de wereld gekomen; Ik verlaat de wereld weder en ga tot de Vader."
+        },
+        {
+          "nr": 29,
+          "tekst": "Zijn discipelen zeiden: Zie, nu spreekt Gij vrijuit, zonder beeldspraak te gebruiken."
+        },
+        {
+          "nr": 30,
+          "tekst": "Nu weten wij, dat Gij alles weet en niet nodig hebt, dat iemand U vraagt; hierom geloven wij, dat Gij van God zijt uitgegaan."
+        },
+        {
+          "nr": 31,
+          "tekst": "Jezus antwoordde hun: Gelooft gij thans?"
+        },
+        {
+          "nr": 32,
+          "tekst": "Zie, de ure komt en is gekomen, dat gij verstrooid wordt, een ieder naar het zijne en Mij alleen laat. En toch ben Ik niet alleen, want de Vader is met Mij."
+        },
+        {
+          "nr": 33,
+          "tekst": "Dit heb Ik tot u gesproken, opdat gij in Mij vrede hebt. In de wereld lijdt gij verdrukking, maar houdt goede moed, Ik heb de wereld overwonnen."
+        }
+      ]
+    },
+    {
+      "nr": 17,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Dit sprak Jezus en Hij hief zijn ogen ten hemel en zeide: Vader, de ure is gekomen; verheerlijk uw Zoon, opdat uw Zoon U verheerlijke,"
+        },
+        {
+          "nr": 2,
+          "tekst": "gelijk Gij Hem macht hebt gegeven over alle vlees, om aan al wat Gij Hem gegeven hebt, eeuwig leven te schenken."
+        },
+        {
+          "nr": 3,
+          "tekst": "Dit nu is het eeuwige leven, dat zij U kennen, de enige waarachtige God, en Jezus Christus, die Gij gezonden hebt."
+        },
+        {
+          "nr": 4,
+          "tekst": "Ik heb U verheerlijkt op de aarde door het werk te voleindigen, dat Gij Mij te doen gegeven hebt."
+        },
+        {
+          "nr": 5,
+          "tekst": "En nu, verheerlijk Gij Mij, Vader, bij Uzelf met de heerlijkheid, die Ik bij U had, eer de wereld was."
+        },
+        {
+          "nr": 6,
+          "tekst": "Ik heb uw naam geopenbaard aan de mensen, die Gij Mij uit de wereld gegeven hebt. Zij behoorden U toe en Gij hebt hen Mij gegeven en zij hebben uw woord bewaard."
+        },
+        {
+          "nr": 7,
+          "tekst": "Nu weten zij, dat al wat Gij Mij gegeven hebt, van U komt,"
+        },
+        {
+          "nr": 8,
+          "tekst": "want de woorden, die Gij Mij gegeven hebt, heb Ik hun gegeven en zij hebben ze aangenomen en in waarheid erkend, dat Ik van U ben uitgegaan, en zij hebben geloofd, dat Gij Mij gezonden hebt."
+        },
+        {
+          "nr": 9,
+          "tekst": "Ik bid voor hen; niet voor de wereld bid Ik U, maar voor hen, die Gij Mij gegeven hebt, want zij zijn van U,"
+        },
+        {
+          "nr": 10,
+          "tekst": "en al het mijne is het uwe en het uwe is het mijne, en Ik ben in hen verheerlijkt."
+        },
+        {
+          "nr": 11,
+          "tekst": "En Ik ben niet meer in de wereld, maar zij zijn in de wereld en Ik kom tot U. Heilige Vader, bewaar hen in uw naam, welke Gij Mij gegeven hebt, dat zij één zijn zoals Wij."
+        },
+        {
+          "nr": 12,
+          "tekst": "Zolang Ik bij hen was, bewaarde Ik hen in uw naam, welke Gij Mij gegeven hebt, en Ik heb over hen gewaakt en niemand uit hen is verloren gegaan, dan de zoon des verderfs, opdat de Schrift vervuld werd."
+        },
+        {
+          "nr": 13,
+          "tekst": "Maar nu kom Ik tot U en Ik spreek dit in de wereld, opdat zij ten volle mijn blijdschap in zichzelf mogen hebben."
+        },
+        {
+          "nr": 14,
+          "tekst": "Ik heb hun uw woord gegeven en de wereld heeft hen gehaat, omdat zij niet uit de wereld zijn, gelijk Ik niet uit de wereld ben."
+        },
+        {
+          "nr": 15,
+          "tekst": "Ik bid niet, dat Gij hen uit de wereld wegneemt, maar dat Gij hen bewaart voor de boze."
+        },
+        {
+          "nr": 16,
+          "tekst": "Zij zijn niet uit de wereld, gelijk Ik niet uit de wereld ben."
+        },
+        {
+          "nr": 17,
+          "tekst": "Heilig hen in uw waarheid; uw woord is de waarheid."
+        },
+        {
+          "nr": 18,
+          "tekst": "Gelijk Gij Mij gezonden hebt in de wereld, heb ook Ik hen gezonden in de wereld;"
+        },
+        {
+          "nr": 19,
+          "tekst": "en Ik heilig Mijzelf voor hen, opdat ook zij geheiligd mogen zijn in waarheid."
+        },
+        {
+          "nr": 20,
+          "tekst": "En Ik bid niet alleen voor dezen, maar ook voor hen, die door hun woord in Mij geloven,"
+        },
+        {
+          "nr": 21,
+          "tekst": "opdat zij allen één zijn, gelijk Gij, Vader, in Mij en Ik in U, dat ook zij in Ons zijn; opdat de wereld gelove, dat Gij Mij gezonden hebt."
+        },
+        {
+          "nr": 22,
+          "tekst": "En de heerlijkheid, die Gij Mij gegeven hebt, heb Ik hun gegeven, opdat zij één zijn, gelijk Wij één zijn:"
+        },
+        {
+          "nr": 23,
+          "tekst": "Ik in hen en Gij in Mij, dat zij volmaakt zijn tot één, opdat de wereld erkenne, dat Gij Mij gezonden hebt, en dat Gij hen liefgehad hebt, gelijk Gij Mij liefgehad hebt."
+        },
+        {
+          "nr": 24,
+          "tekst": "Vader, hetgeen Gij Mij gegeven hebt – Ik wil, dat, waar Ik ben, ook zij bij Mij zijn, om mijn heerlijkheid te aanschouwen, die Gij Mij gegeven hebt, want Gij hebt Mij liefgehad vóór de grondlegging der wereld."
+        },
+        {
+          "nr": 25,
+          "tekst": "Rechtvaardige Vader, de wereld kent U niet, maar Ik ken U, en dezen weten, dat Gij Mij gezonden hebt;"
+        },
+        {
+          "nr": 26,
+          "tekst": "en Ik heb hun uw naam bekend gemaakt en Ik zal hem bekend maken, opdat de liefde, waarmede Gij Mij liefgehad hebt, in hen zij en Ik in hen."
+        }
+      ]
+    },
+    {
+      "nr": 18,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Na dit gezegd te hebben, ging Jezus met zijn discipelen naar de overzijde van de beek Kidron, waar een hof was, die Hij met zijn discipelen binnenging."
+        },
+        {
+          "nr": 2,
+          "tekst": "En ook Judas, zijn verrader, wist die plaats, omdat Jezus daar dikwijls was samengekomen met zijn discipelen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Judas dan kwam daar, die een afdeling soldaten tot zijn beschikking had gekregen en dienaars van de overpriesters en de Farizeeën, voorzien van lantaarns, fakkels en wapenen."
+        },
+        {
+          "nr": 4,
+          "tekst": "Jezus dan, alles wetende, wat over Hem komen zou, kwam naar voren en zeide tot hen: Wie zoekt gij?"
+        },
+        {
+          "nr": 5,
+          "tekst": "Zij antwoordden Hem: Jezus de Nazoreeër. Hij zeide tot hen: Ik ben het. En ook Judas, zijn verrader, stond bij hen."
+        },
+        {
+          "nr": 6,
+          "tekst": "Toen Hij dan tot hen zeide: Ik ben het, deinsden zij terug en vielen ter aarde."
+        },
+        {
+          "nr": 7,
+          "tekst": "Wederom dan stelde Hij hun de vraag: Wie zoekt gij? En zij zeiden: Jezus, de Nazoreeër."
+        },
+        {
+          "nr": 8,
+          "tekst": "Jezus antwoordde: Ik zeide u, dat Ik het ben. Indien gij dan Mij zoekt, laat dezen heengaan;"
+        },
+        {
+          "nr": 9,
+          "tekst": "opdat het woord vervuld werd, dat Hij gesproken had: Wie Gij Mij gegeven hebt, uit hen heb Ik niemand laten verloren gaan."
+        },
+        {
+          "nr": 10,
+          "tekst": "Simon Petrus dan, die een zwaard had, trok het, en hij trof de slaaf van de hogepriester en sloeg hem het rechteroor af; de naam nu van de slaaf was Malchus."
+        },
+        {
+          "nr": 11,
+          "tekst": "Jezus dan zeide tot Petrus: Steek het zwaard in de schede; de beker, die de Vader Mij gegeven heeft, zou Ik die niet drinken?"
+        },
+        {
+          "nr": 12,
+          "tekst": "De afdeling soldaten dan en de overste en de dienaars der Joden namen Jezus gevangen, boeiden Hem,"
+        },
+        {
+          "nr": 13,
+          "tekst": "en brachten Hem eerst voor Annas, want hij was de schoonvader van Kajafas, die dat jaar hogepriester was;"
+        },
+        {
+          "nr": 14,
+          "tekst": "en Kajafas was het, die de Joden de raad had gegeven: Het is nuttig, dat één mens sterft ten behoeve van het volk."
+        },
+        {
+          "nr": 15,
+          "tekst": "En Simon Petrus en een andere discipel volgden Jezus. En die discipel was een bekende van de hogepriester en hij ging met Jezus het paleis van de hogepriester binnen,"
+        },
+        {
+          "nr": 16,
+          "tekst": "maar Petrus stond buiten aan de poort. De andere discipel dan, de bekende van de hogepriester, kwam naar buiten, en hij sprak met de portierster en bracht Petrus binnen."
+        },
+        {
+          "nr": 17,
+          "tekst": "De slavin dan, die portierster was, zeide tot Petrus: Gij behoort toch ook niet tot de discipelen van deze mens? Hij zeide: Ik niet!"
+        },
+        {
+          "nr": 18,
+          "tekst": "De slaven en de dienaars stonden zich te warmen bij een kolenvuur, dat zij aangelegd hadden, want het was koud, en ook Petrus stond zich bij hen te warmen."
+        },
+        {
+          "nr": 19,
+          "tekst": "De hogepriester dan vroeg Jezus naar zijn discipelen en naar zijn leer."
+        },
+        {
+          "nr": 20,
+          "tekst": "Jezus antwoordde hem: Ik heb vrijuit tot de wereld gesproken; Ik heb voortdurend in de synagoge geleerd en in de tempel, waar al de Joden bijeenkomen, en in het verborgen heb Ik niets gesproken."
+        },
+        {
+          "nr": 21,
+          "tekst": "Waarom vraagt gij Mij? Vraag hun, die gehoord hebben, wat Ik tot hen gesproken heb; zie, dezen weten, wat Ik gezegd heb."
+        },
+        {
+          "nr": 22,
+          "tekst": "En toen Hij dit zeide, gaf een van de dienaars, die erbij stond, Jezus een slag in het gelaat en zeide: Antwoordt Gij zó de hogepriester?"
+        },
+        {
+          "nr": 23,
+          "tekst": "Jezus antwoordde hem: Indien Ik verkeerd gesproken heb, geef aan wat verkeerd was, maar indien het goed was, waarom slaat gij Mij?"
+        },
+        {
+          "nr": 24,
+          "tekst": "Annas dan zond Hem geboeid naar Kajafas, de hogepriester."
+        },
+        {
+          "nr": 25,
+          "tekst": "En Simon Petrus stond zich te warmen. Zij zeiden dan tot hem: Gij behoort toch ook niet tot zijn discipelen? Hij ontkende het en zeide: Ik niet!"
+        },
+        {
+          "nr": 26,
+          "tekst": "Een der slaven van de hogepriester, een verwant van hem, wiens oor Petrus had afgeslagen, zeide: Zag ik u niet in de hof met Hem?"
+        },
+        {
+          "nr": 27,
+          "tekst": "Petrus dan ontkende het wederom en terstond daarop kraaide een haan."
+        },
+        {
+          "nr": 28,
+          "tekst": "Zij brachten Jezus dan van Kajafas naar het gerechtsgebouw. En het was vroeg in de morgen; doch zelf gingen zij het gerechtsgebouw niet binnen, om zich niet te verontreinigen, maar het Pascha te kunnen eten."
+        },
+        {
+          "nr": 29,
+          "tekst": "Pilatus dan kwam tot hen naar buiten en zeide: Welke aanklacht brengt gij tegen deze mens in?"
+        },
+        {
+          "nr": 30,
+          "tekst": "Zij antwoordden en zeiden tot hem: Indien Hij geen boosdoener was, zouden wij Hem niet aan u overleveren!"
+        },
+        {
+          "nr": 31,
+          "tekst": "Pilatus dan zeide tot hen: Neemt gij Hem en oordeelt Hem naar uw wet. De Joden dan zeiden tot hem: Het is ons niet geoorloofd iemand ter dood te brengen;"
+        },
+        {
+          "nr": 32,
+          "tekst": "opdat het woord van Jezus vervuld werd, dat Hij gezegd had, aanduidende, welke dood Hij sterven zou."
+        },
+        {
+          "nr": 33,
+          "tekst": "Pilatus dan keerde terug in het gerechtsgebouw en riep Jezus en zeide tot Hem: Zijt Gij de Koning der Joden?"
+        },
+        {
+          "nr": 34,
+          "tekst": "Jezus antwoordde: Zegt gij dit uit uzelf of hebben anderen u over Mij gesproken?"
+        },
+        {
+          "nr": 35,
+          "tekst": "Pilatus antwoordde: Ben ik soms een Jood? Uw volk en de overpriesters hebben U aan mij overgeleverd; wat hebt Gij gedaan?"
+        },
+        {
+          "nr": 36,
+          "tekst": "Jezus antwoordde: Mijn Koninkrijk is niet van deze wereld; indien mijn Koninkrijk van deze wereld geweest was, zouden mijn dienaars gestreden hebben, opdat Ik niet aan de Joden zou worden overgeleverd; nu echter is mijn Koninkrijk niet van hier."
+        },
+        {
+          "nr": 37,
+          "tekst": "Pilatus dan zeide tot Hem: Zijt Gij dus toch een koning? Jezus antwoordde: Gij zegt, dat Ik koning ben. Hiertoe ben Ik geboren en hiertoe ben Ik in de wereld gekomen, opdat Ik voor de waarheid zou getuigen; een ieder, die uit de waarheid is, hoort naar mijn stem."
+        },
+        {
+          "nr": 38,
+          "tekst": "Pilatus zeide tot Hem: Wat is waarheid? En na dit gezegd te hebben, kwam hij weder naar buiten tot de Joden en zeide tot hen: Ik vind geen schuld in Hem."
+        },
+        {
+          "nr": 39,
+          "tekst": "Maar bij u bestaat het gebruik, dat ik u op Pascha iemand loslaat: wilt gij dan, dat ik u de Koning der Joden loslaat?"
+        },
+        {
+          "nr": 40,
+          "tekst": "Zij schreeuwden dan wederom en zeiden: Hem niet, maar Barabbas! En Barabbas was een rover."
+        }
+      ]
+    },
+    {
+      "nr": 19,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Toen nam dan Pilatus Jezus en liet Hem geselen."
+        },
+        {
+          "nr": 2,
+          "tekst": "En de soldaten vlochten een kroon van doornen, zetten die op zijn hoofd en deden Hem een purperen kleed om,"
+        },
+        {
+          "nr": 3,
+          "tekst": "en zij traden op Hem toe en zeiden: Gegroet, Koning der Joden! En zij gaven Hem slagen in het gelaat."
+        },
+        {
+          "nr": 4,
+          "tekst": "En Pilatus kwam wederom naar buiten en zeide tot hen: Zie, ik breng Hem voor u naar buiten, opdat gij weet, dat ik geen schuld in Hem vind."
+        },
+        {
+          "nr": 5,
+          "tekst": "Jezus dan kwam naar buiten met de doornenkroon en het purperen kleed. En (Pilatus) zeide tot hen: Zie, de mens!"
+        },
+        {
+          "nr": 6,
+          "tekst": "Toen dan de overpriesters en hun dienaars Hem zagen, schreeuwden zij en zeiden: Kruisigen, kruisigen! Pilatus zeide tot hen: Neemt gij Hem en kruisigt Hem: want ik vind geen schuld in Hem."
+        },
+        {
+          "nr": 7,
+          "tekst": "De Joden antwoordden hem: Wij hebben een wet en naar die wet moet Hij sterven, want Hij heeft Zichzelf Gods Zoon gemaakt."
+        },
+        {
+          "nr": 8,
+          "tekst": "Toen Pilatus dan dit woord hoorde, werd hij nog meer bevreesd,"
+        },
+        {
+          "nr": 9,
+          "tekst": "en hij ging weder het gerechtsgebouw binnen en zeide tot Jezus: Waar zijt Gij vandaan? Maar Jezus gaf hem geen antwoord."
+        },
+        {
+          "nr": 10,
+          "tekst": "Pilatus dan zeide tot Hem: Spreekt Gij niet tot mij? Weet Gij niet, dat ik macht heb U los te laten, maar ook macht om U te kruisigen?"
+        },
+        {
+          "nr": 11,
+          "tekst": "Jezus antwoordde: Gij zoudt geen macht tegen Mij hebben, indien het u niet van boven gegeven ware: daarom heeft hij, die Mij aan u heeft overgeleverd, groter zonde."
+        },
+        {
+          "nr": 12,
+          "tekst": "Van toen af trachtte Pilatus Hem los te laten, maar de Joden schreeuwden en zeiden: Indien gij deze loslaat, zijt gij geen vriend van de keizer; een ieder, die zich koning maakt, verzet zich tegen de keizer."
+        },
+        {
+          "nr": 13,
+          "tekst": "Pilatus dan hoorde deze woorden en hij liet Jezus naar buiten brengen en zette zich op de rechterstoel, op de plaats, genaamd Litostrotos, in het Hebreeuws Gabbata."
+        },
+        {
+          "nr": 14,
+          "tekst": "En het was Voorbereiding voor het Pascha, ongeveer het zesde uur, en hij zeide tot de Joden: Zie, uw koning!"
+        },
+        {
+          "nr": 15,
+          "tekst": "Zij dan schreeuwden: Weg met Hem! Weg met Hem! Kruisig Hem! Pilatus zeide tot hen: Moet ik uw koning kruisigen? De overpriesters antwoordden: Wij hebben geen koning, alleen de keizer!"
+        },
+        {
+          "nr": 16,
+          "tekst": "Toen gaf hij Hem aan hen over om gekruisigd te worden. Zij dan namen Jezus,"
+        },
+        {
+          "nr": 17,
+          "tekst": "en Hij, zelf zijn kruis dragende, ging naar de zogenaamde Schedelplaats, in het Hebreeuws genaamd Golgota,"
+        },
+        {
+          "nr": 18,
+          "tekst": "waar zij Hem kruisigden en met Hem twee anderen, aan weerszijden één, en Jezus in het midden."
+        },
+        {
+          "nr": 19,
+          "tekst": "En Pilatus liet ook een opschrift schrijven en op het kruis plaatsen; er was geschreven: Jezus, de Nazoreeër, de Koning der Joden."
+        },
+        {
+          "nr": 20,
+          "tekst": "Dit opschrift dan lazen vele der Joden, want de plaats, waar Jezus gekruisigd werd, was dicht bij de stad, en het was geschreven in het Hebreeuws, in het Latijn en in het Grieks."
+        },
+        {
+          "nr": 21,
+          "tekst": "De overpriesters der Joden dan zeiden tot Pilatus: Schrijf niet: De Koning der Joden, maar dat Hij gezegd heeft: Ik ben de Koning der Joden."
+        },
+        {
+          "nr": 22,
+          "tekst": "Pilatus antwoordde: Wat ik geschreven heb, dat heb ik geschreven."
+        },
+        {
+          "nr": 23,
+          "tekst": "Toen dan de soldaten Jezus gekruisigd hadden, namen zij zijn klederen en maakten daarvan vier delen, voor iedere soldaat één deel, en zijn onderkleed. Dit kleed nu was zonder naad, aan één stuk geweven."
+        },
+        {
+          "nr": 24,
+          "tekst": "Zij zeiden dan tot elkander: Laten wij dit niet scheuren, maar erom loten, voor wie het zijn zal; zodat het schriftwoord vervuld werd: Zij hebben mijn klederen onder elkander verdeeld en over mijn kleding hebben zij het lot geworpen.Dit hebben dan de soldaten gedaan."
+        },
+        {
+          "nr": 25,
+          "tekst": "En bij het kruis van Jezus stonden zijn moeder en de zuster zijner moeder, Maria van Klopas en Maria van Magdala."
+        },
+        {
+          "nr": 26,
+          "tekst": "Toen dan Jezus zijn moeder zag en de discipel, die Hij liefhad, bij haar staande, zeide Hij tot zijn moeder: Vrouw, zie, uw zoon."
+        },
+        {
+          "nr": 27,
+          "tekst": "Daarna zeide Hij tot de discipel: Zie, uw moeder. En van dat uur af nam de discipel haar bij zich in huis."
+        },
+        {
+          "nr": 28,
+          "tekst": "Hierna zeide Jezus, daar Hij wist, dat alles reeds volbracht was, opdat de Schrift vervuld zou worden: Mij dorst!"
+        },
+        {
+          "nr": 29,
+          "tekst": "Er stond een kruik vol zure wijn; zij staken dan een spons, gedrenkt met zure wijn, op een hysopstengel en brachten die aan zijn mond."
+        },
+        {
+          "nr": 30,
+          "tekst": "Toen Jezus dan de zure wijn genomen had, zeide Hij: Het is volbracht! En Hij boog het hoofd en gaf de geest."
+        },
+        {
+          "nr": 31,
+          "tekst": "De Joden dan, daar het Voorbereiding was en de lichamen niet op sabbat aan het kruis mochten blijven – want de dag van die sabbat was groot – vroegen Pilatus, dat hun benen gebroken en zij weggenomen zouden worden."
+        },
+        {
+          "nr": 32,
+          "tekst": "De soldaten dan kwamen en braken de benen van de eerste en van de andere, die met Hem gekruisigd waren;"
+        },
+        {
+          "nr": 33,
+          "tekst": "maar toen zij bij Jezus gekomen waren en zagen, dat Hij reeds gestorven was, braken zij zijn benen niet,"
+        },
+        {
+          "nr": 34,
+          "tekst": "maar een van de soldaten stak met een speer in zijn zijde en terstond kwam er bloed en water uit."
+        },
+        {
+          "nr": 35,
+          "tekst": "En die het gezien heeft, heeft ervan getuigd en zijn getuigenis is waarachtig en hij weet, dat hij de waarheid spreekt, opdat ook gij gelooft."
+        },
+        {
+          "nr": 36,
+          "tekst": "Want dit is geschied, opdat het schriftwoord zou vervuld worden: Geen been van Hem zal verbrijzeld worden."
+        },
+        {
+          "nr": 37,
+          "tekst": "En weder zegt een ander schriftwoord: Zij zullen zien op Hem, die zij doorstoken hebben."
+        },
+        {
+          "nr": 38,
+          "tekst": "En daarna vroeg Jozef van Arimatea, een discipel van Jezus, maar in het verborgen uit vrees voor de Joden, aan Pilatus het lichaam van Jezus te mogen wegnemen; en Pilatus stond het toe. Hij kwam dan en nam zijn lichaam weg."
+        },
+        {
+          "nr": 39,
+          "tekst": "En ook kwam Nikodemus, die de eerste maal des nachts tot Hem gekomen was, en hij bracht een mengsel mede van mirre en aloë, ongeveer honderd pond."
+        },
+        {
+          "nr": 40,
+          "tekst": "Zij namen dan het lichaam van Jezus en wikkelden het in linnen windsels met de specerijen, zoals het bij de Joden gebruikelijk is te begraven."
+        },
+        {
+          "nr": 41,
+          "tekst": "En er was ter plaatse, waar Hij gekruisigd was, een hof en in die hof een nieuw graf, waarin nog nooit iemand was bijgezet;"
+        },
+        {
+          "nr": 42,
+          "tekst": "daar dan legden zij Jezus neder wegens de Voorbereiding der Joden, omdat het graf dichtbij was."
+        }
+      ]
+    },
+    {
+      "nr": 20,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "En op de eerste dag der week ging Maria van Magdala vroeg, terwijl het nog donker was, naar het graf en zij zag de steen van het graf weggenomen."
+        },
+        {
+          "nr": 2,
+          "tekst": "IJlings kwam zij dan bij Simon Petrus en bij de andere discipel, dien Jezus liefhad, en zeide tot hen: Zij hebben de Here weggenomen uit het graf en wij weten niet, waar zij Hem hebben neergelegd."
+        },
+        {
+          "nr": 3,
+          "tekst": "Petrus dan ging op weg en ook de andere discipel en zij begaven zich naar het graf;"
+        },
+        {
+          "nr": 4,
+          "tekst": "en die twee liepen samen snel voort; en de andere discipel liep vooruit, sneller dan Petrus, en kwam het eerst aan het graf,"
+        },
+        {
+          "nr": 5,
+          "tekst": "en zich vooroverbuigende, zag hij de linnen windsels liggen; hij ging echter niet naar binnen."
+        },
+        {
+          "nr": 6,
+          "tekst": "Simon Petrus dan kwam ook, hem volgende, en hij ging het graf binnen en zag de windsels liggen,"
+        },
+        {
+          "nr": 7,
+          "tekst": "maar de zweetdoek, die op zijn hoofd geweest was, zag hij niet bij de windsels liggen, doch opgerold, terzijde op een andere plaats."
+        },
+        {
+          "nr": 8,
+          "tekst": "Toen ging ook de andere discipel, die het eerst aan het graf gekomen was, naar binnen, en hij zag het en geloofde;"
+        },
+        {
+          "nr": 9,
+          "tekst": "want zij kenden de Schrift nog niet, dat Hij uit de doden moest opstaan."
+        },
+        {
+          "nr": 10,
+          "tekst": "De discipelen dan gingen weder naar huis."
+        },
+        {
+          "nr": 11,
+          "tekst": "En Maria stond buiten dicht bij het graf, wenende. Terwijl zij dan weende, boog zij zich voorover naar het graf,"
+        },
+        {
+          "nr": 12,
+          "tekst": "en zij zag twee engelen zitten, in witte klederen, een aan het hoofdeinde en een aan het voeteneinde, waar het lichaam van Jezus gelegen had."
+        },
+        {
+          "nr": 13,
+          "tekst": "En zij zeiden tot haar: Vrouw, waarom weent gij? Zij zeide tot hen: Omdat zij mijn Here weggenomen hebben en ik weet niet, waar zij Hem neergelegd hebben."
+        },
+        {
+          "nr": 14,
+          "tekst": "Na deze woorden keerde zij zich om en zag Jezus staan, maar zij wist niet, dat het Jezus was."
+        },
+        {
+          "nr": 15,
+          "tekst": "Jezus zeide tot haar: Vrouw, waarom weent gij? Wie zoekt gij? Zij meende, dat het de hovenier was, en zeide tot Hem: Heer, als gij Hem weggedragen hebt, zeg mij dan, waar gij Hem hebt neergelegd en ik zal Hem wegnemen."
+        },
+        {
+          "nr": 16,
+          "tekst": "Jezus zeide tot haar: Maria! Zij keerde zich om en zeide tot Hem in het Hebreeuws: Rabboeni, dat wil zeggen: Meester!"
+        },
+        {
+          "nr": 17,
+          "tekst": "Jezus zeide tot haar: Houd Mij niet vast, want Ik ben nog niet opgevaren naar de Vader; maar ga naar mijn broeders en zeg hun: Ik vaar op naar mijn Vader en uw Vader, naar mijn God en uw God."
+        },
+        {
+          "nr": 18,
+          "tekst": "Maria van Magdala ging heen en boodschapte de discipelen, dat zij de Here had gezien en dat Hij haar dit gezegd had."
+        },
+        {
+          "nr": 19,
+          "tekst": "Toen het dan avond was op die eerste dag der week en ter plaatse, waar de discipelen zich bevonden, de deuren gesloten waren uit vrees voor de Joden, kwam Jezus en stond in hun midden en zeide tot hen: Vrede zij u!"
+        },
+        {
+          "nr": 20,
+          "tekst": "En na dit gezegd te hebben toonde Hij hun zijn handen en zijn zijde. De discipelen dan waren verblijd, toen zij de Here zagen."
+        },
+        {
+          "nr": 21,
+          "tekst": "[Jezus] dan zeide nogmaals tot hen: Vrede zij u! Gelijk de Vader Mij gezonden heeft, zend Ik ook u."
+        },
+        {
+          "nr": 22,
+          "tekst": "En na dit gezegd te hebben, blies Hij op hen en zeide tot hen: Ontvangt de heilige Geest."
+        },
+        {
+          "nr": 23,
+          "tekst": "Wie gij hun zonden kwijtscheldt, die zijn ze kwijtgescholden; wie gij ze toerekent, die zijn ze toegerekend."
+        },
+        {
+          "nr": 24,
+          "tekst": "En Tomas, een der twaalven, genaamd Didymus, was niet met hen, toen Jezus daar kwam."
+        },
+        {
+          "nr": 25,
+          "tekst": "De andere discipelen dan zeiden tot hem: Wij hebben de Here gezien! Maar hij zeide tot hen: Indien ik in zijn handen niet zie het teken der nagels en mijn vinger niet steek in de plaats der nagels en mijn hand niet steek in zijn zijde, zal ik geenszins geloven."
+        },
+        {
+          "nr": 26,
+          "tekst": "En na acht dagen waren zijn discipelen weer in het huis en Tomas met hen. Jezus kwam, terwijl de deuren gesloten waren, en Hij stond in hun midden en zeide: Vrede zij u!"
+        },
+        {
+          "nr": 27,
+          "tekst": "Daarna zeide Hij tot Tomas: Breng uw vinger hier en zie mijn handen en breng uw hand en steek die in mijn zijde, en wees niet ongelovig, maar gelovig."
+        },
+        {
+          "nr": 28,
+          "tekst": "Tomas antwoordde en zeide tot Hem: Mijn Here en mijn God!"
+        },
+        {
+          "nr": 29,
+          "tekst": "Jezus zeide tot hem: Omdat gij Mij gezien hebt, hebt gij geloofd? Zalig zij, die niet gezien hebben en toch geloven."
+        },
+        {
+          "nr": 30,
+          "tekst": "Jezus heeft nog wel vele andere tekenen voor de ogen zijner discipelen gedaan, die niet beschreven zijn in dit boek,"
+        },
+        {
+          "nr": 31,
+          "tekst": "maar deze zijn geschreven, opdat gij gelooft, dat Jezus is de Christus, de Zoon van God, en opdat gij, gelovende, het leven hebt in zijn naam."
+        }
+      ]
+    },
+    {
+      "nr": 21,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Hierna openbaarde Jezus Zich opnieuw aan de discipelen bij de zee van Tiberias en Hij openbaarde Zich aldus."
+        },
+        {
+          "nr": 2,
+          "tekst": "Daar waren bijeen Simon Petrus, Tomas, genaamd Didymus, Natanaël van Kana in Galilea, de zonen van Zebedeüs en nog twee van zijn discipelen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Simon Petrus zeide tot hen: Ik ga vissen. Zij zeiden tot hem: Wij gaan met u mede. Zij vertrokken en gingen scheep, en in die nacht vingen zij niets."
+        },
+        {
+          "nr": 4,
+          "tekst": "Toen het reeds morgen werd, stond Jezus aan de oever; de discipelen wisten echter niet, dat het Jezus was."
+        },
+        {
+          "nr": 5,
+          "tekst": "Jezus zeide tot hen: Kinderen, hebt gij ook enige toespijs? Zij antwoordden Hem: Neen."
+        },
+        {
+          "nr": 6,
+          "tekst": "Hij nu zeide tot hen: Werpt uw net uit aan de rechterzijde van het schip en gij zult vinden. Zij wierpen het (net) uit en konden het niet meer trekken vanwege de menigte der vissen."
+        },
+        {
+          "nr": 7,
+          "tekst": "Die discipel dan, dien Jezus liefhad, zeide tot Petrus: Het is de Here. Simon Petrus dan, toen hij hoorde, dat het de Here was, sloeg zijn opperkleed om, want hij was ongekleed, en wierp zich in zee;"
+        },
+        {
+          "nr": 8,
+          "tekst": "maar de andere discipelen kwamen met het schip, want zij waren niet ver van het land, slechts ongeveer tweehonderd el, en zij sleepten het net met de vissen."
+        },
+        {
+          "nr": 9,
+          "tekst": "Toen zij dan aan land gekomen waren, zagen zij een kolenvuur liggen en vis daarop en brood."
+        },
+        {
+          "nr": 10,
+          "tekst": "Jezus zeide tot hen: Brengt van de vissen, die gij thans gevangen hebt."
+        },
+        {
+          "nr": 11,
+          "tekst": "Simon Petrus ging aan boord en sleepte het net aan land, vol grote vissen, honderd drieënvijftig; en hoewel er zovele waren, scheurde het net niet."
+        },
+        {
+          "nr": 12,
+          "tekst": "Jezus zeide tot hen: Komt en houdt de maaltijd. Niemand van de discipelen durfde Hem de vraag stellen: Wie zijt Gij? Want zij wisten, dat het de Here was."
+        },
+        {
+          "nr": 13,
+          "tekst": "Jezus kwam en Hij nam het brood en gaf het hun en evenzo de vis."
+        },
+        {
+          "nr": 14,
+          "tekst": "Dit was reeds de derde maal, dat Jezus na zijn opwekking uit de doden Zich aan zijn discipelen geopenbaard heeft."
+        },
+        {
+          "nr": 15,
+          "tekst": "Toen zij dan de maaltijd gehouden hadden, zeide Jezus tot Simon Petrus: Simon, zoon van Johannes, hebt gij Mij waarlijk lief, meer dan dezen? Hij zeide tot Hem: Ja Here, Gij weet, dat ik U liefheb. Hij zeide tot hem: Weid mijn lammeren."
+        },
+        {
+          "nr": 16,
+          "tekst": "Hij zeide ten tweeden male weder tot hem: Simon, zoon van Johannes, hebt gij Mij waarlijk lief? En hij zeide tot Hem: Ja Here, Gij weet het, dat ik U liefheb. Hij zeide tot hem: Hoed mijn schapen."
+        },
+        {
+          "nr": 17,
+          "tekst": "Hij zeide ten derden male tot hem: Simon, zoon van Johannes, hebt gij Mij lief? Petrus werd bedroefd, dat Hij voor de derde maal tot hem zeide: Hebt gij Mij lief? En hij zeide tot Hem: Here, Gij weet alles, Gij weet, dat ik U liefheb. Jezus zeide tot hem: Weid mijn schapen."
+        },
+        {
+          "nr": 18,
+          "tekst": "Voorwaar, voorwaar, Ik zeg u: Toen gij jonger waart, omgorddet gij uzelf en gij gingt, waar gij wildet, maar wanneer gij eenmaal oud wordt, zult gij uw handen uitstrekken en een ander zal u omgorden en u brengen, waar gij niet wilt."
+        },
+        {
+          "nr": 19,
+          "tekst": "En dit zeide Hij om te kennen te geven, met welke dood hij God verheerlijken zou. En dit gezegd hebbende, sprak Hij tot hem: Volg Mij."
+        },
+        {
+          "nr": 20,
+          "tekst": "En Petrus, zich omwendende, zag de discipel volgen, dien Jezus liefhad, die zich bij de maaltijd aan zijn borst geworpen had en gezegd had: Here, wie is het die U verraadt?"
+        },
+        {
+          "nr": 21,
+          "tekst": "Toen hij deze zag, zeide Petrus tot Jezus: Here, maar wat zal met deze gebeuren?"
+        },
+        {
+          "nr": 22,
+          "tekst": "Jezus zeide tot hem: Indien Ik wil, dat hij blijft, totdat Ik kom, wat gaat het u aan? Volg gij Mij."
+        },
+        {
+          "nr": 23,
+          "tekst": "Dit gerucht ging dan uit onder de broeders, dat die discipel niet sterven zou; doch Jezus had niet tot hem gezegd, dat hij niet zou sterven, maar: Indien Ik wil, dat hij blijft, totdat Ik kom, wat gaat het u aan?"
+        },
+        {
+          "nr": 24,
+          "tekst": "Dit is de discipel, die van deze dingen getuigt en die deze beschreven heeft en wij weten, dat zijn getuigenis waar is."
+        },
+        {
+          "nr": 25,
+          "tekst": "Er zijn echter nog vele andere dingen, die Jezus gedaan heeft; indien deze één voor één beschreven werden, dan zou, naar ik meen, de wereld zelf de boeken, die geschreven werden, niet kunnen bevatten."
+        }
+      ]
+    }
+  ]
+}

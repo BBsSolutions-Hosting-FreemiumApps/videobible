@@ -1,0 +1,409 @@
+{
+  "boek": "kol",
+  "naam": "Kolossenzen",
+  "testament": "NT",
+  "voorbeeld": false,
+  "bron": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "hoofdstukken": [
+    {
+      "nr": 1,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Paulus, door de wil van God een apostel van Christus Jezus, en Timoteüs onze broeder,"
+        },
+        {
+          "nr": 2,
+          "tekst": "aan de heilige en gelovige broeders in Christus te Kolosse: genade en vrede zij u van God, onze Vader."
+        },
+        {
+          "nr": 3,
+          "tekst": "Wij danken God, de Vader van onze Here Jezus [Christus], te allen tijde bij ons bidden voor u,"
+        },
+        {
+          "nr": 4,
+          "tekst": "daar wij gehoord hebben van uw geloof in Christus Jezus en van de liefde, die gij al de heiligen toedraagt,"
+        },
+        {
+          "nr": 5,
+          "tekst": "om de hoop, die voor u is weggelegd in de hemelen. Daarvan hebt gij tevoren gehoord in de prediking der waarheid, het evangelie,"
+        },
+        {
+          "nr": 6,
+          "tekst": "dat tot u gekomen is. Immers, in de gehele wereld draagt het vrucht en wast het op, zoals ook bij u, sedert de dag, dat gij het gehoord hebt en de genade Gods in waarheid hebt leren kennen;"
+        },
+        {
+          "nr": 7,
+          "tekst": "zoals gij het vernomen hebt van Epafras, onze geliefde mededienstknecht, die voor u een getrouw dienaar van Christus is,"
+        },
+        {
+          "nr": 8,
+          "tekst": "en ons ook kenbaar gemaakt heeft uw liefde in de Geest."
+        },
+        {
+          "nr": 9,
+          "tekst": "Daarom houden ook wij sedert de dag, dat wij dit gehoord hebben, niet op voor u te bidden en te vragen, dat gij met de rechte kennis van zijn wil vervuld moogt worden, in alle wijsheid en geestelijk inzicht,"
+        },
+        {
+          "nr": 10,
+          "tekst": "om de Here waardig te wandelen, Hem in alles te behagen, in alle goed werk vrucht te dragen en op te wassen in de rechte kennis van God."
+        },
+        {
+          "nr": 11,
+          "tekst": "Zo wordt gij met alle kracht bekrachtigd naar de macht zijner heerlijkheid tot alle volharding en geduld,"
+        },
+        {
+          "nr": 12,
+          "tekst": "en dankt gij met blijdschap de Vader, die u toebereid heeft voor het erfdeel der heiligen in het licht."
+        },
+        {
+          "nr": 13,
+          "tekst": "Hij heeft ons verlost uit de macht der duisternis en overgebracht in het Koninkrijk van de Zoon zijner liefde,"
+        },
+        {
+          "nr": 14,
+          "tekst": "in wie wij de verlossing hebben, de vergeving der zonden."
+        },
+        {
+          "nr": 15,
+          "tekst": "Hij is het beeld van de onzichtbare God, de eerstgeborene der ganse schepping,"
+        },
+        {
+          "nr": 16,
+          "tekst": "want in Hem zijn alle dingen geschapen, die in de hemelen en die op de aarde zijn, de zichtbare en de onzichtbare, hetzij tronen, hetzij heerschappijen, hetzij overheden, hetzij machten; alle dingen zijn door Hem en tot Hem geschapen;"
+        },
+        {
+          "nr": 17,
+          "tekst": "en Hij is vóór alles en alle dingen hebben hun bestaan in Hem;"
+        },
+        {
+          "nr": 18,
+          "tekst": "en Hij is het hoofd van het lichaam, de gemeente. Hij is het begin, de eerstgeborene uit de doden, zodat Hij onder alles de eerste geworden is."
+        },
+        {
+          "nr": 19,
+          "tekst": "Want het heeft de ganse volheid behaagd in Hem woning te maken,"
+        },
+        {
+          "nr": 20,
+          "tekst": "en door Hem, vrede gemaakt hebbende door het bloed zijns kruises, alle dingen weder met Zich te verzoenen, door Hem, hetzij wat op de aarde, hetzij wat in de hemelen is."
+        },
+        {
+          "nr": 21,
+          "tekst": "Ook u, die eertijds vervreemd en vijandig gezind waart blijkens uw boze werken, heeft Hij thans weder verzoend,"
+        },
+        {
+          "nr": 22,
+          "tekst": "in het lichaam zijns vlezes, door de dood, om u heilig en onbesmet en onberispelijk vóór Zich te stellen,"
+        },
+        {
+          "nr": 23,
+          "tekst": "indien gij slechts wel gegrond en standvastig blijft in het geloof en u niet laat afbrengen van de hoop van het evangelie, dat gij gehoord hebt en dat verkondigd is in de ganse schepping onder de hemel, en waarvan ik, Paulus, een dienaar geworden ben."
+        },
+        {
+          "nr": 24,
+          "tekst": "Thans verblijd ik mij over hetgeen ik om uwentwil lijd, en vul ik in mijn vlees aan wat ontbreekt aan de verdrukkingen van Christus, ten behoeve van zijn lichaam, dat is de gemeente."
+        },
+        {
+          "nr": 25,
+          "tekst": "Haar dienaar ben ik geworden krachtens de bediening, die mij door God is toevertrouwd, om onder u het woord van God tot zijn volle recht te doen komen,"
+        },
+        {
+          "nr": 26,
+          "tekst": "het geheimenis, dat eeuwen en geslachten lang verborgen is geweest, maar thans geopenbaard aan zijn heiligen."
+        },
+        {
+          "nr": 27,
+          "tekst": "Hun heeft God willen bekendmaken, hoe rijk de heerlijkheid van dit geheimenis is onder de heidenen: Christus onder u, de hoop der heerlijkheid."
+        },
+        {
+          "nr": 28,
+          "tekst": "Hem verkondigen wij, wanneer wij ieder mens terechtwijzen en ieder mens onderrichten in alle wijsheid, om ieder mens in Christus volmaakt te doen zijn."
+        },
+        {
+          "nr": 29,
+          "tekst": "Hiervoor span ik mij ook in, onder zware strijd, naar zijn werking, die in mij werkt met kracht."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Want ik stel er prijs op, dat gij weet, hoe zware strijd ik te voeren heb voor u, en voor hen, die te Laodicea zijn en voor allen, die mijn aangezicht niet hebben gezien in het vlees,"
+        },
+        {
+          "nr": 2,
+          "tekst": "opdat hun harten getroost en zij in de liefde verenigd worden tot alle rijkdom van een volledig inzicht, en zij het geheimenis Gods mogen kennen, Christus,"
+        },
+        {
+          "nr": 3,
+          "tekst": "in wie al de schatten der wijsheid en kennis verborgen zijn."
+        },
+        {
+          "nr": 4,
+          "tekst": "Dit zeg ik, opdat niemand u met drogredenen misleide."
+        },
+        {
+          "nr": 5,
+          "tekst": "Want al ben ik naar het vlees afwezig, naar de geest ben ik bij u en ik zie met blijdschap de orde, die bij u heerst, en de hechtheid van uw geloof in Christus."
+        },
+        {
+          "nr": 6,
+          "tekst": "Nu gij Christus Jezus, de Here, aanvaard hebt, wandelt in Hem,"
+        },
+        {
+          "nr": 7,
+          "tekst": "geworteld en dan opgebouwd wordend in Hem, bevestigd wordend in het geloof, zoals u geleerd is, overvloeiende in dankzegging."
+        },
+        {
+          "nr": 8,
+          "tekst": "Ziet toe, dat niemand u medeslepe door zijn wijsbegeerte en door ijdel bedrog in overeenstemming met de overlevering der mensen, met de wereldgeesten en niet met Christus,"
+        },
+        {
+          "nr": 9,
+          "tekst": "want in Hem woont al de volheid der godheid lichamelijk;"
+        },
+        {
+          "nr": 10,
+          "tekst": "en gij hebt de volheid verkregen in Hem, die het hoofd is van alle overheid en macht."
+        },
+        {
+          "nr": 11,
+          "tekst": "In Hem zijt gij ook met een besnijdenis, die geen werk van mensenhanden is, besneden door het afleggen van het lichaam des vlezes, in de besnijdenis van Christus,"
+        },
+        {
+          "nr": 12,
+          "tekst": "daar gij met Hem begraven zijt in de doop. In Hem zijt gij ook mede opgewekt door het geloof aan de werking Gods, die Hem uit de doden heeft opgewekt."
+        },
+        {
+          "nr": 13,
+          "tekst": "Ook u heeft Hij, hoewel gij dood waart door uw overtredingen en onbesnedenheid naar het vlees, levend gemaakt met Hem, toen Hij ons al onze overtredingen kwijtschold,"
+        },
+        {
+          "nr": 14,
+          "tekst": "door het bewijsstuk uit te wissen, dat door zijn inzettingen tegen ons getuigde en ons bedreigde. En dat heeft Hij weggedaan door het aan het kruis te nagelen:"
+        },
+        {
+          "nr": 15,
+          "tekst": "Hij heeft de overheden en machten ontwapend en openlijk tentoongesteld en zo over hen gezegevierd."
+        },
+        {
+          "nr": 16,
+          "tekst": "Laat dan niemand u blijven oordelen inzake eten en drinken of op het stuk van een feestdag, nieuwe maan of sabbat,"
+        },
+        {
+          "nr": 17,
+          "tekst": "dingen, die slechts een schaduw zijn van hetgeen komen moest, terwijl de werkelijkheid van Christus is."
+        },
+        {
+          "nr": 18,
+          "tekst": "Laat niemand u de prijs doen missen door gewilde nederigheid en engelenverering, als ingewijde in wat hij heeft aanschouwd, zonder reden opgeblazen door zijn vleselijk denken,"
+        },
+        {
+          "nr": 19,
+          "tekst": "terwijl hij zich niet houdt aan het hoofd, waaruit het gehele lichaam, door pezen en banden ondersteund en samengehouden, zijn goddelijke wasdom ontvangt."
+        },
+        {
+          "nr": 20,
+          "tekst": "Indien gij met Christus afgestorven zijt aan de wereldgeesten, waartoe laat gij u, alsof gij in de wereld leefdet, geboden opleggen:"
+        },
+        {
+          "nr": 21,
+          "tekst": "raak niet, smaak niet, roer niet aan;"
+        },
+        {
+          "nr": 22,
+          "tekst": "dat alles zijn dingen, die door het gebruik teloorgaan, zoals het gaat met voorschriften en leringen van mensen."
+        },
+        {
+          "nr": 23,
+          "tekst": "Dit toch is, al staat het in een roep van wijsheid met zijn eigendunkelijke godsdienst, zijn nederigheid en zijn kastijding van het lichaam, zonder enige waarde (en dient slechts) tot bevrediging van het vlees."
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Indien gij dan met Christus opgewekt zijt, zoekt de dingen, die boven zijn, waar Christus is, gezeten aan de rechterhand Gods."
+        },
+        {
+          "nr": 2,
+          "tekst": "Bedenkt de dingen, die boven zijn, niet die op de aarde zijn."
+        },
+        {
+          "nr": 3,
+          "tekst": "Want gij zijt gestorven en uw leven is verborgen met Christus in God."
+        },
+        {
+          "nr": 4,
+          "tekst": "Wanneer Christus verschijnt, die ons leven is, zult ook gij met Hem verschijnen in heerlijkheid."
+        },
+        {
+          "nr": 5,
+          "tekst": "Doodt dan de leden, die op de aarde zijn: hoererij, onreinheid, hartstocht, boze begeerte en de hebzucht, die niet anders is dan afgoderij,"
+        },
+        {
+          "nr": 6,
+          "tekst": "om welke dingen de toorn Gods komt."
+        },
+        {
+          "nr": 7,
+          "tekst": "Daarin hebt ook gij eertijds gewandeld, toen gij erin leefdet."
+        },
+        {
+          "nr": 8,
+          "tekst": "Maar thans moet ook gij dit alles wegdoen: toorn, heftigheid, kwaadaardigheid, laster en vuile taal uit uw mond."
+        },
+        {
+          "nr": 9,
+          "tekst": "Liegt niet meer tegen elkander, daar gij de oude mens met zijn praktijken afgelegd,"
+        },
+        {
+          "nr": 10,
+          "tekst": "en de nieuwe aangedaan hebt, die vernieuwd wordt tot volle kennis naar het beeld van zijn Schepper,"
+        },
+        {
+          "nr": 11,
+          "tekst": "waarbij geen onderscheid is tussen Griek en Jood, besneden of onbesneden, barbaar en Skyth, slaaf en vrije, maar alles en in allen is Christus."
+        },
+        {
+          "nr": 12,
+          "tekst": "Doet dan aan, als door God uitverkoren heiligen en geliefden, innerlijke ontferming, goedheid, nederigheid, zachtmoedigheid en geduld."
+        },
+        {
+          "nr": 13,
+          "tekst": "Verdraagt elkander en vergeeft elkander, indien de een tegen de ander een grief heeft; gelijk ook de Here u vergeven heeft, doet ook gij evenzo."
+        },
+        {
+          "nr": 14,
+          "tekst": "En doet bij dit alles de liefde aan, als de band der volmaaktheid."
+        },
+        {
+          "nr": 15,
+          "tekst": "En de vrede van Christus, tot welke gij immers in één lichaam geroepen zijt, regere in uw harten; en weest dankbaar."
+        },
+        {
+          "nr": 16,
+          "tekst": "Het woord van Christus wone rijkelijk in u, zodat gij in alle wijsheid elkander leert en terechtwijst en met psalmen, lofzangen en geestelijke liederen zingende, Gode dank brengt in uw harten."
+        },
+        {
+          "nr": 17,
+          "tekst": "En al wat gij doet met woord of werk, doet het alles in de naam des Heren Jezus, God, de Vader, dankende door Hem!"
+        },
+        {
+          "nr": 18,
+          "tekst": "Vrouwen, weest uw man onderdanig, gelijk het betaamt in de Here."
+        },
+        {
+          "nr": 19,
+          "tekst": "Mannen, hebt uw vrouw lief en weest niet ruw tegen haar."
+        },
+        {
+          "nr": 20,
+          "tekst": "Kinderen, gehoorzaamt uw ouders in alles, want dit is welbehaaglijk in de Here."
+        },
+        {
+          "nr": 21,
+          "tekst": "Vaders, prikkelt uw kinderen niet, opdat zij niet moedeloos worden."
+        },
+        {
+          "nr": 22,
+          "tekst": "Slaven, gehoorzaamt uw heren naar het vlees in alles, niet als mensenbehagers om hen naar de ogen te zien, maar met eenvoud des harten in de vreze des Heren."
+        },
+        {
+          "nr": 23,
+          "tekst": "Wat gij ook doet, verricht uw werk van harte, als voor de Here en niet voor mensen;"
+        },
+        {
+          "nr": 24,
+          "tekst": "gij weet toch, dat gij van de Here tot vergelding de erfenis zult ontvangen. Gij dient Christus als heer."
+        },
+        {
+          "nr": 25,
+          "tekst": "Want wie onrecht doet, zal zijn onrecht terugontvangen, en er is geen aanzien des persoons."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Heren, betracht jegens uw slaven recht en billijkheid; gij weet toch, dat ook gij een heer in de hemel hebt."
+        },
+        {
+          "nr": 2,
+          "tekst": "Volhardt in het gebed, weest daarbij waakzaam en dankt"
+        },
+        {
+          "nr": 3,
+          "tekst": "en bidt tevens voor ons, dat God een deur voor ons woord opene, om te spreken van het geheimenis van Christus, ter wille waarvan ik ook gevangen zit."
+        },
+        {
+          "nr": 4,
+          "tekst": "Dan zal ik het zó in het licht stellen, als ik het behoor te spreken."
+        },
+        {
+          "nr": 5,
+          "tekst": "Gedraagt u als wijzen ten opzichte van hen die buiten staan, maakt u de gelegenheid ten nutte."
+        },
+        {
+          "nr": 6,
+          "tekst": "Uw spreken zij te allen tijde aangenaam, niet zouteloos; gij moet weten, hoe gij aan ieder het juiste antwoord moet geven."
+        },
+        {
+          "nr": 7,
+          "tekst": "Van al mijn omstandigheden zal Tychikus, mijn geliefde broeder en getrouwe dienaar en mededienstknecht in de Here, u op de hoogte brengen."
+        },
+        {
+          "nr": 8,
+          "tekst": "Ik heb hem juist daarom tot u gezonden, dat gij zoudt vernemen, hoe het met ons staat en dat hij uw hart vertrooste,"
+        },
+        {
+          "nr": 9,
+          "tekst": "samen met Onesimus, mijn getrouwe en geliefde broeder, die een der uwen is. Zij zullen u van alle omstandigheden hier op de hoogte brengen."
+        },
+        {
+          "nr": 10,
+          "tekst": "Aristarchus, mijn medegevangene, laat u groeten, en Marcus, de neef van Barnabas – over hem hebt gij opdracht gekregen; ontvangt hem, indien hij bij u mocht komen –"
+        },
+        {
+          "nr": 11,
+          "tekst": "en Jezus genaamd Justus, de enigen uit de besnedenen, die mijn medewerkers zijn voor het Koninkrijk Gods, en die mij dan ook tot troost zijn geweest."
+        },
+        {
+          "nr": 12,
+          "tekst": "Epafras laat u groeten, die een der uwen is, een dienstknecht van Christus Jezus, altijd in zijn gebeden voor u worstelende, dat gij moogt staan, volmaakt en verzekerd bij alles wat God wil."
+        },
+        {
+          "nr": 13,
+          "tekst": "Want ik kan van hem getuigen, dat hij zich veel moeite heeft gegeven voor u en voor hen, die te Laodicea en te Hiërapolis zijn."
+        },
+        {
+          "nr": 14,
+          "tekst": "De geliefde geneesheer Lucas en ook Demas laten u groeten."
+        },
+        {
+          "nr": 15,
+          "tekst": "Groet de broeders te Laodicea; ook Nymfa met de gemeente bij haar aan huis."
+        },
+        {
+          "nr": 16,
+          "tekst": "En wanneer deze brief bij u is voorgelezen, zorgt dan, dat hij ook in de gemeente te Laodicea voorgelezen wordt en dat ook gij die van Laodicea u laat voorlezen."
+        },
+        {
+          "nr": 17,
+          "tekst": "En zegt tot Archippus: Zorg dat gij de bediening, die gij in de Here aanvaard hebt, ook vervult."
+        },
+        {
+          "nr": 18,
+          "tekst": "Een eigenhandige groet van mij, Paulus. Gedenkt mijn gevangenschap. De genade zij met u."
+        }
+      ]
+    }
+  ]
+}

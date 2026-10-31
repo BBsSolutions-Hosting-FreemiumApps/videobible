@@ -1,0 +1,26 @@
+{
+  "name": "videobijbel",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Statische Nederlandstalige bijbelwebsite met video's bij de tekst.",
+  "scripts": {
+    "dev": "astro dev",
+    "bouw": "astro build && node scripts/zet-paginas-klaar.mjs && node scripts/controleer-youtube-vrij.mjs",
+    "preview": "astro preview --host 127.0.0.1",
+    "test": "vitest run && node scripts/controleer-data.mjs",
+    "importeer": "node scripts/importeer-bijbel.mjs",
+    "genereer": "node scripts/genereer-voorbeeldtekst.mjs",
+    "controleer": "node scripts/controleer-data.mjs"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/literata": "^5.3.0",
+    "astro": "^5.18.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.5"
+  }
+}

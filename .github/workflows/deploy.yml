@@ -1,0 +1,20 @@
+# Handmatige controle. Deze workflow publiceert niets en wijzigt geen Pages-instelling.
+# GitHub Pages staat op Deploy from a branch: main / root en dient de bestanden in de root.
+name: Controleer bouw
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  bouw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run bouw
+      - run: git diff --exit-code

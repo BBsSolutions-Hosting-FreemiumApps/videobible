@@ -1,0 +1,454 @@
+{
+  "boek": "1joh",
+  "naam": "1 Johannes",
+  "testament": "NT",
+  "voorbeeld": false,
+  "bron": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+  "hoofdstukken": [
+    {
+      "nr": 1,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Hetgeen was van den beginne, hetgeen wij gehoord hebben, hetgeen wij gezien hebben met onze (eigen) ogen, hetgeen wij aanschouwd hebben en onze handen getast hebben van het Woord des levens"
+        },
+        {
+          "nr": 2,
+          "tekst": "– het leven toch is geopenbaard en wij hebben gezien en getuigen en verkondigen u het eeuwige leven, dat bij de Vader was en aan ons geopenbaard is –"
+        },
+        {
+          "nr": 3,
+          "tekst": "hetgeen wij gezien en gehoord hebben, verkondigen wij ook u, opdat ook gij met ons gemeenschap zoudt hebben. En ónze gemeenschap is met de Vader en met zijn Zoon Jezus Christus."
+        },
+        {
+          "nr": 4,
+          "tekst": "En deze dingen schrijven wij, opdat onze blijdschap volkomen zij."
+        },
+        {
+          "nr": 5,
+          "tekst": "En dit is de verkondiging, die wij van Hem gehoord hebben en u verkondigen: God is licht en in Hem is in het geheel geen duisternis."
+        },
+        {
+          "nr": 6,
+          "tekst": "Indien wij zeggen, dat wij gemeenschap met Hem hebben en in de duisternis wandelen, dan liegen wij en doen de waarheid niet;"
+        },
+        {
+          "nr": 7,
+          "tekst": "maar indien wij in het licht wandelen, gelijk Hij in het licht is, hebben wij gemeenschap met elkander; en het bloed van Jezus, zijn Zoon, reinigt ons van alle zonde."
+        },
+        {
+          "nr": 8,
+          "tekst": "Indien wij zeggen, dat wij geen zonde hebben, misleiden wij onszelf en de waarheid is in ons niet."
+        },
+        {
+          "nr": 9,
+          "tekst": "Indien wij onze zonden belijden, Hij is getrouw en rechtvaardig, om ons de zonden te vergeven en ons te reinigen van alle ongerechtigheid."
+        },
+        {
+          "nr": 10,
+          "tekst": "Indien wij zeggen, dat wij niet gezondigd hebben, maken wij Hem tot een leugenaar en zijn woord is in ons niet."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Mijn kinderkens, dit schrijf ik u, opdat gij niet tot zonde komt. En als iemand gezondigd heeft, wij hebben een voorspraak bij de Vader, Jezus Christus, de rechtvaardige;"
+        },
+        {
+          "nr": 2,
+          "tekst": "en Hij is een verzoening voor onze zonden en niet alleen voor de onze, maar ook voor die der gehele wereld."
+        },
+        {
+          "nr": 3,
+          "tekst": "En hieraan onderkennen wij, dat wij Hem kennen: indien wij zijn geboden bewaren."
+        },
+        {
+          "nr": 4,
+          "tekst": "Wie zegt: Ik ken Hem, en zijn geboden niet bewaart, is een leugenaar en in die is de waarheid niet;"
+        },
+        {
+          "nr": 5,
+          "tekst": "maar wie zijn woord bewaart, in die is waarlijk de liefde Gods volmaakt. Hieraan onderkennen wij, dat wij in Hem zijn."
+        },
+        {
+          "nr": 6,
+          "tekst": "Wie zegt, dat hij in Hem blijft, behoort ook zelf zó te wandelen, als Hij gewandeld heeft."
+        },
+        {
+          "nr": 7,
+          "tekst": "Geliefden, ik schrijf u geen nieuw gebod, maar een oud gebod, dat gij van den beginne gehad hebt. Dit oude gebod is het woord, dat gij gehoord hebt."
+        },
+        {
+          "nr": 8,
+          "tekst": "Toch schrijf ik u een nieuw gebod, want – wat waarheid is in Hem en in u – de duisternis gaat voorbij en het waarachtige licht schijnt reeds."
+        },
+        {
+          "nr": 9,
+          "tekst": "Wie zegt in het licht te zijn en zijn broeder haat, die is in de duisternis tot nu toe."
+        },
+        {
+          "nr": 10,
+          "tekst": "Wie zijn broeder liefheeft, blijft in het licht en in hem is niets aanstotelijks;"
+        },
+        {
+          "nr": 11,
+          "tekst": "maar wie zijn broeder haat, is in de duisternis en wandelt in de duisternis, en hij weet niet waar hij heengaat, want de duisternis heeft zijn ogen verblind."
+        },
+        {
+          "nr": 12,
+          "tekst": "Ik schrijf u, kinderkens, want de zonden zijn u vergeven om zijns naams wil."
+        },
+        {
+          "nr": 13,
+          "tekst": "Ik schrijf u, vaders, want gij kent Hem, die van den beginne is. Ik schrijf u, jongelingen, want gij hebt de boze overwonnen. Ik heb u geschreven, kinderen, want gij kent de Vader."
+        },
+        {
+          "nr": 14,
+          "tekst": "Ik heb u geschreven, vaders, want gij kent Hem, die van den beginne is. Ik heb u geschreven, jongelingen, want gij zijt sterk en het woord Gods blijft in u en gij hebt de boze overwonnen."
+        },
+        {
+          "nr": 15,
+          "tekst": "Hebt de wereld niet lief en hetgeen in de wereld is. Indien iemand de wereld liefheeft, de liefde des Vaders is niet in hem."
+        },
+        {
+          "nr": 16,
+          "tekst": "Want al wat in de wereld is: de begeerte des vlezes, de begeerte der ogen en een hovaardig leven, is niet uit de Vader, maar uit de wereld."
+        },
+        {
+          "nr": 17,
+          "tekst": "En de wereld gaat voorbij en haar begeren, maar wie de wil van God doet, blijft tot in eeuwigheid."
+        },
+        {
+          "nr": 18,
+          "tekst": "Kinderen, het is de laatste ure; en gelijk gij gehoord hebt, dat er een antichrist komt, zijn er nu ook vele antichristen opgestaan, en daaraan onderkennen wij, dat het de laatste ure is."
+        },
+        {
+          "nr": 19,
+          "tekst": "Zij zijn van ons uitgegaan, maar zij waren uit ons niet; want indien zij uit ons geweest waren, zouden zij bij ons gebleven zijn: maar aan hen moest openbaar worden, dat niet allen uit ons zijn."
+        },
+        {
+          "nr": 20,
+          "tekst": "Gij echter hebt een zalving van de Heilige en gij weet dat allen."
+        },
+        {
+          "nr": 21,
+          "tekst": "Ik heb u niet geschreven, omdat gij de waarheid niet weet, maar omdat gij haar weet en omdat geen leugen uit de waarheid is."
+        },
+        {
+          "nr": 22,
+          "tekst": "Wie is de leugenaar dan wie loochent, dat Jezus de Christus is? Dit is de antichrist, die de Vader en de Zoon loochent."
+        },
+        {
+          "nr": 23,
+          "tekst": "Een ieder, die de Zoon loochent, heeft ook de Vader niet. Wie de Zoon belijdt, heeft ook de Vader."
+        },
+        {
+          "nr": 24,
+          "tekst": "Wat u betreft, wat gij van den beginne gehoord hebt, moet in u blijven. Indien in u blijft, wat gij van den beginne gehoord hebt, dan zult gij ook in de Zoon en [in] de Vader blijven."
+        },
+        {
+          "nr": 25,
+          "tekst": "En dit is de belofte, die Hij zelf ons beloofd heeft: het eeuwige leven."
+        },
+        {
+          "nr": 26,
+          "tekst": "Dit heb ik u geschreven over hen, die u misleiden."
+        },
+        {
+          "nr": 27,
+          "tekst": "En wat u betreft, de zalving, die gij van Hem ontvangen hebt, blijft op u, en gij hebt niet van node, dat iemand u lere; maar, gelijk zijn zalving u leert over alle dingen, en waarachtig is en geen leugen, blijft in Hem, gelijk zij u geleerd heeft."
+        },
+        {
+          "nr": 28,
+          "tekst": "En nu, kinderkens, blijft in Hem, opdat wij, als Hij zal geopenbaard worden, vrijmoedigheid hebben en voor Hem niet beschaamd staan bij zijn komst."
+        },
+        {
+          "nr": 29,
+          "tekst": "Als gij weet, dat Hij rechtvaardig is, erkent dan ook, dat een ieder, die de rechtvaardigheid doet, uit Hem geboren is."
+        }
+      ]
+    },
+    {
+      "nr": 3,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Ziet, welk een liefde ons de Vader heeft gegeven, dat wij kinderen Gods genoemd worden, en wij zijn het (ook). Daarom kent de wereld ons niet, omdat zij Hem niet kent."
+        },
+        {
+          "nr": 2,
+          "tekst": "Geliefden, nu zijn wij kinderen Gods en het is nog niet geopenbaard, wat wij zijn zullen; (maar) wij weten, dat, als Hij zal geopenbaard zijn, wij Hem gelijk zullen wezen; want wij zullen Hem zien, gelijk Hij is."
+        },
+        {
+          "nr": 3,
+          "tekst": "En een ieder, die deze hoop op Hem heeft, reinigt zich, gelijk Hij rein is."
+        },
+        {
+          "nr": 4,
+          "tekst": "Ieder, die de zonde doet, doet ook de wetteloosheid, en de zonde is wetteloosheid."
+        },
+        {
+          "nr": 5,
+          "tekst": "En gij weet, dat Hij geopenbaard is, opdat Hij de zonden zou wegnemen, en in Hem is geen zonde."
+        },
+        {
+          "nr": 6,
+          "tekst": "Een ieder, die in Hem blijft, zondigt niet; een ieder, die zondigt, heeft Hem niet gezien en heeft Hem niet gekend."
+        },
+        {
+          "nr": 7,
+          "tekst": "Kinderkens, laat niemand u misleiden. Wie de rechtvaardigheid doet, is rechtvaardig, gelijk Hij rechtvaardig is;"
+        },
+        {
+          "nr": 8,
+          "tekst": "wie de zonde doet is uit de duivel, want de duivel zondigt van den beginne. Hiertoe is de Zoon van God geopenbaard, opdat Hij de werken des duivels verbreken zou."
+        },
+        {
+          "nr": 9,
+          "tekst": "Een ieder, die uit God geboren is, doet geen zonde; want het zaad (Gods) blijft in hem en hij kan niet zondigen, want hij is uit God geboren."
+        },
+        {
+          "nr": 10,
+          "tekst": "Hieraan zijn de kinderen Gods en de kinderen des duivels kenbaar: een ieder, die de rechtvaardigheid niet doet, is niet uit God, evenmin als wie zijn broeder niet liefheeft."
+        },
+        {
+          "nr": 11,
+          "tekst": "Want dit is de verkondiging, die gij van den beginne gehoord hebt: dat wij elkander zouden liefhebben;"
+        },
+        {
+          "nr": 12,
+          "tekst": "niet gelijk Kaïn: hij was uit de boze en vermoordde zijn broeder. En waarom vermoordde hij hem? Omdat zijn werken boos waren en die van zijn broeder rechtvaardig."
+        },
+        {
+          "nr": 13,
+          "tekst": "Verwondert u niet, broeders, wanneer de wereld u haat."
+        },
+        {
+          "nr": 14,
+          "tekst": "Wij weten, dat wij overgegaan zijn uit de dood in het leven, omdat wij de broeders liefhebben. Wie niet liefheeft, blijft in de dood."
+        },
+        {
+          "nr": 15,
+          "tekst": "Een ieder, die zijn broeder haat, is een mensenmoorder en gij weet, dat geen mensenmoorder eeuwig leven blijvend in zich heeft."
+        },
+        {
+          "nr": 16,
+          "tekst": "Hieraan hebben wij de liefde leren kennen, dat Hij zijn leven voor ons heeft ingezet; ook wij behoren dan voor de broeders ons leven in te zetten."
+        },
+        {
+          "nr": 17,
+          "tekst": "Wie nu in de wereld een bestaan heeft en zijn broeder gebrek ziet lijden, maar zijn binnenste voor hem toesluit, hoe blijft de liefde Gods in hem?"
+        },
+        {
+          "nr": 18,
+          "tekst": "Kinderkens, laten wij liefhebben niet met het woord of met de tong, maar met de daad en in waarheid."
+        },
+        {
+          "nr": 19,
+          "tekst": "Hieraan zullen wij onderkennen, dat wij uit de waarheid zijn en voor Hem ons hart overtuigen,"
+        },
+        {
+          "nr": 20,
+          "tekst": "dat, indien ons hart (ons) veroordeelt, God meerder is dan ons hart en kennis heeft van alle dingen."
+        },
+        {
+          "nr": 21,
+          "tekst": "Geliefden, als ons hart ons niet veroordeelt, hebben wij vrijmoedigheid tegenover God,"
+        },
+        {
+          "nr": 22,
+          "tekst": "en ontvangen wij van Hem al wat wij bidden, daar wij zijn geboden bewaren en doen wat welgevallig is voor zijn aangezicht."
+        },
+        {
+          "nr": 23,
+          "tekst": "En dit is zijn gebod: dat wij geloven in de naam van zijn Zoon Jezus Christus en elkander liefhebben, gelijk Hij ons geboden heeft."
+        },
+        {
+          "nr": 24,
+          "tekst": "En wie zijn geboden bewaart, blijft in Hem en Hij in hem. En hieraan onderkennen wij, dat Hij in ons blijft: aan de Geest, die Hij ons gegeven heeft."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Geliefden, vertrouwt niet iedere geest, maar beproeft de geesten, of zij uit God zijn; want vele valse profeten zijn in de wereld uitgegaan."
+        },
+        {
+          "nr": 2,
+          "tekst": "Hieraan onderkent gij de Geest Gods: iedere geest, die belijdt, dat Jezus Christus in het vlees gekomen is, is uit God;"
+        },
+        {
+          "nr": 3,
+          "tekst": "en iedere geest, die Jezus niet belijdt, is niet uit God. En dit is de geest van de antichrist, waarvan gij gehoord hebt, dat hij komen zal, en hij is nu reeds in de wereld."
+        },
+        {
+          "nr": 4,
+          "tekst": "Gíj zijt uit God, kinderkens, en gij hebt hen overwonnen; want Hij, die in u is, is meerder dan die in de wereld is."
+        },
+        {
+          "nr": 5,
+          "tekst": "Zij zijn uit de wereld; daarom spreken zij uit de wereld en hoort de wereld naar hen."
+        },
+        {
+          "nr": 6,
+          "tekst": "Wij zijn uit God; wie God kent, hoort naar ons; wie uit God niet is, hoort naar ons niet. Hieraan onderkennen wij de Geest der waarheid en de geest der dwaling."
+        },
+        {
+          "nr": 7,
+          "tekst": "Geliefden, laten wij elkander liefhebben, want de liefde is uit God; en een ieder, die liefheeft, is uit God geboren en kent God."
+        },
+        {
+          "nr": 8,
+          "tekst": "Wie niet liefheeft, kent God niet, want God is liefde."
+        },
+        {
+          "nr": 9,
+          "tekst": "Hierin is de liefde Gods jegens ons geopenbaard, dat God zijn eniggeboren Zoon gezonden heeft in de wereld, opdat wij zouden leven door Hem."
+        },
+        {
+          "nr": 10,
+          "tekst": "Hierin is de liefde, niet dat wij God liefgehad hebben, maar dat Hij ons heeft liefgehad en zijn Zoon gezonden heeft als een verzoening voor onze zonden."
+        },
+        {
+          "nr": 11,
+          "tekst": "Geliefden, indien God ons zó heeft liefgehad, behoren ook wij elkander lief te hebben."
+        },
+        {
+          "nr": 12,
+          "tekst": "Niemand heeft ooit God aanschouwd; indien wij elkander liefhebben, blijft God in ons en zijn liefde is in ons volmaakt geworden."
+        },
+        {
+          "nr": 13,
+          "tekst": "Hieraan onderkennen wij, dat wij in Hem blijven en Hij in ons, dat Hij ons van zijn Geest gegeven heeft."
+        },
+        {
+          "nr": 14,
+          "tekst": "En wij hebben aanschouwd en getuigen, dat de Vader de Zoon gezonden heeft als Heiland der wereld."
+        },
+        {
+          "nr": 15,
+          "tekst": "Al wie belijdt, dat Jezus de Zoon van God is – God blijft in hem en hij in God."
+        },
+        {
+          "nr": 16,
+          "tekst": "En wij hebben de liefde onderkend en geloofd, die God jegens ons heeft.God is liefde, en wie in de liefde blijft, blijft in God en God blijft in hem."
+        },
+        {
+          "nr": 17,
+          "tekst": "Hierin is de liefde bij ons volmaakt geworden, dat wij vrijmoedigheid hebben op de dag des oordeels, want gelijk Hij is, zijn ook wij in deze wereld."
+        },
+        {
+          "nr": 18,
+          "tekst": "Er is in de liefde geen vrees, maar de volmaakte liefde drijft de vrees uit; want de vrees houdt verband met straf en wie vreest, is niet volmaakt in de liefde."
+        },
+        {
+          "nr": 19,
+          "tekst": "Wij hebben lief, omdat Hij ons eerst heeft liefgehad."
+        },
+        {
+          "nr": 20,
+          "tekst": "Indien iemand zegt: Ik heb God lief, doch zijn broeder haat, dan is hij een leugenaar; want wie zijn broeder, die hij gezien heeft, niet liefheeft, kan (ook) God, die hij niet gezien heeft, niet liefhebben."
+        },
+        {
+          "nr": 21,
+          "tekst": "En dit gebod hebben wij van Hem: Wie God liefheeft, moet ook zijn broeder liefhebben."
+        }
+      ]
+    },
+    {
+      "nr": 5,
+      "verzen": [
+        {
+          "nr": 1,
+          "tekst": "Een ieder, die gelooft, dat Jezus de Christus is, is uit God geboren; en ieder, die Hèm liefheeft, die deed geboren worden, heeft (ook) degene lief, die uit Hem geboren is."
+        },
+        {
+          "nr": 2,
+          "tekst": "Hieraan onderkennen wij, dat wij de kinderen Gods liefhebben, wanneer wij God liefhebben en zijn geboden doen."
+        },
+        {
+          "nr": 3,
+          "tekst": "Want dit is de liefde Gods, dat wij zijn geboden bewaren. En zijn geboden zijn niet zwaar,"
+        },
+        {
+          "nr": 4,
+          "tekst": "want al wat uit God geboren is, overwint de wereld; en dit is de overwinning, die de wereld overwonnen heeft: ons geloof."
+        },
+        {
+          "nr": 5,
+          "tekst": "Wie is het, die de wereld overwint, dan wie gelooft, dat Jezus de Zoon van God is?"
+        },
+        {
+          "nr": 6,
+          "tekst": "Dit is Hij, die gekomen is door water en bloed, Jezus Christus, niet slechts met water, maar met het water en met het bloed. En de Geest is het, die getuigt, omdat de Geest de waarheid is."
+        },
+        {
+          "nr": 7,
+          "tekst": "Want drie zijn er, die getuigen [in de hemel: de Vader, het Woord, en de heilige Geest; en deze drie zijn één."
+        },
+        {
+          "nr": 8,
+          "tekst": "En drie zijn er, die getuigen op de aarde]: de Geest en het water en het bloed, en de drie zijn tot één."
+        },
+        {
+          "nr": 9,
+          "tekst": "Indien wij het getuigenis der mensen aannemen, het getuigenis van God is meerder, want dit is het getuigenis van God, dat Hij van zijn Zoon getuigd heeft."
+        },
+        {
+          "nr": 10,
+          "tekst": "Wie in de Zoon van God gelooft, heeft het getuigenis in zich; wie God niet gelooft, heeft Hem tot een leugenaar gemaakt, omdat hij niet geloofd heeft in het getuigenis, dat God getuigd heeft van zijn Zoon."
+        },
+        {
+          "nr": 11,
+          "tekst": "En dit is het getuigenis: God heeft ons eeuwig leven gegeven en dit leven is in zijn Zoon."
+        },
+        {
+          "nr": 12,
+          "tekst": "Wie de Zoon heeft, heeft het leven; wie de Zoon van God niet heeft, heeft het leven niet."
+        },
+        {
+          "nr": 13,
+          "tekst": "Dit heb ik u geschreven, die gelooft in de naam van de Zoon Gods, opdat gij weet, dat gij eeuwig leven hebt."
+        },
+        {
+          "nr": 14,
+          "tekst": "En dit is de vrijmoedigheid, die wij tegenover Hem hebben, dat Hij, indien wij iets bidden naar zijn wil, ons verhoort."
+        },
+        {
+          "nr": 15,
+          "tekst": "En indien wij weten, dat Hij ons verhoort, wat wij ook bidden, weten wij, dat wij de beden verkregen hebben, die wij van Hem hebben gebeden."
+        },
+        {
+          "nr": 16,
+          "tekst": "Als iemand zijn broeder ziet zondigen, een zonde niet tot de dood, moet hij bidden en God zal hem het leven geven, hun namelijk, die zondigen niet tot de dood. Er bestaat zonde tot de dood: daarvoor zeg ik niet, dat hij moet vragen."
+        },
+        {
+          "nr": 17,
+          "tekst": "Alle ongerechtigheid is zonde, en er bestaat zonde niet tot de dood."
+        },
+        {
+          "nr": 18,
+          "tekst": "Wij weten, dat een ieder, die uit God geboren is, niet zondigt; want Hij, die uit God geboren werd, bewaart hem, en de boze heeft geen vat op hem."
+        },
+        {
+          "nr": 19,
+          "tekst": "Wij weten, dat wij uit God zijn en de gehele wereld in het boze ligt."
+        },
+        {
+          "nr": 20,
+          "tekst": "Doch wij weten, dat de Zoon van God gekomen is en ons inzicht gegeven heeft om de Waarachtige te kennen; en wij zijn in de Waarachtige, in zijn Zoon Jezus Christus. Dit is de waarachtige God en het eeuwige leven."
+        },
+        {
+          "nr": 21,
+          "tekst": "Kinderkens, wacht u voor de afgoden."
+        }
+      ]
+    }
+  ]
+}

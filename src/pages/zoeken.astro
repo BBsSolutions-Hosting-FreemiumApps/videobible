@@ -1,0 +1,39 @@
+---
+import Basis from '../layouts/Basis.astro';
+import { seo } from '../lib/seo';
+import { boeken } from '../lib/gegevens';
+import { pad } from '../lib/paden';
+---
+<Basis titel={seo.zoeken.titel} beschrijving={seo.zoeken.beschrijving}>
+  <div class="pagina proza">
+    <h1>Zoeken in de Bijbel</h1>
+    <p>Zoek op een woord, een zin of een bijbelverwijzing. De zoekresultaten verwijzen naar de NBG-vertaling 1951.</p>
+    <form id="zoekformulier" class="zoek-balk" action={pad('zoeken')} method="get" role="search">
+      <label class="visueel-verborgen" for="zoek-q">Zoek een woord of typ Joh 3:16</label>
+      <input id="zoek-q" name="q" type="search" placeholder="Zoek een woord of typ Joh 3:16" />
+      <button class="knop" type="submit">Zoeken</button>
+    </form>
+    <div class="filters">
+      <label>Filter op bijbelboek
+        <select name="boek" form="zoekformulier" data-zoek-boek>
+          <option value="">Alle boeken</option>
+          {boeken.map((boek) => <option value={boek.id}>{boek.naam}</option>)}
+        </select>
+      </label>
+      <label>Testament
+        <select name="testament" form="zoekformulier" data-zoek-testament>
+          <option value="">Beide</option>
+          <option value="OT">Oude Testament</option>
+          <option value="NT">Nieuwe Testament</option>
+        </select>
+      </label>
+    </div>
+    <p data-zoek-leeg hidden>Vul een woord, zin of bijbelverwijzing in om te beginnen.</p>
+    <p data-zoek-aantal></p>
+    <div data-zoek-lijst class="resultaten" hidden></div>
+    <p data-zoek-geen hidden>Geen resultaten gevonden. Probeer een ander woord, een kortere zoekterm of een bijbelverwijzing.</p>
+  </div>
+  <script>
+    import '../scripts/zoeken.ts';
+  </script>
+</Basis>
