@@ -1,9 +1,9 @@
 import { defineConfig } from 'astro/config';
 
-// Projectsite op GitHub Pages: https://bbssolutions-hosting-freemiumapps.github.io/videobible/
+// Eigen domein via GitHub Pages (branch main, map /). DNS wordt hier niet gezet.
 export default defineConfig({
-  site: 'https://bbssolutions-hosting-freemiumapps.github.io',
-  base: '/videobible',
+  site: 'https://videobijbel.bbss.to',
+  base: '/',
   trailingSlash: 'always',
   prefetch: false,
   build: {
